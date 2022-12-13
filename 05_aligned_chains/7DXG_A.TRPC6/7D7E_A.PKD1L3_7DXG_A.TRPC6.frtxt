@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7D7E_A.PKD  Size= 451
+Chain 2:7DXG_A.TRP  Size= 372 (TM-score is normalized by  372)
+
+Aligned length= 235, RMSD=  4.34, TM-score=0.48079, ID=0.088
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+--------------------------------------------------------------------------------G--TLVQILFLTLLMTTVYSAKD-SSRFFLHRAIWKRFSHRFSEIKTVEDFYPWANGTLLPNLYGDYRGFITDGNSFLLGNVLIRQTRIPNDIFFPGSLHKQMKSPPQHQEDRENYGAGWVPPDTNITKVDSIWHYQNQESLGGYPIQGELATYSGGGYVVRLGRNHSAATRVLQHLEQRRWLDHCTKALFVEFTVFNANVNLLCAVTLILESSGVGTFLTSLQLDSLTSLQSSERGFAWIVSQVVYYLLVCYYAFIQGCRLKRQRLA-FFTRKRNLLDTSIVLISFSILGLSMQSLSLLHKKMQQYHCDRDRFISFYE-----AL--RVNSAVTHLRGFLLLFATVRVWDLLRHH----AQL--QVINKTLSKAWDEVLGFILIIVVLLSSYAMTFNLLFGWSI-SDY-QSFFRSIVTVVGLL-MGTSKH-KEVIALYPILGSLLVLSSIILMGLVIINLFVS-AIL-IAFG---K-------------------------------
+                                                                                :  .::.::::::.::..::.:. ..                                                                                                                                                                          :     ::                       .::.:::      : :::::::::::::::::::::::::: ::::::::::::::::::::::::::::::::::::: :    :.:::..     ..  ::::::::::::::::::::: ::..::    :::  ::.:...:... :::::::::::::::::::::: ::.:: .:. :::::::::::... :::::: .::..:::::::::::::::.::..:...... :.  ..     .                               
+LSRLKLAIKYEVKKFVAHPNCQQQLLSIWYENLSGLRQQTMAVKFLVVLAVAIGLPFLALIYWFAPCSKMGKIMRGPFMKFVAHAASFTIFLGLLVMNAADRFEGT--------------------------------------------------------------------------------------------------------------------------------------------------------------------------L-----FR-----------------------MKTSCFS------W-MEMLIISWVIGMIWAECKEIWTQGPKEYLFELWNMLDFGMLAIFAASFIARFMAFWHASKAQSI-I----DNVKYYNLARIKWDPSDPQIISEGLYAIAVVLSFSRI-AYILPANESFGPLQISLGRTVKDIFK-FMVIFIMVFVAFMIGMFNLYSY-YIGAKQNEAFTTVEESFKTLFWAIFGLSEVKSVVINYNHKFIENIGYVLYGVYNVTMVIVLLNMLIA-MIN--SSFQDADVEWKFARAKLWFSYFEEGRTLPVPFNLV
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6PUO_A.TRP  Size= 344
+Chain 2:7B0J_A.TRP  Size= 381 (TM-score is normalized by  381)
+
+Aligned length= 300, RMSD=  3.86, TM-score=0.63971, ID=0.197
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+--TCLQLALEAKDMKFVSHGGIQAFLTKVWWGQL-SVD-NGLWRVTLCMLAFPLLLTGLISFREKRLQDVGTP----------------AARARAFFTAPVVVFHLNILSYFAFLCLFAYVLMV--DF---Q--PVPSWCECAIYLWLFSLVCEEMRQLFYDPDECGLMKKAALYFSDFWNKLDVGAILLFVAGLTCRLIP---A-------------TLYPGRVILSLDFILFCLRLMHIFTISK---TLGPKIIIVKRMMKDVFFFLFLLAVWVVSFGVAKQAILIHNERRVD-W--LFR-----GAV--------YHSYLTIFGF-------------PEW---LTV-LLLCLY-LLFTNILLLNLLIAMFNYTFQQVQEHTDQIWKFQRHDLIEEYHGR-PAAPPPFILLSHLQLFIKRVV
+  .::::::::::::::::::::::::::::::: ::: :.::::::::::.                                     .. .....:::::::::::::::::::::::::.:  :.   .  :::::::::::::::::::::::....        .:::::::::::::::::::::::::::::::   :             ::::::::::::::::::::::::::::   :::::::::::::::::::::::::..:..... .:   ..::::. .  ..:     :::        .....::::              .     ..  ...... ....::::::::::::::::::::::::::::::::::::::::: ..:::::::: .::  :  . 
+ELARLKLAIKYRQKEFVAQPNCQQLLASRWYDEFPGWRRRHWAGKLITCVFI---------------------GLMFPLLSLCYLVAPKSR-YGLFIRKPFIKFICHTASYLTFLFLLLLASQHIVSNNPDRQGPKPTTVEWMILPWVLGFIWTEIKQMWD--------GGFQDYIHDWWNLMDFVMNSLYLATISLKIVAYVKYSGCKPRDTWEMWHPTLVAEAVFAIANIFSSLRLISLFTANSHLGPLQISLGRMLLDILKFLFIYCLVLLAFANGLNQ-LY---FYYENSEGMTCKGIRCERQNNAFSTLFETLQSLFWSIFG-LISLYVTNVKADHK--FTEFV-GATMFGTYNVISLVVLLNMLIAMMNNSYQHIADHADIEWKFARTKLWMSYFEEGGTLPPPFNII-PSP--K--S-
+

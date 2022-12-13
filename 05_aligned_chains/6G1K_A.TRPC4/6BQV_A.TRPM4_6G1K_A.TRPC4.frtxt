@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6BQV_A.TRP  Size= 381
+Chain 2:6G1K_A.TRP  Size= 367 (TM-score is normalized by  367)
+
+Aligned length= 317, RMSD=  3.42, TM-score=0.73005, ID=0.208
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+TCLQLAMQA--D-ARAFFAQDGVQSLLTQKWWGDMASTTPIWALVLAFFCPPLIYTRLITFRRC------------LRRWFHFWGAPVTIFMGNVVSYLLFLLLFSRVLLV-DF-Q--PAPPGSLELLLYFWAFTLLCEELRQGLSGSGGPGPGHASLSQRLRLYLADSWNQCDLVALTCFLLGVGCRLTP--G--------------LYHLGRTVLCIDFMVFTVRLLHIFTVNKQLGPKIVIVSKMMKDVFFFLFFLGVWLVAYGVATEGLL-RPRDS--------------DFPSILRRVFYRPYLQIFGQIPQEDMDVALMEHSNCSSEPGFWAHPPGAQAGTCVSQYANWLVVLLLVIFLLVANILLVNLLIAMFSYTFGKVQGNSDLYWKAQRYRLIREFHSRPALAPPFIVISHLRLLLRQLCR
+. :::::::  : :::::::::::::::::::::::  ::.:::::::::....                      .......:::::::::::::::::::::::::... .. .  ::::::::::::::::::::::::::. :            .:.:.:::::::::::::::::::::::::::  .              :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: ::::.              ....:::::::::::::::::::::: :     . :     ::            :::::::::::::::::::::::::::::::::::::::::.:::::::::::::::::.:::::  ::  :          
+E-LARLKLAIKYRQKEFVAQPNCQQLLASRWYDEFP--RHWAGKLITCVFIGLM----------FPLLSLCYLVAPKSRYGLFIRKPFIKFICHTASYLTFLFLLLLASQHIVNPDRQGPKPTTVEWMILPWVLGFIWTEIKQMW-D------------GGFQDYIHDWWNLMDFVMNSLYLATISLKIVAYVKYSGCKPRDTWEMWHPTLVAEAVFAIANIFSSLRLISLFTANSHLGPLQISLGRMLLDILKFLFIYCLVLLAFANGLNQLYFYYENSEGMTCKGIRCERQNNAFSTLFETLQSLFWSIFGLISLYVT-N-----V-K-----AD------------HKFTEFVGATMFGTYNVISLVVLLNMLIAMMNNSYQHIADHADIEWKFARTKLWMSYFETLPPPF--NI--I----------
+

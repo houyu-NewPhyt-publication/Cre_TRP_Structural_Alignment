@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7DXC_A.TRP  Size= 394
+Chain 2:7MIO_A.TRP  Size= 318 (TM-score is normalized by  318)
+
+Aligned length= 282, RMSD=  3.19, TM-score=0.74643, ID=0.134
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+S--LSRVKLAI-KY-E-VKKFVAHPN-CQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGITTLPNITVTDYPKQIFRVKTTQFTW-----------TEMLIMVWVLGMMWSECKELWLEGPREYIL-----QLWNVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVK-DIFKFMVLFIMVFFAFMIGMFILYSYYLGA--KVNAAFTTVEESFKTLFWSIFGLSEVTSVVLKYDHKFIENIGYVLYGIYNVTMV-VVLLNMLIAMINS-SY--DDSDVEWKFARSKLWLSYFDKTLP-------
+:  .::::::: :: : ::::..:.: :::::::::::                                            ::::::::::::::::::::::::.:.   . . .  .        :  :::::::           :::::::::::::::::::::::. .....     ::::::::::::::::::::::::                                           :: ::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::: ::::.  .:::::::::::::::::::::::::: .:::. : : :::::::::::::::: ::::::::::::: ::  .::::::::::::::::::::..        
+TTDNSVLEIIVYNTNIDNRHEMLTLEPLHTLLHTKWKK--------------------------------------------FAKYMFFLSFCFYFFYNITLTLVSYYR---P-R-E--D--------E--DLPHPLALTHKMSWLQLLGRMFVLIWATCISVKEGIAIFLLR-PSDLQSILSDAWFHFVFFVQAVLVILSVFLYLFA-------------------------------------------YK-EYLACLVLAMALGWANMLYYTRGFQSMGMYSVMIQKVILHDVLKFLFVYILFLLGFGVALASLI-EKCSKDKKDCSSYGSFSDAVLELFKLTIGLGDLN-IQQNS-T-Y-PILFLFLLITYVILTFVLLLNMLIALMGETVENVSKESERIWRLQRARTILEFEKMLP-EWLRSRF
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7RQY_A.TRP  Size= 303
+Chain 2:7D7E_A.PKD  Size= 451 (TM-score is normalized by  451)
+
+Aligned length= 211, RMSD=  4.39, TM-score=0.37150, ID=0.115
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+NSVLEVIAYSSSETPNRHDMLLVEPLNRLLQDKWDRFVKRIFYFNFFVYCLYMIIFTAAAYYRPV----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EG-----------------------LPPYKLKN-TVGDYFRVTGEILSVSGGVYFFFRGIQ-YFLQRRPSLKSLFVDSYSEILFFVQSLFMLVSVVLYFSQ--------------------------RKE-YVASMVFSLAMGWTNMLYYTRGFQQMGIYAVMIE-KMILR-DLCRFMFVYLVFLFGFSTAVVTLIED---SYNSLYSTCLELFKFTIGMGDLEFTENYDFKAVFIILLLAYVILTYILLLNMLIALMGETV--NKIAQESKNIWKLQRAITILDTEKSFLKCMRKA---
+                                           :: :::::::::::::::::.:                                                                                                                                                                                  :.                       :...:::: ::::::::::.::.::..:...:.... ..:::.:        ..:.:::..::.::..::.::..:                          ::: ::::::::::::::::::::.::  ::::..:.  ..... ::::::::::::::::::::::::::   :::::::::::::::: :::.::::...:::::::::::::::: ::::....... ..    .                                   
+-------------------------------------------GT-LVQILFLTLLMTTVYSAKDSSRFFLHRAIWKRFSHRFSEIKTVEDFYPWANGTLLPNLYGDYRGFITDGNSFLLGNVLIRQTRIPNDIFFPGSLHKQMKSPPQHQEDRENYGAGWVPPDTNITKVDSIWHYQNQESLGGYPIQGELATYSGGGYVVRLGRNHSAATRVLQHLEQRRWLDHCTKALFVEFTVFNANVNLLCAVTLILESSGVGTFLTSLQLDSLTSLQSSERGFAWIVSQVVYYLLVCYYAFIQGCRLKRQRLAFFT--------RKRNLLDTSIVLISFSILGLSMQSLSLLHKKMQQYHCDRDRFISFYEALRVNSAVTHLRGFLLLFATVRVWDLLRHH--AQLQVINK-TLSKAWDEVLGFILIIVVLLSSYAMTFNLLFGWSISDYQSFFRSIVTVVGLL-MGTSKHKEVIALYPILGSLLVLSSIIL-MGLVIINLFVS-AI--LIA--------------------------------FGK
+

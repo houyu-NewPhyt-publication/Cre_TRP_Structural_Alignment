@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7MIJ_A.TRP  Size= 318
+Chain 2:7SQ6_A.TRP  Size= 467 (TM-score is normalized by  467)
+
+Aligned length= 252, RMSD=  3.76, TM-score=0.46024, ID=0.119
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+TTDNSVLEIIVYNTNIDNRHEMLTLEPLHTLLHTKWKKFAKYMFFLSFCFYFFYNITLTLVSYYR-PR--E--------------------------------------------------------------------------------------------------------------------------------------D--E----DLPHPLALTHK----------------------------------------MSWLQLLGRMFVLIWATCISVKEGIAIFL-LR-P---------------SDLQSILSDAWFHFVFFVQAVLVILSVFLY-L----FAYK--EYLACLVLAMALGWANMLYYTRGFQSMGMYSVMIQKVILHDVLKFLFVYILFLLGFGVALASLIEKCSKDKKDCSSYGSFSDAVLELFKLTIGLGDL-NI-QQ----NST--YPILFLFLLITYVILTFVLLLNMLIALMGETVENVSKESERIWRLQRARTILEFEKMLPEWLRSRF
+   ::::::...       .          .......:....:: .::::::::::::::::::: ::  :                                                                                                                                      :  :    :..                                                : : ...:::::::::::::::::::::. :. .               .....:..:::::::::::::::::::::: :    ::.:  ::::::::::::::::::::::::::::..::::::: ::::::::::::::::::::::::::.:.      .::::::::::::::::::::::: :: ::    :.:  ::::::::::::::::::::::::::::::::::::: .                           
+---DLRRRLKYF-------F----------MSPCDKFRAKGRKP-CKLMLQVVKILVVTVQLILFGLSNQLVVTFREENTIAFRHLFLLGYSDGSDDTFAAYTQEQLYQAIFYAVDQYLILPEISLGRYAYVRGGGGPWANGSALALCQRYYHRGHVDPANDTFDIDPRVVTDCIQVDPPASYKNLTLKFHKLINVTIHFQLKTINLQSLINNEIP--------DCYTFSILITFDNKAHSGRIPIRLETKTHIQECKHPSVSRS-F-RLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVVFMWRRRGREISLWERLEFVNGWYILLVTSDVLTISGTVMKIGIEAKNLASYDVCSILLGTSTLLVWVGVIRYLTFFHKYNILIATLRVA-LPSVMRFCCCVAVIYLGYCFCGWIVLGPY------HVKFRSLSMVSECLFSLINGDDMFVTFAAMQAQQGHSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDTIKH-P---------------------------
+

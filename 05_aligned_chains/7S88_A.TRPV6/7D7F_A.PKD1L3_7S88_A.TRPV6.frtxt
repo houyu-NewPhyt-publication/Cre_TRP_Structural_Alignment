@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7D7F_A.PKD  Size= 446
+Chain 2:7S88_A.TRP  Size= 323 (TM-score is normalized by  323)
+
+Aligned length= 229, RMSD=  4.44, TM-score=0.53106, ID=0.103
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+--------------------------------------------Q-ILFLTLLMTTVYSAKDSSRFFLHRAIWKRFSHRFSEIKTVEDFYPWANGTLLPNLYGDYRGFITDGNSFLLGNVLIRQTRIPNDIFFPGSLHKQMKSPPQHQEDRENYGAGWVPPDTNITKVDSIWHYQNQESLGGYPIQGELATYSGGGYVVRLGRNHSAATRVLQHLEQRRWLDHCTKALFVEFTVFNANVNLLCAVTLILESSGVGTFLTSLQLDSLT---SLQSSERGFAWIVSQVVYYLLVCYYAFIQGCRLKRQRL--AFFTRK----RNLLDTSIVLISFSILGLSMQSLSLLHKKMQQYHCDRDRFISFYEALRVNSAVTHLRGFLLLFATVRVWDLLRHH--AQLQV-INKTLSKAWDEVLGFILIIVVLLSSYAMTFNLLFGWSIS---D-YQSFFRSIVTVVGL--LMGTSKHKEVIALYPILGSLLVLSSIIL-MGLVIINLFVS-AILI--AFG---------------------------
+                                            : ::::::::::::::::...                                                                                                                                                                               :.::::::.        .......:::   :::..::...:::::::::::::::::::.::::::::  ::::::    ::::::::::::::::::::::                          : :::::::::::::::::::::::.:  ::::. :..... .. ::.::::::::::::::::::::::::::   : ::::::::::::::  ::::::::...:::: :::::::::::: ::......... ..    .                             
+DEQSLLELIITTKKREARQILDQTPVKELVSLKWKRYGRPYFCMLGAIYLLYIICFTMCCIYRPL-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------KPRTNNRTS--------PRDNTLLQQKLLQEAYMTPKDDIRLVGELVTVIGAIIILLVEVPDIFRMGVTRFFGQTILGGPFHVLIITYAFMVLVTMVMRLIS--------------------------A-SGEVVPMSFALVLGWCNVMYFARGFQMLGPFTIMIQKMI-FG-DLMRFCWLMAVVILGFASAFYIIFQTEDPEELGHFYDYPMALFSTFELFLTIIDGPANYNVDLPF-MYSITYAAFAIIATLLMLNLLIAMMGD--THW--RVAHERDELWRAQIVATTVMLERKLPR
+

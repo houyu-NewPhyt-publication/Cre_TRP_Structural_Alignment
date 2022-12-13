@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6DRJ_A.TRP  Size= 397
+Chain 2:7MZ9_A.TRP  Size= 304 (TM-score is normalized by  304)
+
+Aligned length= 266, RMSD=  4.66, TM-score=0.65041, ID=0.104
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+--TC-LW--L-ALEAHDKSFIAHSGVQALLTQIWCGELSVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMIDF-----QTSP---------SWRELLLYVWLTSLVCEEIRQLYHDFDGSGFRRKAKM-YIK--DLWNILDVLSIVLFIAGLICRLQASDTVFYIGKVILCIDFIIFCLRLMAIF---------SISRTLGPKIIIVRRMMLDLFFFMFLLSIWVVAYGVAKQGILIENEERLNWIIRGAVYEPYITIF--GNFPTNIDNTLFDISSCSVNASDPLKPKCPMLNADNTPVFPEWLTIMMLCVYLLFANILLLNLLIAIFNYTFQEVQDNTDT-IWKFQRYELIKEYHSRPALPPPFILLSHLILFIRGVFL---
+  .. .:  . ..:::.. .. . .:..::::::::.:                                                       .  ::::::::::::::::::::::::::::     .::.         ::::::::::::::::::::::. ..       :.:. .:.  ::::::::::::::::::::::: :  : ::::::::::::::::::::::         ::.... .......::::::::::::::::::. ::  :      .   .:.:....:..:...:  ... ......                .  .         .   .: ....::::::::::::::::::::::::::::::: ::::::::::::::::...    .  :. ..          
+NSVLEVIAYSSSETPNRH-DM-L-LVEPLNRLLQDKWD-------------------------------------------------------R--FVKRIFYFNFFVYCLYMIIFTAAAYYRPVEGLPPYKLKNTVGDYFRVTGEILSVSGGVYFFFRGIQYFL-QR-------RPSLKSLFVDSYSEILFFVQSLFMLVSVVLYFS-Q--R-KEYVASMVFSLAMGWTNMLYYTRGFQQMGIYAVMIEK-MILRDLCRFMFVYLVFLFGFSTAVVT-LI--E------D---GKYNSLYSTCLELFKFTIGMG-DLEFTE----------------N--Y---------D---FK-AVFIILLLAYVILTYILLLNMLIALMGETVNKIAQESKNIWKLQRAITILDTEKS----F--LK-CM-------RKA
+

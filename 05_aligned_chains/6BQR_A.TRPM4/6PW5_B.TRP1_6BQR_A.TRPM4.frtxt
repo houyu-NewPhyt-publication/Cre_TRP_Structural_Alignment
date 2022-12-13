@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6PW5_B.TRP  Size= 340
+Chain 2:6BQR_A.TRP  Size= 374 (TM-score is normalized by  374)
+
+Aligned length= 279, RMSD=  3.72, TM-score=0.60496, ID=0.158
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+PVGYALATFDKAFLSHKFVQQIFTEKWDTMGVTDYTKSLFGVVWGGCSLVVAFAAWATICPLVVVARSFLSPVQDFMM----------RGKVIV---DSRFP-WHVPLYRWLLTQCALITFTVLLSYLVFSFDPSDPVPASVAPLNTFLAVWCAAILVDEVQEYVEE----G-RAEYMSSGWNVMDVTMALSYILHYILRIIAVRVTDNLNILLVVNDLLAAAALMAWFRMVSVFELSSAIGPLIQMMKQMLIKDVTRFALLVLVILLGFSVGMEALFQEACIERDPTT--------------------------------------NEC-T-KYT-----SWFEQ---KRVTGVIFYLIFAIVTAILL-LNLFIAMLADTYTRVST-Q--AMVEFRYRKAKLMASYSRRD------------------------
+ ::..::...:::::::::::::::::::::.::::.    :: :::::::..                                   .        .:.:: .::::::::::::::::::::::::::::.:  .:  ::::::::::::::::::::::::.::    . ....::.: :::::::::::::::::::::   :    :::::::::::::::::::::..:::::::::::::::::: ::::::::::::::::::::::::::..                                              .:: : :..     ::      .: .:::::::::::::::: ::::::::::::::::. :  .::.::::::::::::::::                        
+-LQLAMQADARAFFAQDGVQSLLTQKWWGDMASTTPI----WA-LVLAFFCPP-------------------------LIYTRLITFRR-----RCLRRWFHFWGAPVTIFMGNVVSYLLFLLLFSRVLLVDFQ--PA--PPGSLELLLYFWAFTLLCEELRQGLSGSLSQRLRLYLADSW-NQCDLVALTCFLLGVGCRLTP---G----LYHLGRTVLCIDFMVFTVRLLHIFTVNKQLGPKIVIVSKMM-KDVFFFLFFLGVWLVAYGVATEGLLRPR--------DSDFPSILRRVFYRPYLQIFGQIPQEDMDVALMEHSNCSSEPGFWAHPPGAQAG---TCVSQ-YANWLVVLLLVIFLLVANILLVNLLIAMFSYTFGKVQGNSDLYWKAQRYRLIREFHSRPALAPPFIVISHLRLLLRQLCRRPR
+

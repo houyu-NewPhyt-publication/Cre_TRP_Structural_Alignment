@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:5VKQ_A.NOM  Size= 386
+Chain 2:6BBJ_A.TRP  Size= 294 (TM-score is normalized by  294)
+
+Aligned length= 249, RMSD=  5.78, TM-score=0.55547, ID=0.125
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+SDSAGKILQATDKRNVEFLDVLI-ENEQKEVIAHTVV--QRYLQELWHGSLTWASWKILLLLVAFIVCPPVWIGFTFPMGHKFNKVPIIKFMSYLTSHIYLMIHLSIVGITPIYPVL-----RL-SLVPYWYEVGLLIWLS-GLLLF--ELTNP---SD-KSG--LG--------S--IKV-LVLL--LGM-AGVGVHVSAFLFVSKEY-WPTLVYCRNQCFALAFLLACVQILDF-LSFH--HL-FGPWAIIIGDLLKDLARFLAVLAIFVFGFSMHI-VALNQSFANFSPEDLRSFEKKNRNR-GYFSDVRMHPINSFELLFFAVFGQTTTEQTQVDKIKNVATPTQPYWVEYLFKIVFGIYMLVSVVVLIQLLIAMMSDTYQRIQ---A-QSD-IEWKFGLSKLIRNMHRTTTAPSPLNLVTTWF-MW
+               :: ::::: ::::..::...:.  ..:..::.::                                   ::::::::::::::::::::::::  :: :::.     .. ::::...:..:....  ..     .       .. :::  ..        .  ..  ..    ..  ..  .             .......................... ...:  :. .:::::::::::..:..::..::. .:...:.  ..                        .::. . .:::::::::::::::::  .:....             .: :::::::::::::: :::::::::::::::::.   : ..: ::::::::::::::::::.             . 
+---------------SV-LEILVYNSKVENRHEMLAVEPINELLRDKWQ-----------------------------------KFGAVSFYISVVSYLIAMIIFTLI--AY-YRPMDGTPPYPYRTTMDYMRLAGEIVT-LLT---GVV----FFITNIKDLFMVNSLFIDGSFQLLYF-IYS--VLVI-ITA--V------------LYLVGIESYLAVMVFALVLGWMNALYFTRGLKLTGTYSIMLQKILFKDLFRFLLVYLLFMI-GYASALV-SLL-----------------------NPCRD-S-STFSKFLLDLFKLTIGMG--DLEMIN-------------SA-KYPAVFIILLVTYI-ILTFVLLLNMLIALMGETVGQVSKESKQIWKLQWATTILDIERSFP------------VC-
+

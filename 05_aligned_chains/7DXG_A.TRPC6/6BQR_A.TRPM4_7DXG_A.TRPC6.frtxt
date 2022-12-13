@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6BQR_A.TRP  Size= 374
+Chain 2:7DXG_A.TRP  Size= 372 (TM-score is normalized by  372)
+
+Aligned length= 312, RMSD=  3.59, TM-score=0.68876, ID=0.156
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+LQLAMQA--D-ARAFFAQDGVQSLLTQKWWG-DMA-STTPIWALVLAFFCPPLIYTRLITFRRRC----------------LRRWFHFWGAPVTIFMGNVVSYLLFLLLFSRVLLVD------F-QPAPPGSLELLLYFWAFTLLCEELRQGLSGSLSQRLRLYLADSWNQCDLVALTCFLLGVGCRLTP---------------------------GLYHLGRTVLCIDFMVFTVRLLHIFTVNKQLGPKIVIVSKMMKDVFFFLFFLGVWLVAYGVATEGLL-RPRDS---DFPSILRRVFYRPYLQIFGQIPQEDMDVALMEHSNCSSEPGFWAHPPGAQAGTCVSQYANWLVVLLLVIFLLVANILLVNLLIAMFSYTFGKVQGNSDLYWKAQRYRLIREFH-SRPALAPPFIVISHLRLLLRQLCRRPR
+:::::::  : :::::::::::::::::::: ::: :::::::::::::..                              .: ......:::::::::::::::::::::::....      . .:::::::::::::::::::::::::::..    :::::::::::::::::::::::::::::::                           .:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::. .:::.   ...::::::::::::::::::::::::.     .  .    :             :::::::::::::::::::: :::::::::::::::.  : ..::::::::::::::: :...:::: ::  .:            
+LSRLKLAIKYEVKKFVAHPNCQQQLLSIWYENLSGLRQQTMAVKFLVVLAV--------------AIGLPFLALIYWFAPCSK-MGKIMRGPFMKFVAHAASFTIFLGLLVMNAADRFEGTLFRMKTSCFSWMEMLIISWVIGMIWAECKEIWTQ----GPKEYLFELWNMLDFGMLAIFAASFIARFMAFWHASKAQSIIDNVKYYNLARIKWDPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVKDIFKFMVIFIMVFVAFMIGMFNLYSYYIGAKQNEAFTTVEESFKTLFWAIFGLSEVKSVVI-----N--Y----N-------------HKFIENIGYVLYGVYNVTMV-IVLLNMLIAMINSSFQ--D-ADVEWKFARAKLWFSYFEEGRTLPVP-FN--LV------------
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:5WPV_A.TRP  Size= 454
+Chain 2:6PW4_B.TRP  Size= 269 (TM-score is normalized by  269)
+
+Aligned length= 217, RMSD=  3.74, TM-score=0.64440, ID=0.135
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+EED-LRRR--L------------KYF--FMSP-CDKFRA-------KGR----KP--CKLMLQVVKILVVTVQLILFGLSNQLVVTFREENTIAFRHLFLLGYSDGSDDTFAAYTQEQLYQAIFYAVDQYLILPEISLGRYAYVRALALCQRYYHRGHVDPANDTFDIDPRVVTDCIQVDPPSASYKNLTLKFHKLINVTIHFQLKTINLQSLINNEIPDCYTFSILITFDNKAHSGRIPIRLETKTHIQECKSFRLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVVFMWRRRGREISLWERLEFVNGWYILLVTSDVLTISGTVMKIGIEAKNL-A--SYDVCSILLGTSTLLVWVGVIRYLTFFHKYNILIATLRVA-LPSVMRFCCCVAVIYLGYCFCGWIVLGPYHVKFRSLSMVSECLFSLINGDDMFVTFAAMQAQQGHSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDTIKHP-----------------
+..  ..    .            .    ...  .:..:.       .::    ::  .:::::::::::::::::::  :.  .                                                                                                                                    ..                               ..  ...::::::::::::::::::::::::::  .                   ::...:::::::::::::::::::::::: ::.. :  :::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::: :::                                  :   : ::::::::::::::::: ::::::::::::::::::..                 
+SE-PVG--YALATFDKAFLSHKFV--QQIFT-EKWDTMGVTDYTKSFPWHVPLYRWLLTQCALITFTVLLSYLVFSF--DP--S------------------------------------------------------------------------------------------------------------------------------------DP-------------------------------VP--ASVAPLNTFLAVWCAAILVDEVQEYVEEG--R-------------------AEYMSSGWNVMDVTMALSYILHYILRIIA-VRVTDNLNILLVVNDLLAAAALMAWFRMVSVFELSSAIGPLIQMMKQMLIKDVTRFALLVLVILLGFSVGMEA-LFQ----------------------------------V---T-GVIFYLIFAIVTAILLL-NLFIAMLADTYTRVSTQAMVEFRYRKAKLMASYSRRD
+

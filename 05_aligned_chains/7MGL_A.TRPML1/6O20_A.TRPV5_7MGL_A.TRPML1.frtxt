@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6O20_A.TRP  Size= 323
+Chain 2:7MGL_A.TRP  Size= 472 (TM-score is normalized by  472)
+
+Aligned length= 274, RMSD=  4.31, TM-score=0.47560, ID=0.164
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+ELSFLELVVSSKKREARQILEQTPVKE-LVSFKWKKYGRPYFCVLASLYILYMICFTTCCIYRPL-K--LR--------------------------------------------------------------------------------------------------------------------------------------------------DDNRTDPR--------DITILQQKLLQEA--YV--T-HQDNIRLVGELVTVTGAVIILLLEIPDIFRVG--A-----------------SRYFGQTILGGPFHVIIITYASLVLLTMVMR-L----TNMN--GEVVPLSFALVLGWCSVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFHITFQTEDPNNLGEFSDYPTALFSTFELFLTIIDG-PANYS-VDL------PF-MYCITYAAFAIIATLLMLNLFIAMMGDTHWRVAQERDELWRAQVVATTVMLERKMPRF
+ ..:::::...        .     .  .:..:..... ....:..::::::::::::::::::. :  ::                                                                                                                                                  ::......        .............  ..  . ....::::::::::::::::::::::::::::  .                 ....::  . ::::::::::::::::::::: :    .:.:  :::::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::::::::   : ::::::::::::::: :.::: ::.:. .:.      :: ::::::::::::::::::::::::::::::::::                        
+-DLRRRLKYFF--------M-----S-PCDKFRAKGRK-PCKLMLQVVKILVVTVQLILFGLSNQLAVTFREENTIAFRHLFLLGYSDGADDTFAAYTREQLYQAIFHAVDQYLALPDVSLGRYAYVRGGGDPWTNGSGLALCQRYYHRGHVDPANDTFDIDPMVVTDCIQVDPPERSSYKNLTLKFHKLVNVTIHFRLKTINLQSLINNEIPDCYTFSVLITFDNKAHSGRIPISLETQAHIQECKHPSVFQHGDNSFRLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVGFMWRQRGRVISLWERLEF--V-NGWYILLVTSDVLTISGTIMKIGIEAKNLASYDVCSILLGTSTLLVWVGVIRYLTFFHNYNILIATLRVAL-PSVMRFCCCVAVIYLGYCFCGWIVLGPYHV---K-FRSLSMVSECLFSLI-NGDDMFVTFAAMQAQQGRSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDTIKH------------------------
+

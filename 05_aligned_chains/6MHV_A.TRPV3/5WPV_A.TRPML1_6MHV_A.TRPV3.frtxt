@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:5WPV_A.TRP  Size= 454
+Chain 2:6MHV_A.TRP  Size= 292 (TM-score is normalized by  292)
+
+Aligned length= 239, RMSD=  3.41, TM-score=0.67558, ID=0.126
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+-EEDLRRRLKYFF---------------M-SPCDKFRAKGRKPCKLMLQVVKILVVTVQLILFGLSNQLVVTFREENTIAFRHLFLLGYSDGSDDTFAAYTQEQLYQAIFYAVDQYLILPEISLGRYAYVRALALCQRYYHRGHVDPANDTFDIDPRVVTDCIQVDPPSASYKNLTLKFHKLINVTIHFQLKTINLQSLINNEIPDCYTFSILITFDNKAHSGRIPIRLETKTHIQECKSFRLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVVFMWRRRGREISLWERLEFVNGWYILLVTSDVLTISGTVMKIGIEAKNLASYDVCSILLGTSTLLVWVGVIRYLTFFHKYNILIAT-LRVALPSVMRFCCCVAVIYLGYCFCGWIVLGPY------HVKFRSLSMVSECLFSLINGDDMFVTFAAMQAQQGHSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYD-TIKHP----------------------------
+ ..::::::....               . ....:::::...: ..::::::::::::::::::::                                                                                                                                        .                                    :::::::::::::::::::::::::: ::                       .  .:::::::::::::::::::::::    :  :: ::::::::::::::::::::::::::::::::: ::..::::::::::::::::::::::::::::.      .::::::::::::::::::::::: ::  :  :.:.   ::::::::::::::::: ::::::::::::::: :::..                            
+TTDNSVLEITVYNTNIDNRHEMLTLEPLHTLLHMKWKKFAKHM-FFLSFCFYFFYNITLTLVSYYR----------------------------------------------------------------------------------------------------------------------------------------G------------------------------------WLQLLGRMFVLIWAMCISVKEGIAIF-LL-----------------------S--DAWFHFVFFIQAVLVILSVFLYLF----A--YK-EYLACLVLAMALGWANMLYYTRGFQSMGMYSVMIQKVILHDVLKFLFVYIVFLLGFGVALASLIEKCPKDNKDCSSYGSFSDAVLELFKLTIGLGDL-NI--Q--QNSK---YPILFLFLLITYVILTF-VLLLNMLIALMGETVENVSKESERIWRLQRARTILEFEKMLPEWLRSRF
+

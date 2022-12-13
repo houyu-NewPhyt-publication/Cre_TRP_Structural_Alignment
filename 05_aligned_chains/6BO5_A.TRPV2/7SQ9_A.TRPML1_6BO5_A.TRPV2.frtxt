@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7SQ9_A.TRP  Size= 469
+Chain 2:6BO5_A.TRP  Size= 296 (TM-score is normalized by  296)
+
+Aligned length= 233, RMSD=  4.38, TM-score=0.59770, ID=0.130
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+-DLRRRLKYFF----------M-----SP--CDKFRAKGR-KP-CKLMLQVVKILVVTVQLILFGLSNQLVVTFREENTIAFRHLFLLGYSDGSDDTFAAYTQEQLYQAIFYAVDQYLILPEISLGRYAYVRGGGGPWANGSALALCQRYYHRGHVDPANDTFDIDPRVVTDCIQVDPPDRASYKNLTLKFHKLINVTIHFQLKTINLQ--SLINNEIPDCYTFSILITFDNKAHSGRIPIRLETKTHIQECKHPSVSR---HF-RLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVVFMWRRRGREISLWERLEFVNGWYILLVTSDVLTISGTVMKIGIEAKNLASYDVCSILLGTSTLLVWVGVIRYLTF----FHKYNILIATLRVALPSVMRFCCCVAVIYLGYCFCGWIVLGPYHVKFRSLSMVSECLFSLINGDDMFVTFAAMQAQQGHSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDTIK--HP-------------------------------
+ ...:::....          .     .   ....:.... .: ..::::::::::::::::::  : :::.                                                                                                                                           ...::.                                             .: :::::::::::::::::::::::::::. ..              .... .:  ::::::::::::::::::.:: :    .: :: :::::::::::::::::::::..    :::::::::::::::.::..::..:..::..::::            .: :..::. :: .::::  ::: ::   ::    :  ::::::::::::: :::::::::::::::::::  :.                               
+EKNSVLEIIAFHCKSPNRHRMVVLEPLN-KLLQEKWDRLVSRFFFNFACYLVYMFIFTVVAYHQ--P-SLDQ-----------------------------------------------------------------------------------------------------------------------------------------PAIPSSKA------------------------------------------TFGESMLLLGHILILLGGIYLLLGQLWYFWRRRL-FI--------------WISF-MD--SYFEILFLLQALLTVLSQVLR-F----ME-TE-WYLPLLVLSLVLGWLNLLYYTRGFQHTGIYSVMIQKVILRDLLRFLLVYLVFLFGFAVALVS------------DA-SLELFK-FT-IGMGE--LAF-QE---QL----R--FRGVVLLLLLAYV-LLTYVLLLNMLIALMSETVNHVADNSWSIWKLQKAISVLEMENGYWWCRRKKHR
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7LPC_A.TRP  Size= 305
+Chain 2:6E7P_A.TRP  Size= 475 (TM-score is normalized by  475)
+
+Aligned length= 258, RMSD=  3.88, TM-score=0.45805, ID=0.136
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+--NSVLEVIAYSSSETPNRHDMLLVEPLNRLLQDKWDR-FVKRIFYFNFFVYCLYMIIFTAAAYYRPV-E------------------------------------------------------------------------------------------------------------------------------------------------------------------------------GLPPYK-----LKNTVGDYFRVTGEILSVSGGVYFFFRGIQYFLQRRP-S----------------LK-SLFVDSYSEILFFVQSLFMLVSVVLY-F---S-Q-RK-EYVASMVFSLAMGWTNMLYYTRGFQQMGIYAVMIEKMILRDLCRFMFVYLVFLFGFSTAVVTLIEDG-NSYNSLYSTCLELFKFTIGMGDLEF--TE-NY---D--FKAVFIILLLAYVILTYILLLNMLIALMGETVNKIAQESKNIWKLQRAITILDTEKSFLKCMRKA
+  .::::::.:.          .     .  ...::.. .......::.::::::::::::::::::. :                                                                                                                                                                              ......     .::.: ::::::::::::::::::::::::::::::. .                .. :....::::::::::::::::::.:: :   . : :: ::::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::::::. :.:::::::::::::::::::::::  :: ..   .  ::::::::::::::::::::::::::::::::::::.                            
+EEDLRRRLKYFF----------M-----S--PCDKFRAKGRKPCKLMLQVVKILVVTVQLILFGLSNQLAVTFREENTIAFRHLFLLGYSDGADDTFAAYTREQLYQAIFHAVDQYLALPDVSLGRYAYVRGGGDPWTNGSGLALCQRYYHRGHVDPANDTFDIDPMVVTDCIQVDPPERPSSYKNLTLKFHKLVNVTIHFRLKTINLQSLINNEIPDCYTFSVLITFDNKAHSGRIPISLETQAHIQECKHPSVFQHGD-NSFRLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVGFMWRQRGRVISLWERLEFVNGWYILLVTSDVLTISGTIMKIGIEAKNLASYDVCSILLGTSTLLVWVGVIRYLTFFHNYNILIATLRVA-LPSVMRFCCCVAVIYLGYCFCGWIVLGPYHVKFRSLSMVSECLFSLINGDDMFVTFAAMQAQQGRSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDTIKH----------------------------
+

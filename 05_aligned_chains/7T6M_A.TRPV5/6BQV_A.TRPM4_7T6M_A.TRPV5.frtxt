@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6BQV_A.TRP  Size= 381
+Chain 2:7T6M_A.TRP  Size= 323 (TM-score is normalized by  323)
+
+Aligned length= 276, RMSD=  3.29, TM-score=0.72863, ID=0.165
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+TCLQLAMQA--D----ARAFFAQDGVQSLLTQKWWGDMASTTPIWALVLAFFCPPLIYTRLITFRRCLRRWFHFWGAPVTIFMGNVVSYLLFLLLFSRVLLVDFQ------------------P----AP----PGSLELLLYFWAFTLLCEELRQGLSGSGGPGPGHASLSQRLRLYLAD------S-WNQCDLVALTCFLLGVGCRLTPGLYHLGRTVLCIDFMVFTVRLLHIFTVNKQLGPKIVIVSKMM-KDVFFFLFFLGVWLVAYGVATEGLL-RPRDS--DF-PSILRRVFYRPYLQ--IFGQIPQEDMDVALMEHSNCSSEPGFWAHPPGAQAGTCVSQYANWLVVLLLVIFLLVANILLVNLLIAMFSYTFGKVQGNSDLYWKAQRYRLIREFHSRPALAPPFIVISHLR-LLLRQLCR
+. .::::::  :    ::::::...::.::::::::                                        :::::::::::::::::::::::::::::                  :    ::    .::::::::::::::::::::::: :           .::.::..::      : :::::::::::::::::::::: :: :::::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::: :::..  .  .:::::::::::::  ::::::::     :::           .            .  ::::::::::::::::::::::::::::::::::::...::::::::::::::::::.             .       
+E-LSFLELVVSSKKREARQILEQTPVKELVSFKWKK----------------------------------------YGRPYFCVLASLYILYMICFTTCCIYRPLKLRDDNRTDPRDITILQQKLLQEAYVTHQDNIRLVGELVTVTGAVIILLLEIP-D-----------IFRVGASRYFGQTILGGPFHVIIITYASLVLLTMVMRLTN-MN-GEVVPLSFALVLGWCSVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFHITFQTEDPNNLG-EFSDYPTALFSTFELFLTIIDGPAN-----YSV-----------D------------L--PFMYCITYAAFAIIATLLMLNLFIAMMGDTHWRVAQERDELWRAQVVATTVMLERKMP------------RF-------
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6DRJ_A.TRP  Size= 397
+Chain 2:3J5P_A.TRP  Size= 299 (TM-score is normalized by  299)
+
+Aligned length= 259, RMSD=  4.57, TM-score=0.64753, ID=0.102
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+--TC-LW--LAL-EAHDKSFIAHSGVQALLTQIWCGELSVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMIDF-----QTSP---------SWRELLLYVWLTSLVCEEIRQLYHDFDGSGFRRKAKMYIKDLWNILDVLSIVLFIAGLICRLQASDTVFYIGKVILCIDFIIFCLRLMAIF---------SISR-TLGPKIIIVRRMMLDLFFFMFLLSIWVVAYGVAKQGILIENEERLNWIIRG-AVYEPYITI----FGNFPTNIDNTLFDISSCSVNASDPLKPKCPMLNADNTPVFPEWLTIMMLCVYLLFANILLLNLLIAIFNYTFQEVQDNTDT-IWKFQRYELIKEYHSRPALPPPFILLSHLILFIRGVFL----
+  :. .:  ... .:... .. . .:..::::::::.:                                                       .  ::::::::::::::::::::::::::::     .::.         ::::::::::::::::::::::...        : :: .:::::::::::::::::::::::: :  : ::::::::::::::::::::::         ::.  .. .......::::::::::::::::::. ::  .         ..:.:.. .:...:...    ::.   ....                 .  .         .   .. ....::.:::::::::::::::::::::::::::: ::::::::::::::::..     .  .   .. .        
+NSVLEVIAYSSSETPNRH-DM-L-LVEPLNRLLQDKWD-------------------------------------------------------R--FVKRIFYFNFFVYCLYMIIFTAAAYYRPVEGLPPYKLKNTVGDYFRVTGEILSVSGGVYFFFRGIQYFLQR--------R-PS-VDSYSEILFFVQSLFMLVSVVLYFS-Q--R-KEYVASMVFSLAMGWTNMLYYTRGFQQMGIYAVM-IEK-MILRDLCRFMFVYLVFLFGFSTAVVT-LI--E---------DGKYNSLYSTCLELFKFTIGMGDL---EFTE-----------------N--Y---------D---FK-AVFIILLLAYVILTYILLLNMLIALMGETVNKIAQESKNIWKLQRAITILDTEK-----S--F---LK-C----MRKA
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6X2J_A.TRP  Size= 291
+Chain 2:6CO7_A.TRP  Size= 405 (TM-score is normalized by  405)
+
+Aligned length= 267, RMSD=  4.00, TM-score=0.53734, ID=0.154
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+---LTALNAM---VQNNRIELLNHPVCKEYLLMKWLA------------------------------------------------------------------------YGFRAHMMNLGSYCLGLIPMTILVVNIKPGMAFN----STGIINNSYLIKTCMILVFLSSIFGYCK-E------------------ISNVLEWIIYTTGIIFVLPLFVEI--PAHLQWQCGAIAVYFYWMNFLLYLQRFENCGIFIVMLEVILKTLLRSTVVFIFLLLAFGLSFYILLN-----LQDP---FSSPLLSIIQTFSMMLGDINYRESFLEPYL-----RNELAHPVLSFAQLVSFTIFVPIVLMNLLIGLAVGDIADVQKHASLKRIAMQVELHTSLEKKLPLWFLRKVD----------------------
+   .:....    .::... .:   ...:::::::::                                                                        ::::.:..........:::::::::::.  ::..    :::.   ::::::::::: ::.::..:: .                  ::::::::::::::::::....:.  :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::     ...    .::::::::::::::::::::::::.:.       ...::::::::::::::::::::::::::::::::::::::::.:::::::::.:: ::....                               
+RMTALELAV-SAESQDFIA-HT---SCQVLLTRLWMGTMAMNTRWWKVLVCLYLPVLIFPIIYFVPDEQHERQAAEREHQKSLNQDDSMEVIMRNKKLGFCDRIMHFYSAPFSKFVGNVVGYLAFIFLYAYVVLFNF--PRFDPAKTLGGI---HPTEIVLYFWV-FTILIEEIRQLAAKPPKYIKDKVSVYFSDTWNFVDIFSLTVFIIAIILRFFTNSRIFTASRIILSLDIIFFIVRSLQIFSVNRLLGPKLVMIQKMMQDLAQFIIILAVFTIAYGIALHAVMFPSPGIYAR-NNTWVTITSVVQYPYWQMYGELFLDEIQGEK--PKEFGEVDPDGRWLSPLLLAIYMVFTNILLLNLLIAIFNYTFERVQEDSDKVWKFQRYDLV-QEYHSR---------PVFAPPLVLLGHILIFIRWVWR
+

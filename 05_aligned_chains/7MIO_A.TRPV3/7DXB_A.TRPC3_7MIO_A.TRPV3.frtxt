@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7DXB_A.TRP  Size= 401
+Chain 2:7MIO_A.TRP  Size= 318 (TM-score is normalized by  318)
+
+Aligned length= 287, RMSD=  3.26, TM-score=0.75764, ID=0.125
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+AS-LSRVKLAI-K-YE-VKKFVAHPN-CQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGITTLPNITVTDYPKQIFRVKTTQF--T--------W-TEMLIMVWVLGMMWSECKELWLEGPREYIL-----QLWNVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVKDI-FKFMVLFIMVFFAFMIGMFILYSYYLGA--KVNAAFTTVEESFKTLFWSIFGLSEVTSVVLKYDHKFIENIGYVLYGIYNVTMV-VVLLNMLIAMINSSYQEIEDDSDVEWKFARSKLWLSYFDDGKTLP------
+:. .::::::: : :: ::::..:.: :::::::::::                                            ::::::::::::::::::::::::.:.   . . .  :        :  :::::  :        : ::::::::::::::::::::: :.......     ::::::::::::::::::::::::                                           :: ::::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::: ::::.  ..:.::::::::::::::::::::::: .:::. : : :::::::::::::::: ::::::::::::... :..::::::::::::::::::::::..        
+TTDNSVLEIIVYNTNIDNRHEMLTLEPLHTLLHTKWKK--------------------------------------------FAKYMFFLSFCFYFFYNITLTLVSYYR---P-R-E--D--------E--DLPHPLALTHKMSWLQLLGRMFVLIWATCISVKEGIAIF-LLRPSDLQSILSDAWFHFVFFVQAVLVILSVFLYLFA-------------------------------------------YK-EYLACLVLAMALGWANMLYYTRGFQSMGMYSVMIQKVILHDVLKFLFVYILFLLGFGVALASLI-EKCSKDKKDCSSYGSFSDAVLELFKLTIGLGDLN-IQQNS-T-Y-PILFLFLLITYVILTFVLLLNMLIALMGETVE-NVSKESERIWRLQRARTILEFEKMLPE--WLRSRF
+

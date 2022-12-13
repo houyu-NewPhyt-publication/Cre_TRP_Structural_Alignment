@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6CO7_A.TRP  Size= 405
+Chain 2:5Z96_A.TRP  Size= 375 (TM-score is normalized by  375)
+
+Aligned length= 332, RMSD=  3.45, TM-score=0.75405, ID=0.211
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+RMTALELAVSAESQDFIAHTSCQVLLTRLWMGTMAMN--T----RWWKVLVCLYLPV-LIFPIIYFVPDEQHERQAAEREHQKSLNQ---DDSMEVIMRNKKLGF----CDRIMHFYSAPFSKFVGNVVGYLAFIFLYAYVVLFNFPRFDPAKTLGGIHPTEIVLYFWVFTILIEEIRQLAAKPPKYIKDKVSVYFSDTWNFVDIFSLTVFIIAIILRFFT---N------S---RIFTASRIILSLDIIFFIVRSLQIFSVNRLLGPKLVMIQKMMQDLAQFIIILAVFTIAYGIALHAVMFPSPGIYARNN-------------T-WVTITSVVQYPYWQMYGELFLDEIQGEKPKEFGEVDPDGRWLSPLLLAIYMVFTNILLLNLLIAIFNYTFERVQEDSDKVWKFQRYDLVQEYHS-RPVFAPPLVLLGHILIFIRWVWR--
+..:::::::::::::::::::::::::::::::::::  .    ::::::::....  ..                              .                  ...::::::::::::::::::::::::::::::.::..:::     :.::::::::::::::::::::::::::       :::::::::::::::::::::::::::::::   :      :   :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: :.:   :::..             . ..:::::::::::::::::::::::.  .    ..::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: .......:......           
+DLARLKLAIKYRQKEFVAQPNCQQLLASRWYDEFPGWRRRHWAVKMVTCFIIGLLF-PVF---------------------------SVCY--------------LIAPKSPLGLFIRKPFIKFICHTASYLTFLFLLLLASQHIDNRQG-----PPPTIVEWMILPWVLGFIWGEIKQMWDG-------GLQDYIHDWWNLMDFVMNSLYLATISLKIVAFVKYSNPRESWDMWHPTLVAEALFAIANIFSSLRLISLFTANSHLGPLQISLGRMLLDILKFLFIYCLVLLAFANGLNQL-YFY---YEETKGLSCKGIRCEKQNNAFSTLFETLQSLFWSIFGLINLYVTNV--K----AQHEFTEFVGATMFGTYNVISLVVLLNMLIAMMNNSYQLIADHADIEWKFARTKLWMSYFEEGGTLPTPFNVIPSP---------KS
+

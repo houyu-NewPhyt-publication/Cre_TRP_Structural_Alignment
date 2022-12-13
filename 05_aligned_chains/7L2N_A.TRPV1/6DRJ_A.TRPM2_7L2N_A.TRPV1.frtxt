@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6DRJ_A.TRP  Size= 397
+Chain 2:7L2N_A.TRP  Size= 303 (TM-score is normalized by  303)
+
+Aligned length= 264, RMSD=  4.59, TM-score=0.65019, ID=0.105
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+--TC-LW--LALEAHDKSFIAHSGVQALLTQIWCGELSVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMIDF-----QTSP---------SWRELLLYVWLTSLVCEEIRQLYHDFDGSGFRRKAKMY-IK---DLWNILDVLSIVLFIAGLICRLQASDTVFYIGKVILCIDFIIFCLRLMAI-F--------SISRTLGPKIIIVRRMMLDLFFFMFLLSIWVVAYGVAKQGILIENEERLNWIIRGAVYEPYI-TI---FGNFPTNIDNTLFDISSCSVNASDPLKPKCPMLNADNTPVFPEWLTIMMLCVYLLFANILLLNLLIAIFNYTFQEVQDNTDT-IWKFQRYELIKEYHSRPALPPPFILLSHLILFIRGVFL--
+  :. .:  ...::::. .:.. ::..::::::::.:                                                       :  ::::::::::::::::::::::::::::     .::.         :::::::::::::::::::::.. .        :::.. .:   ::::::::::::::::::::::: :  : ::::::::::::::::::::: :        ::.... ....:::::::::::::::::::::. ::  :      :    :.:....:..:. ..   ::..  :...                 .  .         .   .. ....:..:::::::::::::::::::::::::::: ::::::::::::::::...    .  :  .:  ..     
+NSVLEVIAYSSSETPNR-HDML-LVEPLNRLLQDKWD-------------------------------------------------------R--FVKRIFYFNFFVYCLYMIIFTAAAYYRPVEGLPPYKLKNTVGDYFRVTGEILSVSGGVYFFFRGIQYFL-Q--------RRPSLKSLFVDSYSEILFFVQSLFMLVSVVLYFS-Q--R-KEYVASMVFSLAMGWTNMLYYTRGFQQMGIYAVMIEK-MILRDLCRFMFVYLVFLFGFSTAVVT-LI--E------D----SYNSLYSTCLELFKFTIGMGDL--EFTE-----------------N--Y---------D---FK-AVFIILLLAYVILTYILLLNMLIALMGETVNKIAQESKNIWKLQRAITILDTEKS----F--L--KC--MR---KA
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6O1N_A.TRP  Size= 323
+Chain 2:7SQ7_A.TRP  Size= 463 (TM-score is normalized by  463)
+
+Aligned length= 271, RMSD=  4.02, TM-score=0.49083, ID=0.165
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+ELSFLELVVSSKKREARQILEQTPVKE-LVSFKWKKYGRPYFCVLASLYILYMICFTTCCIYRP-LK--LR--------------------------------------------------------------------------------------------------------------------------------------------------DDNRTDPR--------DITILQQKLLQEAYVTHQD-NIRLVGELVTVTGAVIILLLEIPDIFRVG--A----------------SRYFGQTILGGPFHVIIITYASLVLLTMVMR-L----TNMN-G-EVVPLSFALVLGWCSVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFHITFQTEDPNNLGEFSDYPTALFSTFELFLTIIDG-PANY-SVDLP-----F-MYCITYAAFAIIATLLMLNLFIAMMGDTHWRVAQERDELWRAQVVATTVMLERKMPRF
+.:.:.::...      .  .        .:..:. ...........:::::::::::::::::: .:  ::                                                                                                                                                  ::::....        .........:..  .     :::::::::::::::::::::::::::::  .                ....::  ..::::::::::::::::::::: :    .:.: : ::::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::::::    :::::::::::::::::::::::: :::. .::::     : ::::::::::::::::::::::::::::::::::.                       
+DLRRRLKYFF------M--S-------PCDKFRA-KGRKPCKLMLQVVKILVVTVQLILFGLSNQLVVTFREENTIAFRHLFLLGYSDGSDDTFAAYTQEQLYQAIFYAVDQYLILPEISLGRYAYVRGGGGPWANGSALALCQRYYHRGHVDPANDTFDIDPRVVTDCIQVDPPDRASYKNLTLKFHKLINVTIHFQLKTINLQSLINNEIPDCYTFSILITFDNKAHSGRIPIRLETKTHIQE--C----KSFRLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVVFMWRRRGREISLWERLE--FVNGWYILLVTSDVLTISGTVMKIGIEAKNLASYDVCSILLGTSTLLVWVGVIRYLTFFHKYNILIATLRVAL-PSVMRFCCCVAVIYLGYCFCGWIVLGPY----HVKFRSLSMVSECLFSLINGDDMFVTFAAMQAQQGHSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDTIKHP-----------------------
+

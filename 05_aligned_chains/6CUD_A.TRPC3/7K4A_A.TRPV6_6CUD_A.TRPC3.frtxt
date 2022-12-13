@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7K4A_A.TRP  Size= 314
+Chain 2:6CUD_A.TRP  Size= 396 (TM-score is normalized by  396)
+
+Aligned length= 284, RMSD=  3.34, TM-score=0.61917, ID=0.123
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+DEQSLLELIITTKKREARQILDQTPVKELVSLKWK------R--------------------------------------YGRPYFCMLGAIYLLYIICFTMCCIYR---P-LKPRTNNRTSPRDNTLLQQKL---------LQEAYMTPKDDIRLVGELVTVIGAIIILLVEVPDIFRMG-VT--R-PFHVLIITYAFMVLVTMVMRLIS-------------------------------------------AS-GEVVPMSFALVLGWCNVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFYIIFQTE-DPEELGHFYDYPMALFSTFELFLTIIDGPAN-YNV-D-L--PFMYSITYAAFAIIATLLMLNLLIAMMGDTHWRVAH-ERDELWRAQIVATTVMLERKLPR
+...::::::: : :: ::::::::::::::::::.      :                                      ::::::::::::::::::::::::...   . ..::.                         .:::..   ..  :::::::::::::::::::::::::: ::  : :::::::::::::::::::::::                                           :: ::::::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::::: :..:::::::::::::::::: ::::::::. ... . .  ::::::::::::::: ::::::::::::::.....: :::::::::::::::::::  : 
+ASLSRVKLAI-K-YE-VKKFVAHPNCQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGITTLPNI----------------TVTDYPKQIFRVKTT---QF--TWTEMLIMVWVLGMMWSECKELWLEGPREYILQLWNVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVK-DIFKFMVLFIMVFFAFMIGMFILYSYYLGAKVNAAFTTVEESFKTLFWS-IFGLSEVTSVVLKYDHKFIENIGYVLYGIYNVTM-VVVLLNMLIAMINSSYQEIEDDSDVEWKFARSKLWLSYFD--D-
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6A70_B.PKD  Size= 404
+Chain 2:6E7P_A.TRP  Size= 475 (TM-score is normalized by  475)
+
+Aligned length= 338, RMSD=  4.92, TM-score=0.55314, ID=0.097
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+A-----K---E-----EARKVKRLHGMLRSLLVYMLFLLVTLLASYGDASCHGHAYRLQSAIKQELHSR-AF--L----A--ITR--S--EE-LWPWMAHVLLPYVHGNQSSPELGPPRLRQVVGWESPHNGSGTW-AYSAPDLLGAWSWGSCAVYDSG----------------------------GYVQELGLSLEESRDRLRFLQLHNWLDNRSRAVFL-ELTRYSPAV------GLHAAVTLR-LEFPAAG---RALAALSVRPFALRR---L-SAG-LSLPLLTSVCLLLFAVHFAVAEARTWHREGR------------------W--RV--LRLGAWARWLLVALTAATALVRLAQLGAADRQWTRFVRGRPRRFTSFDQVAQLSSAARGLAASLLFLLLVKAAQQLRFVRQWSVFGKTLCRALPELLGVTLGLVVLGVAYAQLAILL-VSSH----LSPLLCVGLWALRLW------------------------------------G--ALRLGAVILRWRYHALRGELYRP
+      .   .     ..:.::......::: :::::::::::::::.:: :::...:::::::::::. .:  :    :  :..  .  .. ::::::..:..:::..:: ::..:......  .       ..  .                                                 ......:::...  :  ::..............:: ::::::::.      :....:::: :.:.::.   :..:.::........   . ... .::::::::::::::::::::.:::::.::.                  .  ..  ..::.::::::::::::::::::::::::                    : :::.:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: ::.     .::::::::::::::                                    :  ::::::::::::::::::     
+-EEDLRRRLKYFFMSPCDKFRAKGRKPCKLM-LQVVKILVVTVQLILFGL-SNQLAVTFREENTIAFRHLFLLGYSDGADDTFAAYTREQLYQAIFHAVDQYLALPDVSLG-RYAYVRGGGDP--W-------TN-GS---------------------GLALCQRYYHRGHVDPANDTFDIDPMVVTDCIQVDPPERP--S--SYKNLTLKFHKLVNVTIHFRLKTINLQSLINNEIPDCYTFSVLITFDNKAHSGRIPISLETQAHIQECKHPSVFQHGDNSFRLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVGFMWRQRGRVISLWERLEFVNGWYILLVTSDVLTISGTIMKIGIEAKN--------------------L-ASYDVCSILLGTSTLLVWVGVIRYLTFFHNYNILIATLRVALPSVMRFCCCVAVIYLGYCFCGWIVLGPY-HVKFRSLSMVSECLFSLINGDDMFVTFAAMQAQQGRSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDTIKH-----
+

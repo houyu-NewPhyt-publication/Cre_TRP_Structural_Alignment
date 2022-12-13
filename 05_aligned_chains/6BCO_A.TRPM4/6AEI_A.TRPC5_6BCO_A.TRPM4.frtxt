@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6AEI_A.TRP  Size= 361
+Chain 2:6BCO_A.TRP  Size= 369 (TM-score is normalized by  369)
+
+Aligned length= 305, RMSD=  3.59, TM-score=0.68344, ID=0.198
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+D-LAKLKVAIKYHQKEFVAQPNCQQLLATLWYDGFPGWRRKHWVVKLLTCMTIGFLFPMLSIAYLISPR-------------SNLGLFIKKPFIKFICHTASYLTFLFMLLLA-SQHVQGPPPTVVEWMILPWVLGFIWGEIKEMWD---GGFTEYIHDWWNLMDFAMNSLYLATISLKIVAYVKYNGSRPREEWEMWHPTLIAEALFAISNILSSLRLISLFTANSHLGPLQISLGRMLLDILKFLFIYCLVLLAFANGLNQLYFYYETRAIDEPNNCKGIRCEKQNNAFSTLFETLQSLFWSVFGLLNLYVTN----------------VK--------ARHEFTEFVGATMFGTYNVISLVVLLNMLIAMMNNSYQLIADHADIEWKFARTKLWMSYFDE----------------------
+. .::::::  : :::::::::::::::::::: ::: ::::::::::::::.                             ........::::::::::::::::::::::: ::...:::::::::::::::::::::::::::.   :::..:::: :::::::::::::::::::::  : .             :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::. .:::..                .. :::.:::::::::::::::::::.                .:        :::::.:::::::::::::::::::::::::::::::::::::.:::::::::::::::::.                      
+TCLQLAMQA--D-ARAFFAQDGVQSLLTQKWWG-EMD-STTPIWALLLAFFCP----------------PLIYTNLIVFRKSKRWSDFWGAPVTAFLGNVVSYLLFLLLFAHVLLVDFQPTKPSVSELLLYFWAFTLLCEELRQGLGLRHRLHLYLSDT-WNQCDLLALTCFLLGVGCRLT--P-G-------------LFDLGRTVLCLDFMIFTLRLLHIFTVNKQLGPKIVIVSKMMKDVFFFLFFLCVWLVAYGVATEGIL-RPQDRS----------------LP-SILRRVFYRPYLQIFGQIPQEEMDVALMIPGNCSMERGSWAHPEGPVAGSCVSQYANWLVVLLLIVFLLVANILLLNLLIAMFSYTFSKVHGNSDLYWKAQRYSLIREFHSRPALAPPLIIISHVRLLIKWLRR
+

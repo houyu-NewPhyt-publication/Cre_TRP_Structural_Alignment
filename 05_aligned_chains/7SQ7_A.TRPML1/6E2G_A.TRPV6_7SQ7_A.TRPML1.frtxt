@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6E2G_A.TRP  Size= 323
+Chain 2:7SQ7_A.TRP  Size= 463 (TM-score is normalized by  463)
+
+Aligned length= 270, RMSD=  4.11, TM-score=0.48597, ID=0.139
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+DDQSLLELIVTTKKREARQILDQTPVKE-LVSLKWKR-YGRPYFCVLGAIYVLYIICFTMCCVYRP--L--KPR-------------------------------------------------------------------------------------------------------------------------------------------------ITNRTNP---------RD-NTLLQQKLLQEAYVTPKDDLRLVGELVSIVGAVIILLVEIPDIFRLGVTR----------------FF-GQTILGGPFHVIIVTYAFMVLVTMVMR-L-----TNSDGE-VVPMSFALVLGWCNVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFYIIFQTEDPDELGHFYDYPMALFSTFELFLTIIDG-PANY-DVDL------PFMYSITYAAFAIIATLLMLNLLIAMMGDTHWRVAHERDELWRAQVVATTVMLERKLPR
+  .::::::...     .  .        .:..:.   ..........::::::::::::::::::  :  .:.                                                                                                                                                 :::....         .  ...... .: :...    :::::::::::::::::::::::::::.:...                .. .:: ..::::::::::::::::::::: :     :::.:: ::::::::::::::::::::::.::::::::::::: ::::::::::::::::::::::::::::    :::::::::::::::::::::::. :::. .:::      :::::::::::::::::::::::::::::::::::..                      
+--DLRRRLKYFF-----M--S-------PCDKFRA--KGRKPCKLMLQVVKILVVTVQLILFGLSNQLVVTFREENTIAFRHLFLLGYSDGSDDTFAAYTQEQLYQAIFYAVDQYLILPEISLGRYAYVRGGGGPWANGSALALCQRYYHRGHVDPANDTFDIDPRVVTDCIQVDPPDRASYKNLTLKFHKLINVTIHFQLKTINLQSLINNEIPDCYTFSILITFDNKAHSGRIP-IRLETKT-HI-QECK----SFRLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVVFMWRRRGREISLWERLE-FVNGWYILLVTSDVLTISGTVMKIGIEAKNLASYDVCSILLGTSTLLVWVGVIRYLTFFHKYNILIATLRVAL-PSVMRFCCCVAVIYLGYCFCGWIVLGPY----HVKFRSLSMVSECLFSLINGDDMFVTFAAMQAQQGHSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDTIKHP----------------------
+

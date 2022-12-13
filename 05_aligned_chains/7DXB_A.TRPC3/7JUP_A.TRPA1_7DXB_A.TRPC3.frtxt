@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7JUP_A.TRP  Size= 291
+Chain 2:7DXB_A.TRP  Size= 401 (TM-score is normalized by  401)
+
+Aligned length= 268, RMSD=  4.00, TM-score=0.55024, ID=0.141
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+L-TALN--AM---VQNNRIELLNHPVCKEYLLMKWLA--------------------------------------------YGFRAHMMNLGSYCLGLIPMTILVVNI--KP--GM--AFNST---------GIINN-SYLIKTCMILVFLSSIFGYCKE---------------ISNVLEWIIYTTGIIFVL-PLFVEI-----------------------------------------PAHLQWQCGAIAVYFYWMNFLLYLQRFENCGIFIVMLEVILKTLLRSTVVFIFLLLAFGLSFYILLN-L---Q--DPFSSPLLSIIQTFSMMLGDINYRESFLEPYLRNELAHPVLSFAQLVSFTIFVPIVLMNLLIGLAVGDIA-DVQKHASLKRIAMQVELHTSLEKKLPLW-FLRKVD--
+. ...:  .    .:.:....:   ......::::::                                            :::::::::::::::::::::::::::  ..  ..  .             ..:.  .  .::::::::::::::::::               :::::::::::::::::. ....:.                                         ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: :   :  ::::::::::::::::::::.:: :::  :...:.:::::::::::::::::: ::::::::::::::.. :..::::::::::::::::::: ::.   .       
+ASLSRVKLA-IKYEVKKFVAHP---NCQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGITTLPNIT----VTDYPKQIFRVKT-TQ--FTWTEMLIMVWVLGMMWSECKELWLEGPREYILQLWNVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVKDIFKFMVLFIMVFFAFMIGMFILYSYYLGAKVNAAFTTVEESFKTLFWSIFGLSEV-TSV--VLKYDHKFIENIGYVLYGIYNVTM-VVVLLNMLIAMINSSYQEIEDDSDVEWKFARSKLWLSYF-DDG--KT-----LP
+

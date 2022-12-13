@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6DRJ_A.TRP  Size= 397
+Chain 2:7MIK_A.TRP  Size= 318 (TM-score is normalized by  318)
+
+Aligned length= 267, RMSD=  4.57, TM-score=0.63793, ID=0.112
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+-----TC-LWLALE-AHDKSFIAHSG-VQALLTQIWCGELSVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMIDF------QTS-PS--------W-RELLLYVWLTSLVCEEIRQLYHDFDGSGFRRKAKMY---IK---DLWNILDVLSIVLFIAGLICRLQASDTVFYIGKVILCIDFIIFCLRLMAIF------S--ISRTLG--PKI-IIVRRMMLDLFFFMFLLSIWVVAYGVAKQGILIENEERLNWIIRGAV-YEPYIT-IFG-NFPTNIDNTLFDISSCSVNASDPLKPKCPMLNADNTPVFPEWLTIMMLCVYLLFANILLLNLLIAIFNYTFQEVQDNTD-TIWKFQRYELIKEYHSRPALPPPFILLSHLILFIRGVFL------
+     :. .:.... :::..:....: .::::::::::                                                            :::::::::::::::::::::::::::.      ::. ::        : ::::::::::::::::....         . :::..   ..   ::::::::::::::::::::::: :  : ::::::::::::::::::::::      .  ..      ..  .:. ..:..:::::::::::::::::: :: ....... .....::: ::.::. .:. ...:::.:.                   ..        .   .: ::::::::::::::::::::.::::::::::::: :::::::::::::::::..     .  .  ..             
+TTDNSVLEIIVYNTNIDNRHEMLTLEPLHTLLHTKWKK------------------------------------------------------------FAKYMFFLSFCFYFFYNITLTLVSYYRPREDEDLPHPLALTHKMSWLQLLGRMFVLIWATCISVKEGIAI---------F-LLRPSDLQSILSDAWFHFVFFVQAVLVILSVFLYLF-A--Y-KEYLACLVLAMALGWANMLYYTRGFQSMGMYSV----MIQK-VILH-DVLKFLFVYILFLLGFGVALASL-IE-KCSKDKK-DCSSYGSFSDAVLELFKLTIGLGDLNIQQ-------------------NS--------T---YP-ILFLFLLITYVILTFVLLLNMLIALMGETVENVSKESERIWRLQRARTILEFEK-----M--L--PE-------WLRSRF
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7D4P_A.TRP  Size= 363
+Chain 2:6BQR_A.TRP  Size= 374 (TM-score is normalized by  374)
+
+Aligned length= 307, RMSD=  3.28, TM-score=0.70144, ID=0.201
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+DLAKLKVAIKYHQKEFVAQPNCQQLLATLWYDGFPGWRRKHWVVKLLTCMTIG-FLFPMLSIAYLISPR-----------SN-LGLFIKKPFIKFICHTASYLTFLFMLLLA-SQDLHVQGPPPTVVEWMILPWVLGFIWGEIKEMWDG----GFTEYIHDWWNLMDFAMNSLYLATISLKIVAYVKYNGSRPREEWEMWHPTLIAEALFAISNILSSLRLISLFTANSHLGPLQISLGRMLLDILKFLFIYCLVLLAFANGLNQLYFYYETRAIDEPNNCKGIRCEKQNNAFSTLFETLQSLFWSVFGLLNLYVTNV-------K-----AR------------HEFTEFVGATMFGTYNVISLVVLLNMLIAMMNNSYQLIADHADIEWKFARTKLWMSYFDE-------------------------
+ :::::::  : :::::::::::::::::::::: ::: ::::::::::::.  ..                        .. ......::::::::::::::::::::::: ::.. . :::::::::::::::::::::::::::::    :::::::::::::::::::::::::::::::  :              :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: ::::.                 ....:::::::::::::::::::::::.       .     ::            :::::::::::::::::::::::::::::::::::::::::.:::::::::::::::::.                         
+-LQLAMQA--D-ARAFFAQDGVQSLLTQKWWGDM-AST-TPIWALVLAFFCP-PLI-------------YTRLITFRRRCLRRWFHFWGAPVTIFMGNVVSYLLFLLLFSRVLLVDF-Q-PAPPGSLELLLYFWAFTLLCEELRQGLSGSLSQRLRLYLADSWNQCDLVALTCFLLGVGCRLTP--G--------------LYHLGRTVLCIDFMVFTVRLLHIFTVNKQLGPKIVIVSKMMKDVFFFLFFLGVWLVAYGVATEGLL-RPRDS-----------------DFPSILRRVFYRPYLQIFGQIPQEDMDVALMEHSNCSSEPGFWAHPPGAQAGTCVSQYANWLVVLLLVIFLLVANILLVNLLIAMFSYTFGKVQGNSDLYWKAQRYRLIREFHSRPALAPPFIVISHLRLLLRQLCRRPR
+

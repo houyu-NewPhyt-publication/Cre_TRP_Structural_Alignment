@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6E2G_A.TRP  Size= 323
+Chain 2:6UZA_A.TRP  Size= 396 (TM-score is normalized by  396)
+
+Aligned length= 289, RMSD=  3.28, TM-score=0.63204, ID=0.121
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+DDQSLLELIVTTKKREARQILDQTPVKELVSLKWK------R--------------------------------------YGRPYFCVLGAIYVLYIICFTMCCVYR---P-LKPRITNRTNPRDNTLLQQK--------LLQEAYVTPKDDLRLVGELVSIVGAVIILLVEIPDIFRLGVTRFFGQTILGGPFHVIIVTYAFMVLVTMVMRLTN----------------------------------SD-GEVVPMSFALVLGWCNVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFYIIFQTE-DPDELGHFYDYPMALFSTFELFLTIIDGPAN-YDV-D-L--PFMYSITYAAFAIIATLLMLNLLIAMMGDTHWRV-AHERDELWRAQVVATTVMLER-KLPR--------
+  .::::::: : :: ::::::..::::::::::.      :                                      .....::.:::::::::::::::....   . ..:...                      .: ::..   .  .:::::::::::::::::::::::::::::::::     :::::::::::::::::::::::                                  :: :::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::::: :.::::::::::::::::::: ::::::::. ... . .  :::::::::::::::: ::::::::::::::::: .:::::::::::::::::::: :..         
+--LSRLKLAI-K-YE-VKKFVAHPNCQQQLLSIWYENLSGLRQQTMAVKFLVVLAVAIGLPFLALIYWFAPCSKMGKIMRGPFMKFVAHAASFTIFLGLLVMNAADRFEGTKLLPNET--------------STDNAKQLFR-MKTS---C--FSWMEMLIISWVIGMIWAECKEIWTQGPKEYLFE-----LWNMLDFGMLAIFAASFIARFMAFWHASKAQSIIDKVTLGDNVKYYNLARIKWDPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTV-KDIFKFMVIFIMVFVAFMIGMFNLYSYYIGAKQNEAFTTVEESFKTLFWA-IFGLSEVKSVVINYNHKFIENIGYVLYGVYNVTMV-IVLLNMLIAMINSSFQEIEDDADVEWKFARAKLWFSYFEEGRT-LPVPFNLV
+

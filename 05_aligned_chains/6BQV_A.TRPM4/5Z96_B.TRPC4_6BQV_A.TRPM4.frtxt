@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:5Z96_B.TRP  Size= 370
+Chain 2:6BQV_A.TRP  Size= 381 (TM-score is normalized by  381)
+
+Aligned length= 318, RMSD=  3.42, TM-score=0.70328, ID=0.207
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+D-LARLKLAIKYRQKEFVAQPNCQQLLASRWYDEFPGWRRRHWAVKMVTCFIIG-LLFPVFSVCYLIAPK----------SP-LGLFIRKPFIKFICHTASYLTFLFLLLLASQHIDNRQGPPPTIVEWMILPWVLGFIWGEIKQMW-D-------------GGLQDYIHDWWNLMDFVMNSLYLATISLKIVAFVKYSNPRESWDMWHPTLVAEALFAIANIFSSLRLISLFTANSHLGPLQISLGRMLLDILKFLFIYCLVLLAFANGLNQLYFYYEETKGLSCKGIRCEKQNNAFSTLFETLQSLFWSIFGLINLYVTNV-------KA----Q-------------HEFTEFVGATMFGTYNVISLVVLLNMLIAMMNNSYQLIADHADIEWKFARTKLWMSYFEEGGTLPTP-FN--VI---------
+. .::::::  : :::::::::::::::::::::: : ::::::::::::::.  ..                       .: ....:::::::::::::::::::::::::..:... :::: ::::::::::::::::::::::: :             :.:..:::: ::::::::::::::::::::::   .           ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  ::::.             ....::::::::::::::::::::::..       ::    :             :::::::::::::::::::::::::::::::::::::::::.:::::::::::::::::. ..:::: ::  ..         
+TCLQLAMQA--D-ARAFFAQDGVQSLLTQKWWGDM-A-STTPIWALVLAFFCP-PLI-------------YTRLITFRRCLRRWFHFWGAPVTIFMGNVVSYLLFLLLFSRVLLVDFQ-PAPP-GSLELLLYFWAFTLLCEELRQGLSGSGGPGPGHASLSQRLRLYLADS-WNQCDLVALTCFLLGVGCRLTP---G-----------LYHLGRTVLCIDFMVFTVRLLHIFTVNKQLGPKIVIVSKMMKDVFFFLFFLGVWLVAYGVATEGLL--RPRDS-------------DFPSILRRVFYRPYLQIFGQIPQEDMDVALMEHSNCSSEPGFWAHPPGAQAGTCVSQYANWLVVLLLVIFLLVANILLVNLLIAMFSYTFGKVQGNSDLYWKAQRYRLIREFHSR-PALAPPFIVISHLRLLLRQLCR
+

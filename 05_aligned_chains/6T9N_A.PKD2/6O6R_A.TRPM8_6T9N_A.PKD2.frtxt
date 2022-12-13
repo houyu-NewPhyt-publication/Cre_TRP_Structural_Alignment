@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6O6R_A.TRP  Size= 303
+Chain 2:6T9N_A.PKD  Size= 480 (TM-score is normalized by  480)
+
+Aligned length= 216, RMSD=  3.72, TM-score=0.38285, ID=0.138
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+NCLELAVEARDQQFIAQPGVQNFLSKQWYGEISRDTKNWKIIMCLFFFPLIGCGFISFRFLYYVSFFTSPFVVFSWNVIFYIAFLLLFAYVLLMDF------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------QK-E--------PTALEIILYVLVFVLLCDEVRQWYMNGSKYFSDLWNVMDTLAIFYFIAGIVFRL-H--S-------------------DESSWYSGRVIFCLDYIVFTLRLIHIFTVSRNLGPK-IIMLQRMMIDVFFFLFLFAVWMVAFGVARQGILRKNEHRWE----WIFRSVIYEPYLA-M-F---------FPEWITIPLVCIYMLS-TNILLVNLLVAMFGYTVG-NNDQVWKFQRFFLVQEYCSRLT-----
+                           ::                                       ::::::::::::::::::::::::::..                                                                                                                                                                                                                  :: .        .::::::::::::::::::::::::::::::::::::::::::::::::::::: :  :                   ::::::::::::::::::::::: ::::::::...: .::::::::::::::::::::::::::::::::::.         .......:.::.. . .         :::..::.:::::::: ::::::::::::::::.. .:.....                    
+---------------------------RE---------------------------------------KYLKSVLRELVTYLLFLIVLCILTYGMMSSNVYYYTRMMSQLFLDTPVSKTEKTNFKTLSSMEDFWKFTEGSLLDGLYWKMQNRSFIFYENLLLGVPRIRQLRVRNGSCSIPQDLRDEIKECYDVYSVSSEDRAPFGPRNGTAWIYTSEKDLNGSSHWGIIATYSGAGYYLDLSRTREETAAQVASLKKNVWLDRGTRATFIDFSVYNANINLFCVVRLLVEFPATGGVIPSWQFQPLKLIRYVTTFDFFLAACEIIFCFFIFYYVVEEILEIRIHKLHYFRSFWNCLDVVIVVLSVVAIGINIYRTSNVEVLLQFLEDQNTFPNFEHLAYWQIQFNNIAAVTVFFVWIKL-FKFINFNRTMSQLSTTMSRCAKDLFGFAIMFFIIFLAYAQLAYLVFGTQ-----VDDFSTFQECIFTQFRIILGDINFAEIEEANRVLGPIYFTTFVFFMFFILLNMFLAIINDTYSEVKSDLAQQK---------------AEMEL
+

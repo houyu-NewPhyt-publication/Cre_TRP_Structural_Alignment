@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6DRJ_A.TRP  Size= 397
+Chain 2:7RQU_A.TRP  Size= 306 (TM-score is normalized by  306)
+
+Aligned length= 270, RMSD=  4.70, TM-score=0.65221, ID=0.099
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+-TCL-WLA-L-E--AHDKSFIAHSGVQALLTQIWCGELSVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMIDFQ-----TSP-----SWR-ELLLYVWLTSLVCEEIRQLYHDFDGSGFRRKAKMYI--K---DLWNILDVLSIVLFIAGLICRLQASDTVFYIGKVILCIDFIIFCLRLMAIF---------SISR-TLGPKIIIVRRMMLDLFFFMFLLSIWVVAYGVAKQGILIENEERLNWIIRGAVYEPYITIF-GNFPTNIDNTLFDISSCSVNASDPLKPKCPMLNADNTPVFPEWLTIMMLCVYLLFANILLLNLLIAIFNYTFQEVQD-NTDTIWKFQRYELIKEYHSRPALPPPFILLSHLILFIRGVFL--
+ ... ::. . :  ::..........::::::::::                                                            ::::::::::::::::::::::::::::.     ::.     ::: ::::::.::..::..:.... .     .. ::::..  :   ::::::::::::::::::::::: :  : ::::::::::::::::::::::         ::.  .  ....:.  :::.::::::::::::::::::::.  :  . . ..::...:...:..:. ... .::...                  ..         .   .: ::::::::::::::::::::::::::::::: ::::::::::::::::::::...       .  ... ..     
+NSVLEVIAYSSSETPNRHDMLLVEPLNRLLQDKWDR------------------------------------------------------------FVKRIFYFNFFVYCLYMIIFTAAAYYRPVEGLPPYKLKNTVGDYFRVTGEILSVSGGVYFFFRGIQ-Y-----FL-QRRPSLKSLFVDSYSEILFFVQSLFMLVSVVLYFS-Q--R-KEYVASMVFSLAMGWTNMLYYTRGFQQMGIYAVM-IE--KMILRD--LCRFMFVYLVFLFGFSTAVVTLIED--G--G-N-SYNSLYSTCLELFKFTIGMG-DLEFTE------------------NY---------D---FK-AVFIILLLAYVILTYILLLNMLIALMGETVNKIAQESKNIWKLQRAITILDTEKS-------F--LKC-MR---KA
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7MGL_A.TRP  Size= 472
+Chain 2:6X2J_A.TRP  Size= 291 (TM-score is normalized by  291)
+
+Aligned length= 236, RMSD=  3.60, TM-score=0.67574, ID=0.151
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+DL-RRR--LKYFFM------------------SPCDKFRAKGRK-PCKLMLQVVKILVVTVQLILFGLSNQLAVTFREENTIAFRHLFLLGYSDGADDTFAAYTREQLYQAIFHAVDQYLALPDVSLGRYAYVRGGGDPWTNGSGLALCQRYYHRGHVDPANDTFDIDPMVVTDCIQVDPPERSSYKNLTLKFHKLVNVTIHFRLKTINLQSLIN--NEIPDCYTFSVLITFDNKAHSGRIPISLETQAHIQECKHPSVFQHGDNSFRLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVGFMWRQRGRVISLWERLEFVNGWYILLVTSDVLTISGTIMKIGIEAKNLASYDVCSILLGTSTLLVWVGVIRYLTFFHNYNILIATLRVALPSVMRFCCCVAVIYLGYCFCGWIVLGPYHVKFRSLSMVSECLFSLINGD-DMFVTFAAMQAQQGRSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDTIKH------------------------------
+   .    ..                      ...:..:....: ::::::::::::::::::::::..:. .                                                                                                                                                .....                                         ....::::::::::::::::: ::                                   :::::::::::::::::: ::..  : : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::: :::::::::::.:...  :::::::::::::::::::::::::::::::::::::                              
+--LT--ALNA----MVQNNRIELLNHPVCKEYLLMKWLAYGFRAHMMNLGSYCLGLIPMTILVVNIKPGMA-F----------------------------------------------------------------------------------------------------------------------------------------------NSTGIIN-----------------------------------------NSYLIKTCMILVFLSSIFGYC-KE-----------------------------------ISNVLEWIIYTTGIIFVL-PLFV--E-I-PAHLQWQCGAIAVYFYWMNFLLYLQRFENCGIFIVMLEVILKTLLRSTVVFIFLLLAFGLSFYILLN-LQDPFSSPLLSIIQTFSMMLGDINYRESFLEPYLRNELA--HPVLSFAQLVSFTIFVPIVLMNLLIGLAVGDIADVQKHASLKRIAMQVELHTSLEKKLPLWFLRKVD
+

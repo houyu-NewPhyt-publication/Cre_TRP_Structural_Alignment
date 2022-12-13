@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7L2N_A.TRP  Size= 303
+Chain 2:7DXB_A.TRP  Size= 401 (TM-score is normalized by  401)
+
+Aligned length= 279, RMSD=  2.95, TM-score=0.61400, ID=0.114
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+-NSV-LEVIAYSSSETPNRHDMLLVEPLNRLLQDKWD--R------------------------------------------FVKRIFYFNFFVYCLYMIIFTAAAYYR---P---V-----------EGLPPYKLKNTVGDYFRVTGEILSVSGGVYFFFRGIQYFLQRRPSLKSLFVDSYSEILFFVQSLFMLVSVVLYFSQ-------------------------------------------RK-EYVASMVFSLAMGWTNMLYYTRGFQQMGIYAVMIEKMILRDLCRFMFVYLVFLFGFSTAVVTLI--ED-----SY-NSLYSTCLELFKFTIGMGDLEFTEN-Y-D-F-KAVFIILLLAYVILTYILLLNMLIALMGETVNKIA-QESKNIWKLQRAITILDTEK-SFLKCMRKA-
+ .:: ::::: :   ::: ::::::.:::::::::::  :                                          ::::::::::::::::::::::::.:.   .   .           .:...::.         ::::::::::::::::::::::::::.:. .::  ::::::::::::::::::::::::                                           :: :::::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::  ::     :: ::::::::::::::::::::::::: . : : ::::::::::::::: ::::::::::::::::::. :::::::::::::::::::: :::.      
+ASLSRVKLAI-K---YEV-KKFVAHPNCQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGITTLPNITVTDYPKQIFRVKTTQF---------TWTEMLIMVWVLGMMWSECKELWLEGPRE-YIL--QLWNVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVKDIF-KFMVLFIMVFFAFMIGMFILYSYYLGAKVNAAFTTVEESFKTLFWSIFGLSEVTSVVLKYDHKFIENIGYVLYGIYNVTM-VVVLLNMLIAMINSSYQEIEDDSDVEWKFARSKLWLSYFDDGKTL-----P
+

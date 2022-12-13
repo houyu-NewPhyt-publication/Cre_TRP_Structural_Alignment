@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6DRJ_A.TRP  Size= 397
+Chain 2:7LPA_A.TRP  Size= 305 (TM-score is normalized by  305)
+
+Aligned length= 263, RMSD=  4.48, TM-score=0.64810, ID=0.109
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+--TC-LWL-A-L-EAHDKSFIAHSGVQALLTQIWCGELSVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMIDF-----QTSP---------SWRELLLYVWLTSLVCEEIRQLYHDFDGSGFRRKAKMYI--K---DLWNILDVLSIVLFIAGLICRLQASDTVFYIGKVILCIDFIIFCLRLMAIF---------SISR-TLGPKIIIVRRMMLDLFFFMFLLSIWVVAYGVAKQGILIENEERLNWIIRGAVYEPYIT-IF--GNFPTNIDNTLFDISSCSVNASDPLKPKCPMLNADNTPVFPEWLTIMMLCVYLLFANILLLNLLIAIFNYTFQEVQDN-TDTIWKFQRYELIKEYHSRPALPPPFILLSHLILFI-RGVFL--
+  :. .:. . . .::..........::::::::::                                                            ::::::::::::::::::::::::::::     .::.         :::::::::::::::.... .:.       .  ::::..  :   ::::::::::::::::::::::: :  : ::::::::::::::::::::::         ::.  .  ... .: ..::.:::::::::::::::::: :.  .  .   .:.:: ..:...:. .:  ... .::...                  ..         .   .: ::.::::::::::::::::::::::::::::: :::::::::::::::::::..     .  .. ..   .      
+NSVLEVIAYSSSETPNRHDMLLVEPLNRLLQDKWDR------------------------------------------------------------FVKRIFYFNFFVYCLYMIIFTAAAYYRPVEGLPPYKLKNTVGDYFRVTGEILSVSGGVYFFFRGI-QYF-------L--QRRPSLKSLFVDSYSEILFFVQSLFMLVSVVLYFS-Q--R-KEYVASMVFSLAMGWTNMLYYTRGFQQMGIYAVM-IE--KMI-LR-DLCRFMFVYLVFLFGFSTAVVTL-IE--D--G---NSYNS-LYSTCLELFKFTIGMG-DLEFTE------------------NY---------D---FK-AVFIILLLAYVILTYILLLNMLIALMGETVNKIAQESKNIWKLQRAITILDTEK-----S--FL-KC--MR----KA
+

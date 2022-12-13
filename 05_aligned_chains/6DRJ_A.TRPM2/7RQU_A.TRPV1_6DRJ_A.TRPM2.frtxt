@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7RQU_A.TRP  Size= 306
+Chain 2:6DRJ_A.TRP  Size= 397 (TM-score is normalized by  397)
+
+Aligned length= 270, RMSD=  4.70, TM-score=0.52492, ID=0.099
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+NSVLEVIAYSSSETPNRHDMLLVEPLNRLLQDKWDR------------------------------------------------------------FVKRIFYFNFFVYCLYMIIFTAAAYYRPVEGLPPYKLKNTVGDYFRVTGEILSVSGGVYFFFRGIQ-Y-----FL-QRRPSLKSLFVDSYSEILFFVQSLFMLVSVVLYFS-Q--R-KEYVASMVFSLAMGWTNMLYYTRGFQQMGIYAVMI-E--KMILRD--LCRFMFVYLVFLFGFSTAVVTLIED--G--G-N-SYNSLYSTCLELFKFTIGMG-DLEFTE------------------NY---------D---FK-AVFIILLLAYVILTYILLLNMLIALMGETVNKIAQESKNIWKLQRAITILDTEKS-------F--LKC-MRKA---
+ .:: ::. . :  ::.........:::::::::::                                                            ::::::::::::::::::::::::::::.     ::.     ::: ::::::.::..::..:.... .     .. :.::..  :   ::::::::::::::::::::::: :  : ::::::::::::::::::::::         ::.  .  ....:.  .::.::::::::::::::::::::.  :  . . ..::...:...:..:. ... .::...                  ..         .   .: ::::::::::::::::::::::::::::::: ::::::::::::::::::::...       .  ... ..     
+-TCL-WLA-L-E--AHDKSFIAHSGVQALLTQIWCGELSVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMIDFQ-----TSP-----SWR-ELLLYVWLTSLVCEEIRQLYHDFDGSGFRRKAKMYI--K---DLWNILDVLSIVLFIAGLICRLQASDTVFYIGKVILCIDFIIFCLRLMAIF---------SIS-RTLGPKIIIVRRMMLDLFFFMFLLSIWVVAYGVAKQGILIENEERLNWIIRGAVYEPYITIF-GNFPTNIDNTLFDISSCSVNASDPLKPKCPMLNADNTPVFPEWLTIMMLCVYLLFANILLLNLLIAIFNYTFQEVQD-NTDTIWKFQRYELIKEYHSRPALPPPFILLSHLILFIRG--VFL
+

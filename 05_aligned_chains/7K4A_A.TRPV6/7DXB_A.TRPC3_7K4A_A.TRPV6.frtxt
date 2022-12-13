@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7DXB_A.TRP  Size= 401
+Chain 2:7K4A_A.TRP  Size= 314 (TM-score is normalized by  314)
+
+Aligned length= 288, RMSD=  3.40, TM-score=0.77240, ID=0.118
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+ASLSRVKLAI-K-YE-VKKFVAHPNCQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGITTLPNITVTDYPKQI---------------FRVKTT---Q--FTWTEMLIMVWVLGMMWSECKELWLEGPREYILQLWNVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVKDIF-KFMVLFIMVFFAFMIGMFILYSYYLGAKVNAAFTTVEESFKTLFWS-IFGLSEVTSVVLKYDHKFIENIGYVLYGIYNVTM-VVVLLNMLIAMINSSYQEIEDDSDVEWKFARSKLWLSYFDDGKTLP
+...::::::: : :: :::::::.::::::::::.      :                                      ::::::::::::::::::::::::...   . ..::..                       .:::..   .  .::::::::::::::::::::::::::  :: : :::::::::::::::::::::::                                           :: :::::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::: :..:::::::::::::::::: ::::::::. ... . .  ::::::::::::::: :::::::::::::... :..:::::::::::::::::::: :::. 
+DEQSLLELIITTKKREARQILDQTPVKELVSLKWK------R--------------------------------------YGRPYFCMLGAIYLLYIICFTMCCIYR---P-LKPRTN--------NRTSPRDNTLLQQKLLQEAYMTPKDDIRLVGELVTVIGAIIILLVEVPDIFRMG--VT-R-PFHVLIITYAFMVLVTMVMRLIS-------------------------------------------AS-GEVVPMSFALVLGWCNVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFYIIFQTE-DPEELGHFYDYPMALFSTFELFLTIIDGPAN-YNV-D-L--PFMYSITYAAFAIIATLLMLNLLIAMMGDTHW-RVAHERDELWRAQIVATTVMLER-KLPR-
+

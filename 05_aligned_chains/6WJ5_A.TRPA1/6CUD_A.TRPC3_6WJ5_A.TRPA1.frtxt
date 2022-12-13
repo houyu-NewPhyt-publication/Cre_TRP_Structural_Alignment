@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6CUD_A.TRP  Size= 396
+Chain 2:6WJ5_A.TRP  Size= 296 (TM-score is normalized by  296)
+
+Aligned length= 263, RMSD=  3.70, TM-score=0.71602, ID=0.149
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+ASLSRVKLAIKYEVKKFVAHP---NCQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEG--ITTLPN-------ITVTDYPKQIFRVKTTQ------FTWTEMLIMVWVLGMMWSECKELWLEGPREYILQLWNVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSF-SRIAYILPANESFGPLQISLGRTVKDIFKFMVLFIMVFFAFMIGMFILYSYYLGAKVNAAFTTVEESFKTLFWSIFGLSEV-TSV--VLKYDHKFIENIGYVLYGIYNVTM-VVVLLNMLIAMINSSYQEIEDDSDVEWKFARSKLWLSYF-DD---------
+  . ......  .:.:...::   ......::::::                                            :::::::::::::::::::::::::::.    .            ..::.                  .::::::::::::::::::               :::::::::::::::::. ....:.                                         ::::::::::::::::: :::::::::: :::::::::::::::::::::::::::::::::::::::     : :::::::::::::::::::::::: :::  :...:...:::::::::::::::: ::::::::::::::.....: :::::::::::::::::: ::         
+--L-TALNAM--VQNNRIELLNHPVCKEYLLMKWLA--------------------------------------------YGFRAHMMNLGSYCLGLIPMTILVVNIK--PGM-----AFNSTGIINILD------------TTNSYLIKTCMILVFLSSIFGYCKE---------------ISNVLEWIIYTTGIIFVL-PLFVEI-----------------------------------------PAHLQWQCGAIAVYFYWMNFLLYLQRFE-NCGIFIVMLEVILKTLLRSTVVFIFLLLAFGLSFYILLN-----L-QDPFSSPLLSIIQTFSMMLGDINYRESFLEPYLRNELAHPVLSFAQLVSFTIFVPIVLMNLLIGLAVGDIADVQK-HASLKRIAMQVELHTSLEKKLPLWFLRKVD
+

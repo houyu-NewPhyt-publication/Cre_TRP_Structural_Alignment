@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7WDB_A.TRP  Size= 361
+Chain 2:5VKQ_A.NOM  Size= 386 (TM-score is normalized by  386)
+
+Aligned length= 316, RMSD=  3.01, TM-score=0.71835, ID=0.220
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+----------D----LAKLKVAIKYHQKEFVAQPNCQQLLATLWYDGFPGWRRKHWVVKLLTCMTIG-F--LFPMLSIAYLISPRSNLGLFIKKPFIKFICHTASYLTFLFMLLLA--SQ----HVQGPPPTVVEWMILPWVLGFIWGEIKEMWDGGFTEYIHDWWNLMDFAMNSLYLATISLKIVAYV-KYNGSRPREEWEMWHPTLIAEALFAISNILSSLRLISLFTANSHLGPLQISLGRMLLDILKFLFIYCLVLLAFANGLNQLYFYYETRAIDEPNNCKGIRCEKQN----------------------NAFSTLFETLQSLFWSVFGLLNLYVTN-V----K---ARHEFTEFVGATMFGTYNVISLVVLLNMLIAMMNNSYQLIADHADIEWKFARTKLWMSY-FDE---------------
+          .    .:::::::::::::::::::::::::::::::: ::  : ::::::::::.. :  :::::: ::  :    ::.::::::::::::::::::::::::::  ::    ::..:::::::::::::::::::::::::      .:: :::::::::::::::::::::::::: ::....    .   :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::...                                          ...:::::::::::::::::::::::: :    :   ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::               
+SDSAGKILQATDKRNVEFLDVLIENEQKEVIAHTVVQRYLQELWHGSL-TW--A-SWKILLLLVAFIVCPPVWIGFT-FP--M----GHKFNKVPIIKFMSYLTSHIYLMIHLSIVGITPIYPVLRLSLVPYWYEVGLLIWLSGLLLFELTNP------SDK-SGLGSIKVLVLLLGMAGVGVHVSAFLFVSKEYW----P---TLVYCRNQCFALAFLLACVQILDFLSFHHLFGPWAIIIGDLLKDLARFLAVLAIFVFGFSMHIVALNQSF--------------------ANFSPEDLRSFEKKNRNRGYFSDVRMHPINSFELLFFAVFGQTTTEQTQVDKIKNVATPTQPYWVEYLFKIVFGIYMLVSVVVLIQLLIAMMSDTYQRIQAQSDIEWKFGLSKLIRNMHRTTTAPSPLNLVTTWFMW
+

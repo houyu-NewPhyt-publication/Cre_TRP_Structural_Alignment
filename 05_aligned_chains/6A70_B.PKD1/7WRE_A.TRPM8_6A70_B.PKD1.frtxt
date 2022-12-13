@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7WRE_A.TRP  Size= 350
+Chain 2:6A70_B.PKD  Size= 404 (TM-score is normalized by  404)
+
+Aligned length= 209, RMSD=  3.52, TM-score=0.43519, ID=0.076
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+SNCLELAVEATDQHFIAQPGVQNFLSKQWYGEISRDTKNWKIILCLFIIPLVGCGLVSFRKKLLWYYVAFFTSPFVVFSWNVVFYIAFLLLFAYVLLM--D-----------------------------------------------------------------------------------------------------------------------------------------------------------------FHSVPH----TPELILYALVFVLFCDEVRQWYMNGV--NY-F--T--DLWNVMDTLGLFYFIAGIVFR-LHS--S--------------NKSSLYSGRVIFCLDYIIFTLRLIHI-FTVSRN--LGPKIIMLQRMLIDVFFFLFLFAVWMVAFGVARQGILRQNEQRWRWIFRSVIYEPYLAMFGQVPSDVDSTTYDFSHCTFSGNESKPLCVELDEHNLPRFPEWITIPLVCIYMLSTNILLVNLLVAMFGYTVGIVQENNDQVWKFQRYFLVQEYCNRLN-
+                  ..: ::::::::                                          ::.::::::::::::::::::::.::  .                                                                                                                                                                 .::::.    ::::::::::::::::::::::::::  :. .  .  ::::::::::::::::::.:: :::  :              :::::::::::::::::::::::::. ::.:::  ...:::::::::::::::::::::::::::::::::::.     .  :: :::::::::::                                                  :   :: :::::::::::::::::.....                   
+------------------AKE-EARKVKRL------------------------------------------HGMLRSLLVYMLFLLVTLLASYGDASCHGHAYRLQSAIKQELHSRAFLAITRSEELWPWMAHVLLPYVHGNQSSPELGPPRLRQVVGWESPHNGSGTWAYSAPDLLGAWSWGSCAVYDSGGYVQELGLSLEESRDRLRFLQLHNWLDNRSRAVFLELTRYSPAVGLHAAVTLRLEFPAAGRALAALSVRPFALRRLSAGLSLPLLTSVCLLLFAVHFAVAEARTWHREGRWRVLRLGAWARWLLVALTAATALVRLAQLGAADRQWTRFVRGRPRRFTSFDQVAQLSSAARGLAASLLFLLLVKAAQQLRFVRQWSVFGKTLCRALPELLGVTLGLVVLGVAYAQLAILLVSS-----H--LS-PLLCVGLWALR--------------------------------------------------L---WG-ALRLGAVILRWRYHALRGELYR------------------P
+

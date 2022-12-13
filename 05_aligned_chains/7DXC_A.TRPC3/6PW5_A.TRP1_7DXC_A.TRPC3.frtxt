@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6PW5_A.TRP  Size= 340
+Chain 2:7DXC_A.TRP  Size= 394 (TM-score is normalized by  394)
+
+Aligned length= 304, RMSD=  3.38, TM-score=0.66242, ID=0.190
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+---PVGYALATFDKAFLSHKFVQQIFTEKWDT--MGVTDYTKSLFGVVWGGCSLVVAFAAWATICPLVVVARSFLSPVQDFMMRGKVIVDSRFPWHVPLYRWLLTQCALITFTVLLSYLVFSF---D---P---S-------DPVP-ASVAPLNTFLAVWCAAILVDEVQEYVEEG-RAEYMSSGWNVMDVTMALSYILHYILRIIAVRVT---------------------------D------NL-N-ILLVVNDLLAAAALMAWFRMVSVFELSSAIGPLIQMMKQMLIKDVTRFALLVLVILLGFSVGMEALFQEACIERDPTTNEC-TKYT---SW--------------------------FEQKRVTGVIFYLIFAIVTAILLLNLFIAMLADTYTRVSTQAMVEFRYRKAKLMASYSRRD--
+   :::::::::::::::::::::::::::::  :.:::::.    :: :::::::::::::::::.:  :      :..:.  .     ..::::::::::::::::::::::::::::::.   .   .   .       .::: :::::::::::::::::::::::::::.. ....... .::::::::::::::::::::::::.                           .      .: : ::::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::...            ....   .:                          :::::::::::::::::::::::::::::::::: ::  .:::::::::::::::::::::  
+SLSRVKLAIKYEVKKFVAHPNCQQQLLTIWYENLSGLREQTI----AI-KCLVVLVVALGLPFLAIGY--W------IAPCS--R-----LGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGITTLPNITVTDYPKQIFRVKTTQFTWTEMLIMVWVLGMMWSECKELWLEGPREYILQL-WNVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTV-KDIFKFMVLFIMVFFAFMIGMFILYSYY-----------LGAKVNAAFTTVEESFKTLFWSIFGLSEVTSVVLKYDHKFIENIGYVLYGIYNVTMVVVLLNMLIAMINS-SY--DDSDVEWKFARSKLWLSYFDKTLP
+

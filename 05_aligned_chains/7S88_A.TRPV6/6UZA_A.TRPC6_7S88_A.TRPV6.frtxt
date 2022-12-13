@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6UZA_A.TRP  Size= 396
+Chain 2:7S88_A.TRP  Size= 323 (TM-score is normalized by  323)
+
+Aligned length= 289, RMSD=  3.35, TM-score=0.75192, ID=0.128
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+--LSRLKLAI-K-YE-VKKFVAHPNCQQQLLSIWYENLSGLRQQTMAVKFLVVLAVAIGLPFLALIYWFAPCSKMGKIMRGPFMKFVAHAASFTIFLGLLVMNAADRFEGTKLLPNETSTDNAKQL--------------FR-MKTSC----F--SWMEMLIISWVIGMIWAECKEIWTQG-PKEYLF-EL--W-NMLDFGMLAIFAASFIARFMAFWHASKAQSIIDKVTLGDNVKYYNLARIKWDPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTV-KDIFKFMVIFIMVFVAFMIGMFNLYSYYIGAKQNEAFTTVEESFKTLFWA-IFGLSEVKSVVINYNHKFIENIGYVLYGVYNVTM-VIVLLNMLIAMINSSFQEIEDDADVEWKFARAKLWFSYFEEGRTLPVPFNLV
+  .::::::: : :: :::::::.::::::::::.      :                                      .:..:::::::::::::::::::....   . ..:..                       .: :::..    .  :::::::::::::::::::::::::: :::::: :.  : :::::::::::::::::::::                                  :: :::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::::: :..:::::::::::::::::: ::::::::. ...   . .::::::::::::::: :::::::::::::......: ::::::::::::::::::: :::.       
+DEQSLLELIITTKKREARQILDQTPVKELVSLKWK------R--------------------------------------YGRPYFCMLGAIYLLYIICFTMCCIYR---P-LKPRT---------NNRTSPRDNTLLQQKLLQEAYMTPKDDIRLVGELVTVIGAIIILLVEVPDIFRMGVTRFFGQTILGGPFHVLIITYAFMVLVTMVMRLIS----------------------------------AS-GEVVPMSFALVLGWCNVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFYIIFQTE-DPEELGHFYDYPMALFSTFELFLTIIDGPAN-YNV---D-LPFMYSITYAAFAIIATLLMLNLLIAMMGDTHWRVAH-ERDELWRAQIVATTVMLER-KLPR-------
+

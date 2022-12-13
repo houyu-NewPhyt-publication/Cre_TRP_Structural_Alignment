@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6WHG_A.TRP  Size= 310
+Chain 2:6DRJ_A.TRP  Size= 397 (TM-score is normalized by  397)
+
+Aligned length= 234, RMSD=  4.33, TM-score=0.47600, ID=0.170
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+EPLNALELATDMHCTTVIGSSGFQRCLKWIWRGWIVQNGLDPTTFIK-------------------------DDSL-----------------A----FNPVRLKAPVYQNYLQMIFSFLFLGLYTLVVNGKDSERVQSFDLLESIFYVFNTGFILDELT-KL-------Y--YIGYAHLSFWNLFNDTTYLIITFAMGFRAMSVTPYSSEDWDKISYRVLSCAAPFVWSRLLLYLESQRFIGIMLVIL--K-HMMKESIVFFFLLFLIMIG-FTQG--FLGLDSADGKRD----------------ITGP---ILG--NLTITVL-GLGSFDVFEEFAPPYAAILYYGYY-------------------------------------------------------FIV-SVILLNILIALYSTAYQKVIDNADDEYMALMSQKTLRYIR-----------------------
+  ::: ::::::::::::::::::::::::::::.                                     ..::                 :    :::.::::::::::::::::::::::::::::::.  .::::: ::::::::::::::::.. :.       .  :::::::::::::::::::::::::::: ::  . : ::::::::::::::::::::::::: :     :  :.    . ....::::::::....... ..    .                           .      .    .. ..   ....                                                                           ..  ... ....:::::::::::::::::::::::::::::::.                       
+--TCL-WLALEAHDKSFIAHSGVQALLTQIWCGEL------------SVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMIDF--QTSPSW-RELLLYVWLTSLVCEEIRQLYHDFDGSGFRRKAKMYIKDLWNILDVLSIVLFIAGLICR-LQ--A-S-DTVFYIGKVILCIDFIIFCLRLMAI-F-----S--IS--RTLGPKIIIVRRMMLDLFFFMFLLSI--WVV-----------AYGVAKQGILIENEERL---NWII--RGAV-YE--PYITI--------------------FGNFPTNIDNTLFDISSCSVNASDPLKPKCPMLNADNTPVFPEWLTIMMLCVYLLFA-NILL-LNLLIAIFNYTFQEVQDNTDTIWKFQRYELIKEYHSRPALPPPFILLSHLILFIRGVFL
+

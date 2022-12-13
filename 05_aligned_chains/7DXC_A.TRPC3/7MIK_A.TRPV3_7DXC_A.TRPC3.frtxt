@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7MIK_A.TRP  Size= 318
+Chain 2:7DXC_A.TRP  Size= 394 (TM-score is normalized by  394)
+
+Aligned length= 284, RMSD=  3.19, TM-score=0.62229, ID=0.140
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+TTDNSVLEIIVYNTNIDNRHEMLTLEPLHTLLHTKWKK--------------------------------------------FAKYMFFLSFCFYFFYNITLTLVSYYR---P-R-E--D--------ED-LPHPLALTHKMSWLQLLGRMFVLIWATCISVKEGIAIFLLRPSDLQSILSDAWFHFVFFVQAVLVILSVFLYLFA-------------------------------------------YK-EYLACLVLAMALGWANMLYYTRGFQSMGMYSVMIQKVILHDVLKFLFVYILFLLGFGVALASLI-EKCSKDKKDCSSYGSFSDAVLELFKLTIGLGDLN-IQQNS-T-Y-PILFLFLLITYVILTFVLLLNMLIALMGETVENVSKESERIWRLQRARTILEFEKMLPEWLRSRF-
+:  .::::::: :  ::: ::::::..:::::::::::                                            ::::::::::::::::::::::::...   . . .  .        :: .::.: :        : ::::::::::::::::::::::::.:....::   : :::::::::::::::::::::                                           :: :::::::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::: :::: . .:..::::::::::::::::::::::: ::::. : : :::::::::::::::: :::::::::::::: :  .:::::::::::::::::::::.        
+S--LSRVKLAI-K--YEV-KKFVAHPNCQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGITTLPNITVTDYPKQIFRVKTTQF-T--------W-TEMLIMVWVLGMMWSECKELWLEGPREYILQL---W-NVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVKD-IFKFMVLFIMVFFAFMIGMFILYSYYLG-A-KVNAAFTTVEESFKTLFWSIFGLSEVTSVVLKYDHKFIENIGYVLYGIYNVTMV-VVLLNMLIAMINSS-Y--DDSDVEWKFARSKLWLSYFDKTL-------P
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7MBQ_A.TRP  Size= 384
+Chain 2:6CO7_A.TRP  Size= 405 (TM-score is normalized by  405)
+
+Aligned length= 362, RMSD=  2.18, TM-score=0.83161, ID=0.371
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+--TVLNIATLAEAKCFFAHDGVQALLTKVWWGAMRTDTSISRLVLTFFIPPLVWTSLIKFNP------------------------ESATFI------RVVLRRWNRFWSAPVTVFMGNVIMYFAFLILFSYVLLLDFRPPPP----YGPSAAEIILYFWVFTLVLEEIRQSFFTDEDMSILKKMKLYVEDNWNKCDMVAISLFVVGLSCRMAMS--TYEAGRTVLALDFMVFTLRLIHIFAIHKQLGPKIIIVERMIKDVFFFLFFLSVWLIAYGVTTQALLHP-----NDPRIDWVFRRALYRPYLHIFGQIPLEEIDAAKMPDDNCTTDVQEIILGTLPPCPNIYANWLVILLLVIYLLVTNVLLLNLLIAMFSYTFQVVQENADIFWKFQRYNLIVEYHSRPALAPPFIIISHITQALLSFIK
+  :::::::::::::::::::::::::::::::::::::::::::::.::::::: ::::::                        :           .::::::::::::::::::::::::::::::::::::::::::::    :::::::::::::::::::::::::: :...:::::::::::::::::::::::::::::::::::::  ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::     :::::::::::::::::::::::::::::::  :: :.            ..::::::.:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.:::::::::::::::.
+RMTALELAVSAESQDFIAHTSCQVLLTRLWMGTMAMNTRWWKVLVCLYLPVLIFP-IIYFVPDEQHERQAAEREHQKSLNQDDSMEV-----IMRNKKLGFCDRIMHFYSAPFSKFVGNVVGYLAFIFLYAYVVLFNFPRFDPAKTLGGIHPTEIVLYFWVFTILIEEIRQLA-AKPPKYIKDKVSVYFSDTWNFVDIFSLTVFIIAIILRFFTNSRIFTASRIILSLDIIFFIVRSLQIFSVNRLLGPKLVMIQKMMQDLAQFIIILAVFTIAYGIALHAVMFPSPGIYARNNTWVTITSVVQYPYWQMYGELFLDEIQG--EK-PK------------EFGEVDPDGRWLSPLLLAIYMVFTNILLLNLLIAIFNYTFERVQEDSDKVWKFQRYDLVQEYHSRPVFAPPLVLLGHILIFIRWVWR
+

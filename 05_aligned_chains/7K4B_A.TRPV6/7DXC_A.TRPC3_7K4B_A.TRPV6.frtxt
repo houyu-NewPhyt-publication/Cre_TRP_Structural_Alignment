@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7DXC_A.TRP  Size= 394
+Chain 2:7K4B_A.TRP  Size= 313 (TM-score is normalized by  313)
+
+Aligned length= 281, RMSD=  3.20, TM-score=0.76671, ID=0.127
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+-SLSRVKLAI-K-YE-VKKFVAHPNCQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGITTLPNITVTDYPKQI----------------FRVKTT---Q--FTWTEMLIMVWVLGMMWSECKELWLEGPREYILQLWNVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTV-KDIFKFMVLFIMVFFAFMIGMFILYSYYLGAKVNAAFTTVEESFKTLFWS-IFGLSEVTSVVLKYDHKFIENIGYVLYGIYNVTM-VVVLLNMLIAMINSS-Y--DDSDVEWKFARSKLWLSYFDKTLP-
+ ..::::::: : :: :::::::::::::::::::      :                                      .::::::::::::::::::::::....   . ..:..                         .:::..   .  .::::::::::::::::::::::::::: :    .::::::::::::::::::::::                                           :: :::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::::: :..:::::::::::::::::: ::::::::. ... . .  ::::::::::::::: ::::::::::::::: :  .:::::::::::::::::::::.  
+DEQSLLELIITTKKREARQILDQTPVKELVSLKWK------R--------------------------------------YGRPYFCMLGAIYLLYIICFTMCCIYR---P-LKPRT---------NNRTSPRDNTLLQQKLLQEAYMTPKDDIRLVGELVTVIGAIIILLVEVPDIFRMGV-T----PFHVLIITYAFMVLVTMVMRLIS-------------------------------------------AS-GEVVPMSFALVLGWCNVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFYIIFQTE-DPEELGHFYDYPMALFSTFELFLTIIDGPAN-YNV-D-L--PFMYSITYAAFAIIATLLMLNLLIAMMGDTHWRVAHERDELWRAQIVATTVMLERKLP-R
+

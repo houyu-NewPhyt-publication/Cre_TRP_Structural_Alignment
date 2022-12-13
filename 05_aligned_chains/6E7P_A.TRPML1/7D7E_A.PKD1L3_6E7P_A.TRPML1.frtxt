@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7D7E_A.PKD  Size= 451
+Chain 2:6E7P_A.TRP  Size= 475 (TM-score is normalized by  475)
+
+Aligned length= 362, RMSD=  3.99, TM-score=0.64089, ID=0.099
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+------------------------------GTLVQILFLTLLMTTVYSA-KD--SSRFFLHRAIWKRFSHRF-------SEIKTVEDFYPWANGTLLPNLYGDYRGFITDGNSFLLG----------NVLIRQTRIPNDIFFPGSLHKQMKSPPQHQEDRENYGAGWVPPDTNITKVDSIWHYQNQESLGGYPIQGELATYSGGGYVVRLGRNHSAATRVLQHLEQRRWLDHCTKALFVEFTVFNANV----------NLLCAVTLILES-SGVGTFLTSLQLDSLTSLQ-S--SERGFAWIVSQVVYYLLVCYYAFIQGCRLKR-QRL-A--------------------------F-F-TRKRNLLDTSIVLISFSILGLSMQSLSLLHKKMQQYHCDRDRFISFYEALRVNSAVTHLRGFLLLFATVRVWDLLRHHAQ----LQ-VINKTL-SKAWDEVLGFILIIVVLLSSYAMTFNLLFGWSISDYQSFFRSIVTVVGLLM-GTS-KH-KEVIALY------PILGSLLVLSSIIL-MGLVIINLFVSAILI-AFG--K
+                              ::::::::::::::::::: ::  :::::::::::::::::.       ::::...::::::: ::::::::.:.  .:::::::::          :::::::::::::  : :::......  ::::                       .                     :::::::::...  ::::: :  :::::::::::::::::::::          :::::::::::: :::::::::::::::::.. .  .......:: :::::::::::..:....... ... .                          . . .:::::::::::::::::::..:::                          :: ::::::::::::::::::: ::::::    .. ..:::: ::: .::::: :::::::::::::::::::::::::::::::::::::::: ::. :: :::::::      :::::::::::::: ::::::::....... ..   .
+EEDLRRRLKYFFMSPCDKFRAKGRKPCKLMLQVVKILVVTVQLILFGLSNQLAVTFREENTIAFRHLFLLGYSDGADDTFAAYTREQLYQAIF-HAVDQYLALPD--VSLGRYAYVRGGGDPWTNGSGLALCQRYYHRGH--V-DPANDTFDI--DPMV-----------------------V---------------------TDCIQVDPPERP--SSYKN-L--TLKFHKLVNVTIHFRLKTINLQSLINNEIPDCYTFSVLITFDNKAHSGRIPISLETQAHIQECKHPSVFQHGDNSF-RLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVGFMWRQRGRVISLWERLEFVNGWYILLVTSDVLTISGTIMKIGIEAKN--------------------------LA-SYDVCSILLGTSTLLVWVG-VIRYLTFFHNYNILIATLRVALP-SVMRFC-CCVAVIYLGYCFCGWIVLGPYHVKFRSLSMVSECLFSLINGDDMFVTFAAMQAQQGRSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDT-IKH
+

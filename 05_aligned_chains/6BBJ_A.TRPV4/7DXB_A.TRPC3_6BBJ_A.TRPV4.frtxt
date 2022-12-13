@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7DXB_A.TRP  Size= 401
+Chain 2:6BBJ_A.TRP  Size= 294 (TM-score is normalized by  294)
+
+Aligned length= 249, RMSD=  5.68, TM-score=0.55505, ID=0.125
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+ASL-SRVKLAIKYEVKKFVAHPN--CQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGITTLPNITVTDYPKQIF--RVKTTQFTWTEMLIMVWVLGMMWS-ECKELWLEGPR---EYILQL--WNV------------LDFG--MLS--IFIA--AFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKW-LPSDPQIISEGL-YAIA-VVL-SFSR--IAY-IL-PANE-SFGPLQISLGRTVKDIFKFMVLFIMVFFAFMIGMFILYSYYLGAKVNAAF--TTVEESFKTLFWSIFGLSEVTSVVLKYDHKFIENIGYVLYGIYNVTMVVVLLNMLIAMINSSYQEI---ED-DSDVEWKFARSKLWLSYFDDGKTLP-
+.:: ::::::  :.:..:.....  ...::::::::                                            :.::::::::::::::::::::::::.   .  .:..            .....:::..:..:........   .             ...::.  .              ..    .    ..    .  .                                            .... ... ..  .:.  ..  ..    ..  .. ..:: .......:::::::::..........:..:::.::.......          .::::::::::::::::::..:::.    .  ::  ::::::::::::::::::::::::::::::   :: ::.::..::::::::::::::..   
+SVLEILVYNS--KVENRHEMLAVEPINELLRDKWQK--------------------------------------------FGAVSFYISVVSYLIAMIIFTLIAYYR---P--MDGT----------PPYPYRTTMDYMRLAGEIVTLLTG--VV----------FFITNIKDLFMV--NSLFIDGSFQLLYF--IYS--VLVI--ITA--V-------------------------------------------LYLVG-IES-YL-AVMV-FAL-VLG--WMNA-LYFTRGLKLTGTYSIMLQKILFKDLFRFLLVYLLFMIGYASALVSLLNPCR--------DSSTFSKFLLDLFKLTIGMGDLEMINS----A--KY--PAVFIILLVTYIILTFVLLLNMLIALMGETVGQVSKESKQIWKLQWATTILDIERSFPV--C
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6CO7_A.TRP  Size= 405
+Chain 2:7LQZ_A.TRP  Size= 309 (TM-score is normalized by  309)
+
+Aligned length= 289, RMSD=  3.33, TM-score=0.79215, ID=0.179
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+RMTALELAV-S---A-ESQDFIAHTSCQVLLTRLWMGTMAMNTRWWKVLVCLYLPVLIFPIIYFVPDEQHERQAAEREHQKSLNQDDSMEVIMRNKKLGFCDRIMHFYSAPFSKFVGNVVGYLAFIFLYAYVVLFNFP---RFDPAKTLG-GIHPTEIVLYFWVFTILIEEIRQLAAKPPKYIKDKVSVY---F-SDTWNFVDIFSLTVFIIAIILRFFTNSRIFTASRIILSLDIIFFIVRSLQIFSVNRLLGPKLVMIQKMM-QDLAQFIIILAVFTIAYGIALHAVMFPSPGIYA-RNNTWVTITSVVQYPYWQMYGELFLDEIQGEKPKEFGEVDPDGRWLSPLLLAIYMVFTNILLLNLLIAIFNYTFERVQEDSDKVWKFQRYDLVQEYHSRPVFAPPLVLLGHILIFIRWVWR-----
+ :::::::: .   . .:::::::.::::::::::::                                                                        :::::::::::::::::::::::::::::   ::::.:..  ..:::::::::::::.::..:...: .    .:.:.::.   . .::::::::::::::::::::::::   :: :::::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::::.  .:.  ... ..:::::::::::::::::::::: :        :: ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::..           .             
+-NSVLEVIAYSSSETPNRHDMLLVEPLNRLLQDKWDR------------------------------------------------------------------------FVKRIFYFNFFVYCLYMIVFTTAAYYRPVDGLPPYKLKNT-VGDYFRVTGEILSVSGGVYFFLRGIQ-Y----FLQRRPSMKTLFVDSYSEMLFFVQSLFMLGSVVLYFSH---RK-EYVASMVFSLAMGWTNMLYYTRGFQQMGIYAVMIEKMILRDLCRFMFVYLVFLFGFSTAVVTLIED--GKN-PPDS-YNSLYSTCLELFKFTIGMGDLEFT-E--------NY-DFKAVFIILLLAYVILTYILLLNMLIALMGETVNKIAQESKNIWKLQRAITILDTEKSFL-----------K--------CMRKA
+

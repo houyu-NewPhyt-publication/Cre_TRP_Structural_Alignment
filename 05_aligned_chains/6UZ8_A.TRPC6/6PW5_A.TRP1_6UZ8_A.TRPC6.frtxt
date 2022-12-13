@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6PW5_A.TRP  Size= 340
+Chain 2:6UZ8_A.TRP  Size= 396 (TM-score is normalized by  396)
+
+Aligned length= 308, RMSD=  3.21, TM-score=0.67549, ID=0.172
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+--PVGYALATFDKAFLSHKFVQQIFTEKWDT--MGVTDYTKSLFGVVWGGCSLVVAFAAWATICPLVVVARSFLSPVQDFMMRGKVIVDSRFPWHVPLYRWLLTQCALITFTVLLSYLVFSF---D-P-----SD-------PVP-ASVAPLNTFLAVWCAAILVDEVQEYVEEGRAEYMSSGWNVMDVTMALSYILHYILRIIAVRVT-----------------D-------NL-N-ILLVVNDLLAAAALMAWFRMVSVFELSSAIGPLIQMMKQMLIKDVTRFALLVLVILLGFSVGMEALFQEACIERDPTTNEC-TKY--T-SW--------------------------FEQKRVTGVIFYLIFAIVTAILLLNLFIAMLADTYTRVST-QAMVEFRYRKAKLMASYSRR--D--------
+  :::::::::::::::::::::::::::::  :.:::::.    :: :::::::::::::::::.:: :      :  :: ..     ..::::::::::::::::::::::::::::::.   : :     ..       ::: ::::::::::::::::::::::::::::::.::.....::::::::::::::::::::::::.                 .       .: : ::::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::...            ...  . .:                          :::::::::::::::::::::::::::::::::::::..: ::::::::::::::::::::  :        
+LSRLKLAIKYEVKKFVAHPNCQQQLLSIWYENLSGLRQQTM----AV-KFLVVLAVAIGLPFLALIYW-F------A--PC-SK-----MGKIMRGPFMKFVAHAASFTIFLGLLVMNAADRFEGTKLLPNETSTDNAKQLFRMKTSCFSWMEMLIISWVIGMIWAECKEIWTQGPKEYLFELWNMLDFGMLAIFAASFIARFMAFWHASKAQSIIDKVTLGDNVKYYNLARIKWDPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTV-KDIFKFMVIFIMVFVAFMIGMFNLYSYY-----------IGAKQNEAFTTVEESFKTLFWAIFGLSEVKSVVINYNHKFIENIGYVLYGVYNVTMVIVLLNMLIAMINSSFQEIEDDADVEWKFARAKLWFSYFEEGRTLPVPFNLV
+

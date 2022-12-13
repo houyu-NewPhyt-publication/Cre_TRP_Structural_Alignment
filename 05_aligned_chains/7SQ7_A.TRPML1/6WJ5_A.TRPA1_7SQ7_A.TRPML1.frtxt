@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6WJ5_A.TRP  Size= 296
+Chain 2:7SQ7_A.TRP  Size= 463 (TM-score is normalized by  463)
+
+Aligned length= 234, RMSD=  3.34, TM-score=0.44587, ID=0.148
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+L--TAL--NAMVQNNRIELLNHPVCKEY----LLM-KWLAYGF-RAHMMNLGSYCLGLIPMTILVVNIKPGMAFNSTGII----------------------------------------------------------------------------------------------------------------------------------------N--IL--DTTN-----------------------------------SYLIKTCMILVFLSSIFGYC-KE-----------------------------------ISNVLEWIIYTTGIIFVLPLFVE----I-PAHLQWQCGAIAVYFYWMNFLLYLQRFENCGIFIVMLEVILKTLLRSTVVFIFLLLAFGLSFYILLN-LQDPFSSPLLSIIQTFSMMLGDINYRESFLEPYLRNELA--HPVLSFAQLVSFTIFVPIVLMNLLIGLAVGDIADVQKHASLKRIAMQVELHTSLEKKLPLWFLRKVD
+   .    .                       ..  .:..:.  ...::::::::::::::::::::::..:..                                                                                                                                              .  :.  :..                                    :: ::::::::::::::::: ::                                   :::::::::::::::::::..::    : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::: ::::::::::::::..  ::::::::::::::::::::::::::::::::::::::                             
+-DLR--RRL-------------------KYFFMS-PCDKFRA-KGRKPCKLMLQVVKILVVTVQLILFGLSNQL------VVTFREENTIAFRHLFLLGYSDGSDDTFAAYTQEQLYQAIFYAVDQYLILPEISLGRYAYVRGGGGPWANGSALALCQRYYHRGHVDPANDTFDIDPRVVTDCIQVDPPDRASYKNLTLKFHKLINVTIHFQLKTINLQSLINNEI-PDCYTFSILITFDNKAHSGRIPIRLETKTHIQECKSF-RLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVVFMWRRRGREISLWERLEFVNGWYILLVTSDVLTISGTVMKIGIEAKNLASYDVCSILLGTSTLLVWVGVIRYLTFFHKYNILIATLRVALPSVMRFCCCVAVIYLGYCFCGWIVLGPYHVKFRSLSMVSECLFSLINGD-DMFVTFAAMQAQQGHSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDTIKHP-----------------------------
+

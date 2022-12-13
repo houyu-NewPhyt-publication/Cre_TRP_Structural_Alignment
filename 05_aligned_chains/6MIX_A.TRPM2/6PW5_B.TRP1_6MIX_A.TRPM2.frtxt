@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6PW5_B.TRP  Size= 340
+Chain 2:6MIX_A.TRP  Size= 353 (TM-score is normalized by  353)
+
+Aligned length= 268, RMSD=  4.11, TM-score=0.58434, ID=0.164
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+-PVGYALATFDKAFLSHKFVQQIFTEKWDTMGVTDYTKSLFGVVWGGCSLVVAFAAWATICPLVVVARSFLSPVQDFMMRGKVIV--------------------DSRFPWHVPLYRWLLTQCALITFTVLLSYLVFSFDPSDPVPASVAPLNTFLAVWCAAILVDEVQEY-----------VEEGRAEYMSSGWNVMDVTMALSYILHYILRIIAVRVTDNLNILLVVNDLLAAAALMAWFRMVSVFELSSAIGPLIQMMKQMLIKDVTRFALLVLVILLGFSVGMEALFQEACIERDPTTNECTKYTS----------WFEQK------------------RVTGVIFYLIFAIVTAILLL-NLFIAMLADTYTRVST-Q--AMVEFRYRKAKLMASYSRRD---------------------
+ .::..::...::::::::::::::::::::::.:::... ..::::::...                                                     ........:::::::::::::::::::::::: ::. . :  :::::::::::::::::.::....           ::.::..::  : :::::::::::::::::::: :   :   :::::::::::::::::::::..:::::::::.::::::::: ::::::::::::::::::::. ::               .::.          :                      :: ..: .:::::::::::: ::::::::::::::.. :  .::.:::::::::::::...                     
+TCLQLALEAKDMKFVSHGGIQAFLTKVWWGQLSVDNGLWR-VTLCMLAFPLL---------------------------------LTGLISFREKRLQDVGTPAARARAFFTAPVVVFHLNILSYFAFLCLFAYVLM-VDF-Q-P--VPSWCECAIYLWLFSLVCEEMRQLFYDPDECGLMKKAALYFSDF--W-NKLDVGAILLFVAGLTCRLI-P---A---TLYPGRVILSLDFILFCLRLMHIFTISKTLGPKIIIVKRMMK-DVFFFLFLLAVWVVSFGVAKQ-AI---------------LIHNERRVDWLFRGA----VYHSYLTIFGQIPGYIDGFP-EWL-TVLLLCLYLLFTNILLLNLLIAMFNYTFQQVQEHTDQIWKFQRHDLIEEYHGRPAAPPPFILLSHLQLFIKRVVL
+

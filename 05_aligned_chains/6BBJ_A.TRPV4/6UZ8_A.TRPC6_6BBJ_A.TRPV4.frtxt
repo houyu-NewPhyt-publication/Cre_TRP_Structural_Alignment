@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6UZ8_A.TRP  Size= 396
+Chain 2:6BBJ_A.TRP  Size= 294 (TM-score is normalized by  294)
+
+Aligned length= 255, RMSD=  5.74, TM-score=0.56645, ID=0.116
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+LSRLKLAIK-YE---VKKFVAHPNCQQQLLSIWYENLSGLRQQTMAVKFLVVLAVAIGLPFLALIYWFAPCSKMGKIMRGPFMKFVAHAASFTIFLGLLVMNAADRFEGTKLLPNETSTDNAKQ--LFRMKTSCFSWMEMLIISWVIGMIWA--ECKEIWTQGPK---EYLFELWNM-------------LDFG--MLA--IFAA--SFIARFMAFWHASKAQSIIDKVTLGDNVKYYNLARIKW-DPSDPQII-SEGLYAIAVVLSF-SRIAYI--LPANESFGPLQISLGRTVKDIFKFMVIFIMVFVAFMIGMFNLYSYY-IGAKQNEAF--TTVEESFKTLFWAIFGLSEVKS-VVINYNHKFIENIGYVLYGVYNVTMVIVLLNMLIAMINSSFQEIEDDADVEWKFARAKLWFSYFEEGRTLPVPFNLV
+ :::::::: ::   :::::....:::::::::::                                             ::.:::.::::::::::::::::.:.   . ..:..          .......::: ... :.......     .             ....::..              ..    .    ..    .  .                                   .... ..  ............. ....    ...::....::::::::::::......:...:...:.........  .          .::::::::::::: ::::... ::..   : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::.::..       
+-SVLEILVYNSKVENRHEMLAVEPINELLRDKWQK---------------------------------------------FGAVSFYISVVSYLIAMIIFTLIAYY---R-PMDGT--------PPYPYRTTMDYM-RLA-GEIVTLLT---GVV----------FFITNIKDLFM-VNSLFIDGSFQLLYF--IYS--VLVI--ITA--V----------------------------------LYLVG-IE-SYLAVMVFALVLGWMNALY--FTRGLKLTGTYSIMLQKILFKDLFRFLLVYLLFMIGYASALVSLLNP-CR--------DSSTFSKFLLDLFKLT-IGMGDLEMINSA---K-YPAVFIILLVTYIILTFVLLLNMLIALMGETVGQVSKESKQIWKLQWATTILDIERSFPVC-------
+

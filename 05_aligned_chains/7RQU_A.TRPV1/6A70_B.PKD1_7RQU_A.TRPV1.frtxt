@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6A70_B.PKD  Size= 404
+Chain 2:7RQU_A.TRP  Size= 306 (TM-score is normalized by  306)
+
+Aligned length= 213, RMSD=  4.12, TM-score=0.52730, ID=0.073
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+-----------------------AKE-EARKVKRL-HGMLRSLLVYMLFLLVTLLASYGDASCHGHAYRLQSAIKQELHSRAFLAITRSEELWPWMAHVLLPYVHGNQSSPELGPPRLRQVVGWESPHNGSGTWAYSAPDLLGAWSWGSCAVYDSGGYVQELGLSLEESRDRLRFLQLHNWLDNRSRAVFLELTRYSPAVGLHAAVTLRLEFPAAGRALAALSVRPFALRRLSAG----L--SL-PLLTSVCLLLFAVHFAVAEARTWHREGRWRVLRL-GAWARWLLVALTAATALVRLAQLGAADRQWTRFVRGRPRRFTSFDQVAQLSSAARGLAASLLFLLLVKAAQQLRFVRQWSVFGKTLCRALPELLGVTLGLVVLGVAYAQLAILLVSS-------HLSPLLCVGLWAL--R---------------------L---WG-ALRLGAVILRWRYHALRGELYRP--------------------------
+                       .:: :::::::. ::..:::::::::::::::: ::::: ::                                                                                                                                        :.::                   . ..:::..      .  :: :::::::::::::::::::::::    .:::::: ::..::::::::::::.::..: :.                    :. :::::.:::::::::::::::. :..::. .:..::..:...::.:::::::::::::::::::::::.       .::.::..:::::  :                     :   :: ::::::::::::::::....                             
+NSVLEVIAYSSSETPNRHDMLLVEPLNRLLQDKWDRFVKRIFYFNFFVYCLYMIIF-TAAAY-YR----------------------------------------------------------------------------------------------------------------------------------------PVEG-------------------L-PPYKLKN--TVGDYFRVTGEILSVSGGVYFFFRGIQYFLQRR----PSLKSLFVDSYSEILFFVQSLFMLVSVVLY-FS--------------------QR-KEYVASMVFSLAMGWTNMLYYT-RGFQQM-GIYAVMIEKMILRDLCRFMFVYLVFLFGFSTAVVTLIEDGGNSYNSLYSTCLELFKFTIGMGDLEFTENYDFKAVFIILLLAYVILTYILLLNMLIALMGETVNKIAQES---KNIWKLQRAITILDTEKSFLKCMRKA
+

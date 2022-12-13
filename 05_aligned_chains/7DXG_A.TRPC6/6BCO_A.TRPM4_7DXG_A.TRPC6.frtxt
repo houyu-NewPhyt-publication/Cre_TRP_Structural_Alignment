@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6BCO_A.TRP  Size= 369
+Chain 2:7DXG_A.TRP  Size= 372 (TM-score is normalized by  372)
+
+Aligned length= 313, RMSD=  3.80, TM-score=0.67672, ID=0.157
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+T-CLQLAMQADARAFFAQDGVQSLLTQKWWG--EMDSTTPIWALLLAFFCPPLIYTNLIVFRK----------------SKRWSDFWGAPVTAFLGNVVSYLLFLLLFAHVLLVD------F-QPTKPSVSELLLYFWAFTLLCEELRQGLGLRHRLHLYLSDTWNQCDLLALTCFLLGVGCRLT---P------------------------GLFDLGRTVLCLDFMIFTLRLLHIFTVNKQLG---PKIVIVSKMMKDVFFFLFFLCVWLVAYGVATEGILRPQDR--SLPSILRRVFYRPYLQIFGQIPQEEMDVALMIPGNCSMERGSWAHPEGPVAGSCVSQYANWLVVLLLIVFLLVANILLLNLLIAMFSYTFSKVHGNSDLYWKAQRYSLIREFH-SRPALAPPLIIISHVRLLIKWLRR
+: :::::::::::::::::::::::::::::  ::.:::::::::::::..                            .. .......::::::::::::::::::::::..:.      . .::::::::::::::::::::::::::::  .::::::::::::::::::::::::::::::   :                        .:::::::::::::::::::::::::::::::   :::::::::::::::::::::::::..::..:. .:.::.  ...:::..:::::::::::::::::::                .:        :.:::.:::::::::::::::: ::::::::::::::::  : ..:.::::::::::::: :::::::: ::  .:         
+LSRLKLAIKYEVKKFVAHPNCQQQLLSIWYENLSGLRQQTMAVKFLVVLAV------------AIGLPFLALIYWFAPCSK-MGKIMRGPFMKFVAHAASFTIFLGLLVMNAADRFEGTLFRMKTSCFSWMEMLIISWVIGMIWAECKEIWT--QGPKEYLFELWNMLDFGMLAIFAASFIARFMAFWHASKAQSIIDNVKYYNLARIKWDPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVKDIFKFMVIFIMVFVAFMIGMFNLYS-YYIGAKQNEAFTTVEESFKTLFWAIFGLSEVKSVV----------------IN--------YNHKFIENIGYVLYGVYNVTMV-IVLLNMLIAMINSSFQ--D-ADVEWKFARAKLWFSYFEEGRTLPVP-FN--LV---------
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6MIX_A.TRP  Size= 353
+Chain 2:6WHG_A.TRP  Size= 310 (TM-score is normalized by  310)
+
+Aligned length= 225, RMSD=  4.08, TM-score=0.56814, ID=0.175
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+---TCLQLALEAKDMKFVSHGGIQAFLTKVWWGQLSVDNGLWRVTLCMLAFPLLLTGLISF-------------REKRLQDVGTPAARARAFFTAPVVVFHLNILSYFAFLCLFAYVLMVDF---QPVPSWCECAIYLWLFSLVCEEMRQLFYDPDECGLMKKAALYFSDFWNKLDVGAILLFVAGLTCR-LI-----P-ATLYPGRVILSLDFILFCLRLMHIFTISKTLGPKIIIVKRMMK-DV-FF--FL-------------------------------FLLAVWVVSFGVAKQAILIHNERRVDWLFRGAVYHSYLTIFGQIPGYIDGFPEWLTVLLLCLYLL---------------------FTNIL--LLN-LLIAMFNYTFQQVQEHTDQIWKFQRHDLIEEYHGRPAAPPPFILLSHLQLFIKRVVL
+   :::::::::::::::::::::::::::::::.                                       ..    :.   :.  ...::::::::::::::::::::::::::::..   ::.:::::::::::::::::::..:..       .  :::::: ::::::::::::::::::::: ::     : ::::::::::::::::::::::::::::::::::::::::::. :. ..  .                                ....::::. ..                                                                          ..     ..  .. ..:.:::::::::::::::::::::::::..                       
+EPLNALELATDMHCTTVIGSSGFQRCLKWIWRGWI--------------------------VQNGLDPTTFIKDDS----LA---FN--PVRLKAPVYQNYLQMIFSFLFLGLYTLVVNGKDSERVQSFDLLESIFYVFNTGFILDELTKLY-------Y--IGYAHL-SFWNLFNDTTYLIITFAMGFRAMSVTPYSSEDWDKISYRVLSCAAPFVWSRLLLYLESQRFIGIMLVILKHMMKESIVFFFLL-FLIMIGFTQGFLGLDSADGKRDITGPILGNLTITVLGLGS-FD-----------------------------------------------------VFEEFAPPYAAILYYGYYFIVSV---ILLN-ILI-ALYSTAYQKVIDNADDEYMALMSQKTLRYIR-----------------------
+

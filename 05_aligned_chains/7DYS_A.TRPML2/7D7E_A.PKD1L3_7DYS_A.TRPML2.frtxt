@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7D7E_A.PKD  Size= 451
+Chain 2:7DYS_A.TRP  Size= 387 (TM-score is normalized by  387)
+
+Aligned length= 331, RMSD=  4.07, TM-score=0.69027, ID=0.114
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+---GTLVQILFLTLLMTTVYSA-KD--SSRFFLHRAIWKRFSHR----------FSEIKTVEDFYPWANGTLLPNLYGDYRGFITDGNSFLLG---N-VLIRQTRIPNDIFFPGSLHKQMKSPPQHQEDRENYGAGWVPPDTNITKVDSIWHYQNQESLGGYPIQGELATYSGGGYVVRLGRN-HSAA-TRVLQHLEQRRWLDHCTKALFVEFTVFNA-NV--------N-LLCAVTLILESSGVGT-FLTSLQLDSLTSLQSSERGFAWIVSQVVYYLLVCYYAFIQGCRLKR-QRL--AF---F-TRKRNLLDTSIVLISFSILGLSMQSLSLLHKKMQQYHCDRDRFISFYEALRVNSAVTHLRGFLLLFATVRVWDLLRHHAQ---LQ-VINKT-LSKAWDEVLGFILIIVVLLSSYAMTFNLLFGWSISDYQSFFRSIVTVVGLLMGTS--KHKEVIAL--YPILGSLLVLSSIIL-MGLVIINLFVS-AILIAFG--K---
+   ::::::::::::::::::: ::  :::::::::::::::::          .::... ..:::::: ::::::::.:  ..::.::::::   : ::::::.. :.:            .  . .:                                             .:::::::: ::.. ::::::::. ......::::::::::::: ::        . .::::::::::::::: :::::::::.....           :::::::::::..:....... ..   .    . .:::::::::::::::::::                                    :::::::::::::::::::::.::   :. :.::. ::::  ::::::::::::::::::::::::::::  :::::::::::::::::::  :::::::.  .:::::::::::::: :::::::.... :.....   .   
+KLGLQILKIVMVTTQLVRFGLSNQLVVAFKEDNTVAFKHLFLKGFSGVDEDDYSCSIYTQ-ENTYESIF-FAIKQYRHLK--NISLATLGYGEDNRTGLKVCKQHY-KTD------------S--D-IE---------------------------------------------TDCIHLDLQVLTTEPEDWAQTSFF-RLDFYRLVQVDISFALKGIDLQAVHSREIPDCYLFQNTITFDNTAHSGKIKIYLNSEANIEEC-----------LLVFDVFVIMICLASLILCTRSIV-LAL-RLRGWYVLVTISDLMTIIGSILKME------------------------------------DVCSILLGTSTLFVWVGVIRYLGYFQTYNVLILTMQASLP--KVLRFCACAGMIYLGYTFCGWIVLGPYH--FENLNIVAECLFSLVNGDDMFATFAQIQSILVWLFSRLYLYSFISLFIYMVLSLFIALITDSYHT-IKKYQQ
+

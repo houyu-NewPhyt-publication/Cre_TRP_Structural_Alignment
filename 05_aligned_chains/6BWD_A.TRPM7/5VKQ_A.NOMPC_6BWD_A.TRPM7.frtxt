@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:5VKQ_A.NOM  Size= 386
+Chain 2:6BWD_A.TRP  Size= 361 (TM-score is normalized by  361)
+
+Aligned length= 320, RMSD=  2.96, TM-score=0.78044, ID=0.174
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+SDSAGKILQATDKRNVEFLDVLIENEQKEVIAHTVVQRYLQELWHGSLTWASWKILLLLVAFIVCPPVWIGFTF------------------------PM-GHKFNKVPIIKFMSYLTSHIYLMIHLSIVGITPIYPVLRLSLVPYWYEVGLLIWLSGLLLFELTNP-------SDKSGLGSIKVLVLLLGMAGVGVHVSAFLFVSKEY--WPT-LVYCRNQCFALAFLLACVQILDFLSFHHLFGPWAIIIGDLLKDLARFLAVLAIFVFGFSMHIVALNQSFANFSPEDLRSFEKKNRNRGYFSDVR-MHPINSFELLFFAVFGQTTTEQTQVD----KIKNVATPTQPYWVEYLFKIVFGIYMLVSVVVLIQLLIAMMSDTYQRIQAQSDIEWKFGLSKLIRNMHRTTTA-PSPLNLVTTWFMW
+          ::    ::::::::::::::::::::::::::::::::::::::::::. :..                                   .  .:::::::::::::::::::::::::::::: :  ::::   ::::::::::::::::::::::::       ::::::::::::::::::::::::::::   :.:.  ::: :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.                  . .:. .  .:::::::::::::::::::::....    :::::   ::: .:: :::::::::::::::::::::::::::::::::::::::::::::::::::: :::. :::::::::  : 
+----------NS----TCLKLAVSSRLRPFVAHTCTQMLLSDMWMGRLNMWYKVILSIL-VPP-----------AILMLEYKTKAEMSHIPQSQDAHQR-KFYAFYHAPIVKFWFNTLAYLGFLMLYTFVVL-V--KMEQ---LPSVQEWIVIAYIFTYAIEKVREVFMQKIKVWFSDYFNVSDTIAIISFFVGFGLRFGAK---WNYINAYDNHVFVAGRLIYCLNIIFWYVRLLDFLAVNQQAGPYVMMIGKMVANMFYIVVIMALVLLSFGVPRKAILYP------------------H-EEP-S-WSLAKDIVFHPYWMIFGEVYAYEIDVCANDSTLPTI---CGP-GTW-LTPFLQAVYLFVQYIIMVNLLIAFFNNVYLQVKAISNIVWKYQRYHFIMAYH-EKPVLPPPLIILSH--I-
+

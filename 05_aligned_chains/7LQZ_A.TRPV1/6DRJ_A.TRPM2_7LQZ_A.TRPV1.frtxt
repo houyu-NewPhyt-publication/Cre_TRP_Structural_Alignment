@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6DRJ_A.TRP  Size= 397
+Chain 2:7LQZ_A.TRP  Size= 309 (TM-score is normalized by  309)
+
+Aligned length= 267, RMSD=  4.60, TM-score=0.64506, ID=0.099
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+--TC-LWL-A-L-EAHDKSFIAHSGVQALLTQIWCGELSVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMIDFQ-----TSP---------SWRELLLYVWLTSLVCEEIRQLYHDFDGSGFRRKAKMYI-K---DLWNILDVLSIVLFIAGLICRLQASDTVFYIGKVILCIDFIIFCLRLMAIF---------SISRTLGPKIIIVRRMMLDLFFFMFLLSIWVVAYGVAKQGILIENEER--LNWIIRGAVYEPYITIF-GNFPTNIDNTLFDISSCSVNASDPLKPKCPMLNADNTPVFPEWLTIMMLCVYLLFANILLLNLLIAIFNYTFQEVQDN-TDTIWKFQRYELIKEYHSRPALPPPFILLSHLILFIRGVFL-----
+  :. .:. . . .::..........::::::::::                                                            ::::::::::::::::::::::::::::.     ::.         :::::::::::::::.... .:.       .. ::::.. :   ::::::::::::::::::::::: :  : ::::::::::::::::::::::         ::..   ... .:...::.:::::::::::::::::: :: ..: .    ...::...:...:..:. ... .:....                  ..         .   .: .:.::::::::::::::::::::::::::::: ::.::.:::::::::::::..     .  .  ..            
+NSVLEVIAYSSSETPNRHDMLLVEPLNRLLQDKWDR------------------------------------------------------------FVKRIFYFNFFVYCLYMIVFTTAAYYRPVDGLPPYKLKNTVGDYFRVTGEILSVSGGVYFFLRGI-QYF-------LQ-RRPSMKTLFVDSYSEMLFFVQSLFMLGSVVLYFS-H--R-KEYVASMVFSLAMGWTNMLYYTRGFQQMGIYAVMI---EKM-ILRDLCRFMFVYLVFLFGFSTAVVTL-IE-DGK-N--PPDSYNSLYSTCLELFKFTIGMG-DLEFTE------------------NY---------D---FK-AVFIILLLAYVILTYILLLNMLIALMGETVNKIAQESKNIWKLQRAITILDTEK-----S--F--LK-------CMRKA
+

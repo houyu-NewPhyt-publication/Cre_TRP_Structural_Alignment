@@ -1,0 +1,1864 @@
+load inline
+select atomno<2000
+wireframe .45
+select none
+select atomno>2000
+wireframe .20
+color white
+select atomno=   2
+color red
+select atomno=2005
+color red
+select atomno=   3
+color red
+select atomno=2006
+color red
+select atomno=   4
+color red
+select atomno=2007
+color red
+select atomno=   5
+color red
+select atomno=2008
+color red
+select atomno=   6
+color red
+select atomno=2009
+color red
+select atomno=  16
+color red
+select atomno=2036
+color red
+select atomno=  18
+color red
+select atomno=2038
+color red
+select atomno=  23
+color red
+select atomno=2043
+color red
+select atomno=  24
+color red
+select atomno=2044
+color red
+select atomno=  26
+color red
+select atomno=2047
+color red
+select atomno=  27
+color red
+select atomno=2048
+color red
+select atomno=  28
+color red
+select atomno=2049
+color red
+select atomno=  29
+color red
+select atomno=2050
+color red
+select atomno=  30
+color red
+select atomno=2051
+color red
+select atomno=  31
+color red
+select atomno=2052
+color red
+select atomno=  32
+color red
+select atomno=2053
+color red
+select atomno=  33
+color red
+select atomno=2054
+color red
+select atomno=  34
+color red
+select atomno=2055
+color red
+select atomno=  35
+color red
+select atomno=2056
+color red
+select atomno=  36
+color red
+select atomno=2057
+color red
+select atomno=  37
+color red
+select atomno=2058
+color red
+select atomno=  38
+color red
+select atomno=2059
+color red
+select atomno=  39
+color red
+select atomno=2060
+color red
+select atomno=  40
+color red
+select atomno=2061
+color red
+select atomno=  41
+color red
+select atomno=2062
+color red
+select atomno=  42
+color red
+select atomno=2063
+color red
+select atomno=  43
+color red
+select atomno=2064
+color red
+select atomno=  44
+color red
+select atomno=2065
+color red
+select atomno=  46
+color red
+select atomno=2066
+color red
+select atomno=  47
+color red
+select atomno=2067
+color red
+select atomno=  50
+color red
+select atomno=2068
+color red
+select atomno=  51
+color red
+select atomno=2069
+color red
+select atomno= 187
+color red
+select atomno=2070
+color red
+select atomno= 243
+color red
+select atomno=2089
+color red
+select atomno= 244
+color red
+select atomno=2090
+color red
+select atomno= 245
+color red
+select atomno=2091
+color red
+select atomno= 246
+color red
+select atomno=2092
+color red
+select atomno= 247
+color red
+select atomno=2093
+color red
+select atomno= 248
+color red
+select atomno=2094
+color red
+select atomno= 249
+color red
+select atomno=2095
+color red
+select atomno= 250
+color red
+select atomno=2096
+color red
+select atomno= 251
+color red
+select atomno=2097
+color red
+select atomno= 252
+color red
+select atomno=2098
+color red
+select atomno= 253
+color red
+select atomno=2099
+color red
+select atomno= 254
+color red
+select atomno=2100
+color red
+select atomno= 255
+color red
+select atomno=2101
+color red
+select atomno= 256
+color red
+select atomno=2102
+color red
+select atomno= 257
+color red
+select atomno=2103
+color red
+select atomno= 258
+color red
+select atomno=2104
+color red
+select atomno= 259
+color red
+select atomno=2105
+color red
+select atomno= 260
+color red
+select atomno=2106
+color red
+select atomno= 261
+color red
+select atomno=2107
+color red
+select atomno= 262
+color red
+select atomno=2108
+color red
+select atomno= 263
+color red
+select atomno=2109
+color red
+select atomno= 266
+color red
+select atomno=2111
+color red
+select atomno= 290
+color red
+select atomno=2119
+color red
+select atomno= 293
+color red
+select atomno=2122
+color red
+select atomno= 294
+color red
+select atomno=2123
+color red
+select atomno= 295
+color red
+select atomno=2124
+color red
+select atomno= 296
+color red
+select atomno=2125
+color red
+select atomno= 297
+color red
+select atomno=2126
+color red
+select atomno= 298
+color red
+select atomno=2127
+color red
+select atomno= 299
+color red
+select atomno=2128
+color red
+select atomno= 300
+color red
+select atomno=2129
+color red
+select atomno= 301
+color red
+select atomno=2130
+color red
+select atomno= 302
+color red
+select atomno=2131
+color red
+select atomno= 303
+color red
+select atomno=2132
+color red
+select atomno= 304
+color red
+select atomno=2133
+color red
+select atomno= 305
+color red
+select atomno=2134
+color red
+select atomno= 306
+color red
+select atomno=2135
+color red
+select atomno= 307
+color red
+select atomno=2136
+color red
+select atomno= 308
+color red
+select atomno=2137
+color red
+select atomno= 309
+color red
+select atomno=2138
+color red
+select atomno= 310
+color red
+select atomno=2139
+color red
+select atomno= 311
+color red
+select atomno=2140
+color red
+select atomno= 312
+color red
+select atomno=2141
+color red
+select atomno= 313
+color red
+select atomno=2142
+color red
+select atomno= 314
+color red
+select atomno=2143
+color red
+select atomno= 316
+color red
+select atomno=2144
+color red
+select atomno= 322
+color red
+select atomno=2146
+color red
+select atomno= 324
+color red
+select atomno=2148
+color red
+select atomno= 327
+color red
+select atomno=2149
+color red
+select atomno= 328
+color red
+select atomno=2150
+color red
+select atomno= 329
+color red
+select atomno=2151
+color red
+select atomno= 330
+color red
+select atomno=2152
+color red
+select atomno= 331
+color red
+select atomno=2153
+color red
+select atomno= 332
+color red
+select atomno=2154
+color red
+select atomno= 333
+color red
+select atomno=2155
+color red
+select atomno= 334
+color red
+select atomno=2156
+color red
+select atomno= 335
+color red
+select atomno=2157
+color red
+select atomno= 336
+color red
+select atomno=2158
+color red
+select atomno= 337
+color red
+select atomno=2159
+color red
+select atomno= 338
+color red
+select atomno=2160
+color red
+select atomno= 339
+color red
+select atomno=2161
+color red
+select atomno= 340
+color red
+select atomno=2162
+color red
+select atomno= 341
+color red
+select atomno=2163
+color red
+select atomno= 342
+color red
+select atomno=2164
+color red
+select atomno= 343
+color red
+select atomno=2165
+color red
+select atomno= 344
+color red
+select atomno=2166
+color red
+select atomno= 345
+color red
+select atomno=2167
+color red
+select atomno= 346
+color red
+select atomno=2168
+color red
+select atomno= 347
+color red
+select atomno=2169
+color red
+select atomno= 348
+color red
+select atomno=2170
+color red
+select atomno= 349
+color red
+select atomno=2171
+color red
+select atomno= 350
+color red
+select atomno=2172
+color red
+select atomno= 351
+color red
+select atomno=2173
+color red
+select atomno= 352
+color red
+select atomno=2174
+color red
+select atomno= 353
+color red
+select atomno=2175
+color red
+select atomno= 354
+color red
+select atomno=2176
+color red
+select atomno= 357
+color red
+select atomno=2179
+color red
+select atomno= 358
+color red
+select atomno=2180
+color red
+select atomno= 359
+color red
+select atomno=2181
+color red
+select atomno= 360
+color red
+select atomno=2182
+color red
+select atomno= 361
+color red
+select atomno=2183
+color red
+select atomno= 362
+color red
+select atomno=2184
+color red
+select atomno= 363
+color red
+select atomno=2185
+color red
+select atomno= 364
+color red
+select atomno=2187
+color red
+select atomno= 365
+color red
+select atomno=2188
+color red
+select atomno= 366
+color red
+select atomno=2189
+color red
+select atomno= 367
+color red
+select atomno=2190
+color red
+select atomno= 368
+color red
+select atomno=2191
+color red
+select atomno= 369
+color red
+select atomno=2192
+color red
+select atomno= 370
+color red
+select atomno=2193
+color red
+select atomno= 371
+color red
+select atomno=2194
+color red
+select atomno= 372
+color red
+select atomno=2195
+color red
+select atomno= 373
+color red
+select atomno=2196
+color red
+select atomno= 374
+color red
+select atomno=2197
+color red
+select atomno= 375
+color red
+select atomno=2198
+color red
+select atomno= 376
+color red
+select atomno=2199
+color red
+select atomno= 377
+color red
+select atomno=2200
+color red
+select atomno= 378
+color red
+select atomno=2201
+color red
+select atomno= 379
+color red
+select atomno=2202
+color red
+select atomno= 380
+color red
+select atomno=2203
+color red
+select atomno= 381
+color red
+select atomno=2204
+color red
+select atomno= 382
+color red
+select atomno=2205
+color red
+select atomno= 383
+color red
+select atomno=2206
+color red
+select atomno= 384
+color red
+select atomno=2207
+color red
+select atomno= 385
+color red
+select atomno=2208
+color red
+select atomno= 386
+color red
+select atomno=2209
+color red
+select atomno= 387
+color red
+select atomno=2210
+color red
+select atomno= 388
+color red
+select atomno=2211
+color red
+select atomno= 389
+color red
+select atomno=2212
+color red
+select atomno= 391
+color red
+select atomno=2214
+color red
+select atomno= 394
+color red
+select atomno=2223
+color red
+select atomno= 395
+color red
+select atomno=2224
+color red
+select atomno= 396
+color red
+select atomno=2225
+color red
+select atomno= 397
+color red
+select atomno=2226
+color red
+select atomno= 398
+color red
+select atomno=2227
+color red
+select atomno= 399
+color red
+select atomno=2228
+color red
+select atomno= 400
+color red
+select atomno=2229
+color red
+select atomno= 401
+color red
+select atomno=2230
+color red
+select atomno= 402
+color red
+select atomno=2231
+color red
+select atomno= 403
+color red
+select atomno=2232
+color red
+select atomno= 404
+color red
+select atomno=2233
+color red
+select atomno= 405
+color red
+select atomno=2234
+color red
+select atomno= 406
+color red
+select atomno=2235
+color red
+select atomno= 407
+color red
+select atomno=2236
+color red
+select atomno= 408
+color red
+select atomno=2237
+color red
+select atomno= 409
+color red
+select atomno=2238
+color red
+select atomno= 410
+color red
+select atomno=2239
+color red
+select atomno= 411
+color red
+select atomno=2240
+color red
+select atomno= 412
+color red
+select atomno=2241
+color red
+select atomno= 413
+color red
+select atomno=2242
+color red
+select atomno= 414
+color red
+select atomno=2243
+color red
+select atomno= 415
+color red
+select atomno=2244
+color red
+select atomno= 416
+color red
+select atomno=2245
+color red
+select atomno= 418
+color red
+select atomno=2246
+color red
+select atomno= 419
+color red
+select atomno=2247
+color red
+select atomno= 421
+color red
+select atomno=2248
+color red
+select atomno= 422
+color red
+select atomno=2249
+color red
+select atomno= 427
+color red
+select atomno=2251
+color red
+select atomno= 429
+color red
+select atomno=2252
+color red
+select atomno= 432
+color red
+select atomno=2253
+color red
+select atomno= 433
+color red
+select atomno=2254
+color red
+select atomno= 434
+color red
+select atomno=2255
+color red
+select atomno= 435
+color red
+select atomno=2256
+color red
+select atomno= 436
+color red
+select atomno=2257
+color red
+select atomno= 437
+color red
+select atomno=2258
+color red
+select atomno= 438
+color red
+select atomno=2259
+color red
+select atomno= 439
+color red
+select atomno=2260
+color red
+select atomno= 440
+color red
+select atomno=2261
+color red
+select atomno= 441
+color red
+select atomno=2262
+color red
+select atomno= 442
+color red
+select atomno=2263
+color red
+select atomno= 443
+color red
+select atomno=2264
+color red
+select atomno= 444
+color red
+select atomno=2265
+color red
+select atomno= 445
+color red
+select atomno=2266
+color red
+select atomno= 446
+color red
+select atomno=2267
+color red
+select atomno= 447
+color red
+select atomno=2268
+color red
+select atomno= 448
+color red
+select atomno=2269
+color red
+select atomno= 449
+color red
+select atomno=2270
+color red
+select atomno= 450
+color red
+select atomno=2271
+color red
+select atomno= 451
+color red
+select atomno=2272
+color red
+select atomno= 452
+color red
+select atomno=2273
+color red
+select atomno= 453
+color red
+select atomno=2274
+color red
+select atomno= 454
+color red
+select atomno=2275
+color red
+select atomno= 455
+color red
+select atomno=2276
+color red
+select atomno= 456
+color red
+select atomno=2277
+color red
+select atomno= 457
+color red
+select atomno=2278
+color red
+select atomno= 458
+color red
+select atomno=2279
+color red
+select atomno= 459
+color red
+select atomno=2280
+color red
+select atomno= 460
+color red
+select atomno=2281
+color red
+select atomno= 461
+color red
+select atomno=2282
+color red
+select atomno= 462
+color red
+select atomno=2283
+color red
+select atomno= 463
+color red
+select atomno=2284
+color red
+select atomno= 464
+color red
+select atomno=2285
+color red
+select atomno= 465
+color red
+select atomno=2286
+color red
+select atomno= 466
+color red
+select atomno=2287
+color red
+select atomno= 467
+color red
+select atomno=2288
+color red
+select all
+exit
+REMARK   Protein 1:7SQ9_A.TRP Length = 469
+REMARK   Protein 2:7MIK_A.TRP Length = 318
+REMARK   Structural alignment summary:  Aligned length= 255; RMSD =  4.00; TM-score=0.64645
+ATOM      1  CA  ASP    40      14.503 -38.790 -37.084
+ATOM      2  CA  LEU    41      11.078 -37.293 -36.382
+ATOM      3  CA  ARG    42      12.043 -36.886 -32.680
+ATOM      4  CA  ARG    43       8.618 -36.967 -31.028
+ATOM      5  CA  ARG    44      10.463 -37.834 -27.798
+ATOM      6  CA  LEU    45      11.455 -34.209 -27.218
+ATOM      7  CA  LYS    46       7.818 -33.154 -27.368
+ATOM      8  CA  TYR    47       6.884 -36.109 -25.171
+ATOM      9  CA  PHE    48       9.356 -34.992 -22.516
+ATOM     10  CA  PHE    49       7.868 -31.492 -22.154
+ATOM     11  CA  MET    50       4.354 -32.800 -21.755
+ATOM     12  CA  SER    51       1.842 -32.532 -18.934
+ATOM     13  CA  PRO    52       0.868 -35.605 -16.890
+ATOM     14  CA  CYS    53      -2.546 -35.721 -18.577
+ATOM     15  CA  ASP    54      -0.933 -35.512 -22.017
+ATOM     16  CA  LYS    55       1.572 -38.225 -21.099
+ATOM     17  CA  PHE    56      -1.250 -40.457 -19.869
+ATOM     18  CA  ARG    57      -3.173 -39.908 -23.111
+ATOM     19  CA  ALA    58      -0.020 -40.712 -25.071
+ATOM     20  CA  LYS    59       1.249 -43.891 -23.377
+ATOM     21  CA  GLY    60       0.177 -46.069 -20.474
+ATOM     22  CA  ARG    61       1.833 -43.592 -18.114
+ATOM     23  CA  LYS    62       0.051 -43.352 -14.786
+ATOM     24  CA  PRO    63       1.160 -40.301 -12.770
+ATOM     25  CA  CYS    64       3.110 -41.733  -9.844
+ATOM     26  CA  LYS    65       5.091 -38.623  -8.906
+ATOM     27  CA  LEU    66       1.933 -36.517  -8.499
+ATOM     28  CA  MET    67       0.076 -38.958  -6.248
+ATOM     29  CA  LEU    68       3.348 -39.485  -4.379
+ATOM     30  CA  GLN    69       3.592 -35.764  -3.803
+ATOM     31  CA  VAL    70       0.037 -35.639  -2.441
+ATOM     32  CA  VAL    71       0.761 -38.532  -0.067
+ATOM     33  CA  LYS    72       4.040 -36.833   0.871
+ATOM     34  CA  ILE    73       2.252 -33.603   1.758
+ATOM     35  CA  LEU    74      -0.184 -35.458   3.997
+ATOM     36  CA  VAL    75       2.365 -37.644   5.792
+ATOM     37  CA  VAL    76       5.058 -34.971   6.179
+ATOM     38  CA  THR    77       2.570 -32.466   7.606
+ATOM     39  CA  VAL    78       1.233 -35.045  10.059
+ATOM     40  CA  GLN    79       4.770 -35.980  11.090
+ATOM     41  CA  LEU    80       5.640 -32.325  11.696
+ATOM     42  CA  ILE    81       2.594 -31.889  13.946
+ATOM     43  CA  LEU    82       3.312 -35.116  15.839
+ATOM     44  CA  PHE    83       6.897 -34.007  16.466
+ATOM     46  CA  LEU    85       3.741 -32.154  20.415
+ATOM     47  CA  SER    86       7.019 -33.319  22.013
+ATOM     50  CA  LEU    89       6.553 -29.985  25.797
+ATOM     51  CA  VAL    90      10.343 -29.551  25.930
+ATOM    187  CA  ASN   241       9.959 -33.592  32.802
+ATOM    190  CA  SER   244       6.095 -36.104  28.634
+ATOM    191  CA  LEU   245       3.926 -38.977  29.904
+ATOM    193  CA  ASN   247       2.678 -38.098  24.936
+ATOM    194  CA  ASN   248       3.376 -41.728  25.905
+ATOM    195  CA  GLU   249       7.054 -40.916  26.182
+ATOM    237  CA  ARG   291       1.336 -48.073  31.705
+ATOM    238  CA  HIS   292       3.692 -47.691  28.695
+ATOM    239  CA  PHE   297       3.382 -46.500  16.614
+ATOM    240  CA  ARG   298       5.090 -43.425  15.247
+ATOM    241  CA  LEU   299       8.384 -45.281  14.861
+ATOM    242  CA  LEU   300       6.530 -46.945  11.986
+ATOM    243  CA  PHE   301       5.050 -43.662  10.747
+ATOM    244  CA  ASP   302       8.580 -42.283  10.476
+ATOM    245  CA  VAL   303       9.525 -45.353   8.427
+ATOM    246  CA  VAL   304       6.489 -44.735   6.206
+ATOM    247  CA  VAL   305       7.592 -41.131   5.679
+ATOM    248  CA  ILE   306      11.130 -42.307   4.924
+ATOM    249  CA  LEU   307       9.950 -44.840   2.342
+ATOM    250  CA  THR   308       7.633 -42.341   0.647
+ATOM    251  CA  CYS   309      10.425 -39.767   0.416
+ATOM    252  CA  SER   310      12.884 -42.394  -0.840
+ATOM    253  CA  LEU   311      10.449 -43.349  -3.606
+ATOM    254  CA  SER   312       9.974 -39.704  -4.565
+ATOM    255  CA  PHE   313      13.746 -39.184  -4.555
+ATOM    256  CA  LEU   314      14.327 -42.201  -6.797
+ATOM    257  CA  LEU   315      11.665 -41.180  -9.310
+ATOM    258  CA  CYS   316      12.893 -37.581  -9.435
+ATOM    259  CA  ALA   317      16.515 -38.669  -9.900
+ATOM    260  CA  ARG   318      15.450 -40.966 -12.731
+ATOM    261  CA  SER   319      13.661 -38.026 -14.356
+ATOM    262  CA  LEU   320      16.771 -35.858 -13.967
+ATOM    263  CA  LEU   321      18.980 -38.505 -15.588
+ATOM    264  CA  ARG   322      16.439 -38.809 -18.382
+ATOM    266  CA  PHE   324      20.344 -35.093 -19.003
+ATOM    267  CA  LEU   325      20.413 -37.886 -21.595
+ATOM    269  CA  GLN   327      19.689 -32.889 -23.582
+ATOM    285  CA  SER   343      23.982 -24.561 -27.719
+ATOM    286  CA  LEU   344      25.251 -22.827 -24.578
+ATOM    287  CA  TRP   345      22.272 -22.380 -22.245
+ATOM    288  CA  GLU   346      19.338 -24.417 -23.563
+ATOM    289  CA  ARG   347      21.172 -27.339 -21.977
+ATOM    290  CA  LEU   348      20.267 -25.720 -18.663
+ATOM    291  CA  GLU   349      16.700 -25.234 -19.890
+ATOM    292  CA  PHE   350      16.553 -29.035 -20.149
+ATOM    293  CA  VAL   351      17.081 -29.108 -16.368
+ATOM    294  CA  ASN   352      13.807 -28.654 -14.490
+ATOM    295  CA  GLY   353      14.377 -27.198 -11.033
+ATOM    296  CA  TRP   354      11.251 -28.598  -9.550
+ATOM    297  CA  TYR   355      12.776 -32.081  -9.421
+ATOM    298  CA  ILE   356      15.890 -30.604  -7.864
+ATOM    299  CA  LEU   357      13.690 -28.915  -5.263
+ATOM    300  CA  LEU   358      11.870 -32.188  -4.657
+ATOM    301  CA  VAL   359      15.111 -34.123  -4.217
+ATOM    302  CA  THR   360      16.367 -31.495  -1.765
+ATOM    303  CA  SER   361      13.091 -31.693   0.159
+ATOM    304  CA  ASP   362      13.288 -35.500   0.235
+ATOM    305  CA  VAL   363      16.830 -35.403   1.619
+ATOM    306  CA  LEU   364      15.864 -32.832   4.249
+ATOM    307  CA  THR   365      12.775 -34.825   5.238
+ATOM    308  CA  ILE   366      14.787 -38.043   5.564
+ATOM    309  CA  SER   367      17.444 -36.311   7.665
+ATOM    310  CA  GLY   368      14.786 -34.779   9.902
+ATOM    311  CA  THR   369      12.988 -38.105  10.269
+ATOM    312  CA  VAL   370      16.215 -39.897  11.194
+ATOM    313  CA  MET   371      17.060 -37.205  13.744
+ATOM    314  CA  LYS   372      13.532 -37.463  15.166
+ATOM    316  CA  GLY   374      17.214 -40.673  17.282
+ATOM    321  CA  ASN   379      20.295 -41.002  21.478
+ATOM    322  CA  LEU   380      19.840 -37.308  20.606
+ATOM    323  CA  ALA   381      18.428 -34.160  22.183
+ATOM    324  CA  SER   382      18.531 -31.539  19.427
+ATOM    327  CA  VAL   385      17.582 -28.658  14.648
+ATOM    328  CA  CYS   386      15.006 -31.400  14.095
+ATOM    329  CA  SER   387      12.128 -28.921  14.187
+ATOM    330  CA  ILE   388      13.869 -26.718  11.627
+ATOM    331  CA  LEU   389      14.591 -29.647   9.301
+ATOM    332  CA  LEU   390      11.022 -30.939   9.515
+ATOM    333  CA  GLY   391       9.422 -27.503   9.127
+ATOM    334  CA  THR   392      11.552 -26.514   6.147
+ATOM    335  CA  SER   393      10.819 -29.884   4.614
+ATOM    336  CA  THR   394       7.076 -29.349   5.129
+ATOM    337  CA  LEU   395       7.231 -25.931   3.476
+ATOM    338  CA  LEU   396       9.183 -27.298   0.515
+ATOM    339  CA  VAL   397       6.879 -30.307   0.132
+ATOM    340  CA  TRP   398       3.848 -28.019   0.007
+ATOM    341  CA  VAL   399       5.556 -25.690  -2.480
+ATOM    342  CA  GLY   400       6.746 -28.472  -4.787
+ATOM    343  CA  VAL   401       3.207 -29.414  -5.818
+ATOM    344  CA  ILE   402       3.187 -26.160  -7.816
+ATOM    345  CA  ARG   403       5.137 -28.103 -10.454
+ATOM    346  CA  TYR   404       1.897 -29.566 -11.827
+ATOM    347  CA  LEU   405       0.200 -26.161 -11.999
+ATOM    348  CA  THR   406       2.852 -24.776 -14.371
+ATOM    349  CA  PHE   407       1.370 -26.762 -17.286
+ATOM    350  CA  PHE   408      -1.713 -24.498 -17.270
+ATOM    351  CA  HIS   409      -1.038 -20.834 -17.977
+ATOM    352  CA  LYS   410      -4.162 -19.659 -16.151
+ATOM    353  CA  TYR   411      -2.864 -21.269 -12.938
+ATOM    354  CA  ASN   412       0.792 -20.284 -13.488
+ATOM    355  CA  ILE   413       0.521 -16.480 -13.248
+ATOM    356  CA  LEU   414       2.785 -16.192 -10.201
+ATOM    357  CA  ILE   415       5.563 -18.471 -11.460
+ATOM    358  CA  ALA   416       5.588 -17.100 -15.012
+ATOM    359  CA  THR   417       5.583 -13.487 -13.813
+ATOM    360  CA  LEU   418       8.400 -14.220 -11.378
+ATOM    361  CA  ARG   419      10.533 -15.890 -14.023
+ATOM    362  CA  VAL   420      10.166 -12.950 -16.359
+ATOM    363  CA  ALA   421      10.595 -10.282 -13.631
+ATOM    364  CA  LEU   422      13.502 -11.676 -11.675
+ATOM    365  CA  PRO   423      16.362 -10.359 -13.879
+ATOM    366  CA  SER   424      15.128  -6.754 -13.836
+ATOM    367  CA  VAL   425      14.245  -7.029 -10.141
+ATOM    368  CA  MET   426      17.758  -8.219  -9.267
+ATOM    369  CA  ARG   427      19.351  -5.516 -11.407
+ATOM    370  CA  PHE   428      17.245  -2.839  -9.660
+ATOM    371  CA  CYS   429      18.011  -4.296  -6.229
+ATOM    372  CA  CYS   430      21.723  -3.980  -7.002
+ATOM    373  CA  CYS   431      21.366  -0.194  -6.824
+ATOM    374  CA  VAL   432      18.884  -0.239  -3.962
+ATOM    375  CA  ALA   433      21.219  -2.354  -1.819
+ATOM    376  CA  VAL   434      23.958   0.279  -1.536
+ATOM    377  CA  ILE   435      21.480   2.927  -0.367
+ATOM    378  CA  TYR   436      19.880   0.499   2.071
+ATOM    379  CA  LEU   437      23.222  -0.579   3.572
+ATOM    380  CA  GLY   438      24.428   3.007   3.883
+ATOM    381  CA  TYR   439      21.280   3.872   5.807
+ATOM    382  CA  CYS   440      21.608   0.731   7.932
+ATOM    383  CA  PHE   441      25.156   1.502   9.060
+ATOM    384  CA  CYS   442      24.456   5.210   9.581
+ATOM    385  CA  GLY   443      21.388   4.534  11.716
+ATOM    386  CA  TRP   444      23.067   1.726  13.637
+ATOM    387  CA  ILE   445      26.000   3.845  14.768
+ATOM    388  CA  VAL   446      24.463   7.321  15.018
+ATOM    389  CA  LEU   447      21.089   6.385  16.544
+ATOM    390  CA  GLY   448      21.856   2.997  18.115
+ATOM    391  CA  PRO   449      22.865   4.538  21.447
+ATOM    392  CA  TYR   450      19.698   6.668  21.611
+ATOM    393  CA  HIS   451      17.006   4.603  19.856
+ATOM    394  CA  VAL   452      15.683   1.302  21.187
+ATOM    395  CA  LYS   453      14.953   0.068  17.646
+ATOM    396  CA  PHE   454      18.479   0.791  16.386
+ATOM    397  CA  ARG   455      20.430  -1.146  19.018
+ATOM    398  CA  SER   456      21.939  -3.848  16.777
+ATOM    399  CA  LEU   457      22.564  -4.341  13.074
+ATOM    400  CA  SER   458      19.859  -6.998  12.727
+ATOM    401  CA  MET   459      17.415  -4.840  14.692
+ATOM    402  CA  VAL   460      18.262  -1.808  12.538
+ATOM    403  CA  SER   461      17.561  -3.925   9.464
+ATOM    404  CA  GLU   462      14.226  -5.033  10.929
+ATOM    405  CA  CYS   463      13.294  -1.420  11.711
+ATOM    406  CA  LEU   464      14.191  -0.195   8.217
+ATOM    407  CA  PHE   465      12.474  -3.114   6.475
+ATOM    408  CA  SER   466       9.305  -2.472   8.475
+ATOM    409  CA  LEU   467       9.519   1.253   7.695
+ATOM    410  CA  ILE   468       9.696   0.423   3.983
+ATOM    411  CA  ASN   469       6.399  -1.407   4.463
+ATOM    412  CA  GLY   470       4.838   1.507   6.356
+ATOM    413  CA  ASP   471       4.927  -0.219   9.743
+ATOM    414  CA  ASP   472       5.624   1.286  13.184
+ATOM    415  CA  MET   473       6.342   4.767  11.812
+ATOM    416  CA  PHE   474       4.993   7.044  14.542
+ATOM    418  CA  THR   476       9.888   5.256  15.594
+ATOM    419  CA  PHE   477       9.504   9.049  15.561
+ATOM    421  CA  ALA   479      11.152   7.212  20.527
+ATOM    422  CA  MET   480      13.242  10.204  19.433
+ATOM    425  CA  GLN   483      14.449  11.799  24.769
+ATOM    427  CA  GLY   485      18.587  11.843  21.876
+ATOM    429  CA  SER   487      20.775  16.511  22.269
+ATOM    432  CA  VAL   490      20.895  14.131  17.308
+ATOM    433  CA  TRP   491      17.126  14.668  17.249
+ATOM    434  CA  LEU   492      17.378  16.857  14.145
+ATOM    435  CA  PHE   493      19.550  14.236  12.468
+ATOM    436  CA  SER   494      16.989  11.560  13.325
+ATOM    437  CA  GLN   495      14.279  13.726  11.757
+ATOM    438  CA  LEU   496      16.238  14.070   8.521
+ATOM    439  CA  TYR   497      17.259  10.401   8.498
+ATOM    440  CA  LEU   498      13.745   9.056   9.029
+ATOM    441  CA  TYR   499      11.899  11.452   6.729
+ATOM    442  CA  SER   500      14.400  10.921   3.912
+ATOM    443  CA  PHE   501      14.531   7.132   4.234
+ATOM    444  CA  ILE   502      10.758   6.729   4.489
+ATOM    445  CA  SER   503       9.923   9.063   1.601
+ATOM    446  CA  LEU   504      12.589   7.611  -0.680
+ATOM    447  CA  PHE   505      11.878   3.943  -0.053
+ATOM    448  CA  ILE   506       8.077   4.083   0.149
+ATOM    449  CA  TYR   507       7.446   6.488  -2.724
+ATOM    450  CA  MET   508      10.252   5.713  -5.210
+ATOM    451  CA  VAL   509      11.907   2.361  -4.493
+ATOM    452  CA  LEU   510       8.795   0.337  -3.669
+ATOM    453  CA  SER   511       6.734   1.999  -6.401
+ATOM    454  CA  LEU   512       9.361   1.139  -9.023
+ATOM    455  CA  PHE   513       9.780  -2.404  -7.676
+ATOM    456  CA  ILE   514       6.054  -3.004  -7.963
+ATOM    457  CA  ALA   515       6.043  -1.400 -11.424
+ATOM    458  CA  LEU   516       8.683  -3.902 -12.529
+ATOM    459  CA  ILE   517       6.618  -6.818 -11.196
+ATOM    460  CA  THR   518       3.408  -5.654 -12.872
+ATOM    461  CA  GLY   519       5.290  -4.863 -16.072
+ATOM    462  CA  ALA   520       6.553  -8.448 -16.203
+ATOM    463  CA  TYR   521       2.996  -9.636 -15.600
+ATOM    464  CA  ASP   522       1.789  -7.404 -18.440
+ATOM    465  CA  THR   523       4.334  -9.040 -20.735
+ATOM    466  CA  ILE   524       3.261 -12.571 -19.763
+ATOM    467  CA  LYS   525      -0.516 -12.131 -19.508
+ATOM    468  CA  HIS   526      -2.257 -13.507 -22.583
+ATOM    469  CA  PRO   527      -3.824 -10.120 -23.547
+TER
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25
+CONECT   25   26
+CONECT   26   27
+CONECT   27   28
+CONECT   28   29
+CONECT   29   30
+CONECT   30   31
+CONECT   31   32
+CONECT   32   33
+CONECT   33   34
+CONECT   34   35
+CONECT   35   36
+CONECT   36   37
+CONECT   37   38
+CONECT   38   39
+CONECT   39   40
+CONECT   40   41
+CONECT   41   42
+CONECT   42   43
+CONECT   43   44
+CONECT   44   46
+CONECT   46   47
+CONECT   47   50
+CONECT   50   51
+CONECT   51  187
+CONECT  187  190
+CONECT  190  191
+CONECT  191  193
+CONECT  193  194
+CONECT  194  195
+CONECT  195  237
+CONECT  237  238
+CONECT  238  239
+CONECT  239  240
+CONECT  240  241
+CONECT  241  242
+CONECT  242  243
+CONECT  243  244
+CONECT  244  245
+CONECT  245  246
+CONECT  246  247
+CONECT  247  248
+CONECT  248  249
+CONECT  249  250
+CONECT  250  251
+CONECT  251  252
+CONECT  252  253
+CONECT  253  254
+CONECT  254  255
+CONECT  255  256
+CONECT  256  257
+CONECT  257  258
+CONECT  258  259
+CONECT  259  260
+CONECT  260  261
+CONECT  261  262
+CONECT  262  263
+CONECT  263  264
+CONECT  264  266
+CONECT  266  267
+CONECT  267  269
+CONECT  269  285
+CONECT  285  286
+CONECT  286  287
+CONECT  287  288
+CONECT  288  289
+CONECT  289  290
+CONECT  290  291
+CONECT  291  292
+CONECT  292  293
+CONECT  293  294
+CONECT  294  295
+CONECT  295  296
+CONECT  296  297
+CONECT  297  298
+CONECT  298  299
+CONECT  299  300
+CONECT  300  301
+CONECT  301  302
+CONECT  302  303
+CONECT  303  304
+CONECT  304  305
+CONECT  305  306
+CONECT  306  307
+CONECT  307  308
+CONECT  308  309
+CONECT  309  310
+CONECT  310  311
+CONECT  311  312
+CONECT  312  313
+CONECT  313  314
+CONECT  314  316
+CONECT  316  321
+CONECT  321  322
+CONECT  322  323
+CONECT  323  324
+CONECT  324  327
+CONECT  327  328
+CONECT  328  329
+CONECT  329  330
+CONECT  330  331
+CONECT  331  332
+CONECT  332  333
+CONECT  333  334
+CONECT  334  335
+CONECT  335  336
+CONECT  336  337
+CONECT  337  338
+CONECT  338  339
+CONECT  339  340
+CONECT  340  341
+CONECT  341  342
+CONECT  342  343
+CONECT  343  344
+CONECT  344  345
+CONECT  345  346
+CONECT  346  347
+CONECT  347  348
+CONECT  348  349
+CONECT  349  350
+CONECT  350  351
+CONECT  351  352
+CONECT  352  353
+CONECT  353  354
+CONECT  354  355
+CONECT  355  356
+CONECT  356  357
+CONECT  357  358
+CONECT  358  359
+CONECT  359  360
+CONECT  360  361
+CONECT  361  362
+CONECT  362  363
+CONECT  363  364
+CONECT  364  365
+CONECT  365  366
+CONECT  366  367
+CONECT  367  368
+CONECT  368  369
+CONECT  369  370
+CONECT  370  371
+CONECT  371  372
+CONECT  372  373
+CONECT  373  374
+CONECT  374  375
+CONECT  375  376
+CONECT  376  377
+CONECT  377  378
+CONECT  378  379
+CONECT  379  380
+CONECT  380  381
+CONECT  381  382
+CONECT  382  383
+CONECT  383  384
+CONECT  384  385
+CONECT  385  386
+CONECT  386  387
+CONECT  387  388
+CONECT  388  389
+CONECT  389  390
+CONECT  390  391
+CONECT  391  392
+CONECT  392  393
+CONECT  393  394
+CONECT  394  395
+CONECT  395  396
+CONECT  396  397
+CONECT  397  398
+CONECT  398  399
+CONECT  399  400
+CONECT  400  401
+CONECT  401  402
+CONECT  402  403
+CONECT  403  404
+CONECT  404  405
+CONECT  405  406
+CONECT  406  407
+CONECT  407  408
+CONECT  408  409
+CONECT  409  410
+CONECT  410  411
+CONECT  411  412
+CONECT  412  413
+CONECT  413  414
+CONECT  414  415
+CONECT  415  416
+CONECT  416  418
+CONECT  418  419
+CONECT  419  421
+CONECT  421  422
+CONECT  422  425
+CONECT  425  427
+CONECT  427  429
+CONECT  429  432
+CONECT  432  433
+CONECT  433  434
+CONECT  434  435
+CONECT  435  436
+CONECT  436  437
+CONECT  437  438
+CONECT  438  439
+CONECT  439  440
+CONECT  440  441
+CONECT  441  442
+CONECT  442  443
+CONECT  443  444
+CONECT  444  445
+CONECT  445  446
+CONECT  446  447
+CONECT  447  448
+CONECT  448  449
+CONECT  449  450
+CONECT  450  451
+CONECT  451  452
+CONECT  452  453
+CONECT  453  454
+CONECT  454  455
+CONECT  455  456
+CONECT  456  457
+CONECT  457  458
+CONECT  458  459
+CONECT  459  460
+CONECT  460  461
+CONECT  461  462
+CONECT  462  463
+CONECT  463  464
+CONECT  464  465
+CONECT  465  466
+CONECT  466  467
+CONECT  467  468
+CONECT  468  469
+ATOM   2004  CA  ASN   401      16.654 -40.084 -31.872
+ATOM   2005  CA  SER   402      13.134 -39.356 -33.073
+ATOM   2006  CA  VAL   403      12.142 -35.859 -34.167
+ATOM   2007  CA  LEU   404       9.765 -35.427 -31.219
+ATOM   2008  CA  GLU   405      12.467 -36.314 -28.693
+ATOM   2009  CA  ILE   406      15.134 -34.042 -30.206
+ATOM   2010  CA  ILE   407      12.864 -30.976 -30.224
+ATOM   2011  CA  VAL   408      11.691 -31.346 -26.611
+ATOM   2012  CA  TYR   409      15.048 -32.154 -24.961
+ATOM   2020  CA  HIS   417       8.107 -23.646 -28.391
+ATOM   2031  CA  LEU   428       0.583 -36.280 -31.638
+ATOM   2032  CA  LEU   429       1.094 -34.721 -28.203
+ATOM   2033  CA  HIS   430      -2.647 -34.079 -27.889
+ATOM   2034  CA  THR   431      -3.340 -37.765 -28.538
+ATOM   2035  CA  LYS   432      -0.897 -38.893 -25.839
+ATOM   2036  CA  TRP   433      -2.488 -36.638 -23.212
+ATOM   2037  CA  LYS   434      -5.954 -38.106 -23.759
+ATOM   2038  CA  LYS   435      -4.976 -41.773 -23.783
+ATOM   2039  CA  PHE   436      -2.634 -42.258 -20.835
+ATOM   2040  CA  ALA   437      -0.864 -39.089 -19.763
+ATOM   2041  CA  LYS   438      -3.624 -37.184 -17.968
+ATOM   2042  CA  TYR   439      -4.367 -40.229 -15.827
+ATOM   2043  CA  MET   440      -0.733 -40.620 -14.813
+ATOM   2044  CA  PHE   441      -0.603 -36.918 -13.950
+ATOM   2046  CA  LEU   443      -2.012 -40.357  -9.721
+ATOM   2047  CA  SER   444       1.177 -38.327  -9.437
+ATOM   2048  CA  PHE   445      -0.789 -35.568  -7.698
+ATOM   2049  CA  CYS   446      -2.716 -37.795  -5.291
+ATOM   2050  CA  PHE   447       0.261 -39.657  -3.849
+ATOM   2051  CA  TYR   448       2.247 -36.450  -3.417
+ATOM   2052  CA  PHE   449      -0.654 -34.731  -1.682
+ATOM   2053  CA  PHE   450      -1.057 -37.642   0.736
+ATOM   2054  CA  TYR   451       2.703 -37.604   1.325
+ATOM   2055  CA  ASN   452       2.627 -33.984   2.503
+ATOM   2056  CA  ILE   453      -0.559 -34.336   4.527
+ATOM   2057  CA  THR   454       0.903 -37.235   6.498
+ATOM   2058  CA  LEU   455       4.220 -35.437   6.981
+ATOM   2059  CA  THR   456       2.459 -32.353   8.346
+ATOM   2060  CA  LEU   457       0.268 -34.194  10.860
+ATOM   2061  CA  VAL   458       3.073 -36.243  12.403
+ATOM   2062  CA  SER   459       5.243 -33.149  12.823
+ATOM   2063  CA  TYR   460       2.528 -30.854  14.177
+ATOM   2064  CA  TYR   461       1.134 -33.469  16.600
+ATOM   2065  CA  ARG   462       4.419 -34.625  18.147
+ATOM   2066  CA  PRO   463       4.615 -35.675  21.789
+ATOM   2067  CA  ARG   464       5.758 -32.340  23.226
+ATOM   2068  CA  GLU   465       7.681 -32.673  26.481
+ATOM   2069  CA  ASP   466      10.786 -30.936  27.768
+ATOM   2070  CA  GLU   467      12.109 -34.190  29.243
+ATOM   2071  CA  ASP   468      11.021 -36.460  26.361
+ATOM   2072  CA  LEU   469      11.230 -35.912  22.592
+ATOM   2073  CA  PRO   470      10.257 -39.130  20.772
+ATOM   2074  CA  HIS   471      10.493 -39.068  17.007
+ATOM   2075  CA  PRO   472       6.983 -40.154  15.919
+ATOM   2082  CA  MET   479       1.537 -48.570  21.702
+ATOM   2083  CA  SER   480      -0.203 -51.165  19.442
+ATOM   2084  CA  TRP   481      -1.755 -48.231  17.569
+ATOM   2086  CA  GLN   483      -2.689 -46.775  11.104
+ATOM   2087  CA  LEU   484       1.053 -46.722  11.743
+ATOM   2088  CA  LEU   485       1.614 -47.208   8.000
+ATOM   2089  CA  GLY   486       1.398 -43.434   7.641
+ATOM   2090  CA  ARG   487       4.614 -43.265   9.639
+ATOM   2091  CA  MET   488       6.136 -45.827   7.269
+ATOM   2092  CA  PHE   489       4.791 -44.000   4.209
+ATOM   2093  CA  VAL   490       7.117 -41.067   4.897
+ATOM   2094  CA  LEU   491      10.231 -43.261   5.108
+ATOM   2095  CA  ILE   492       9.773 -45.438   2.026
+ATOM   2096  CA  TRP   493       8.533 -42.578  -0.146
+ATOM   2097  CA  ALA   494      11.419 -40.266   0.719
+ATOM   2098  CA  THR   495      13.801 -42.871  -0.698
+ATOM   2099  CA  CYS   496      11.743 -43.354  -3.865
+ATOM   2100  CA  ILE   497      12.091 -39.638  -4.624
+ATOM   2101  CA  SER   498      15.744 -39.125  -3.655
+ATOM   2102  CA  VAL   499      16.898 -42.070  -5.784
+ATOM   2103  CA  LYS   500      14.741 -41.160  -8.783
+ATOM   2104  CA  GLU   501      15.492 -37.430  -8.804
+ATOM   2105  CA  GLY   502      19.191 -38.165  -8.396
+ATOM   2106  CA  ILE   503      19.115 -40.104 -11.667
+ATOM   2107  CA  ALA   504      17.303 -37.364 -13.591
+ATOM   2108  CA  ILE   505      19.917 -34.838 -12.456
+ATOM   2109  CA  PHE   506      22.712 -37.263 -13.361
+ATOM   2110  CA  LEU   507      21.414 -38.006 -16.867
+ATOM   2111  CA  LEU   508      20.975 -34.289 -17.634
+ATOM   2112  CA  ARG   509      24.197 -32.332 -17.132
+ATOM   2113  CA  PRO   510      23.271 -28.746 -18.075
+ATOM   2114  CA  SER   511      26.742 -27.108 -17.651
+ATOM   2115  CA  ASP   512      24.872 -23.778 -17.760
+ATOM   2116  CA  LEU   513      23.113 -21.770 -15.039
+ATOM   2117  CA  GLN   514      20.382 -20.658 -17.441
+ATOM   2118  CA  SER   515      19.620 -24.301 -18.263
+ATOM   2119  CA  ILE   516      19.255 -25.032 -14.542
+ATOM   2120  CA  LEU   517      16.561 -22.401 -14.030
+ATOM   2121  CA  SER   518      14.645 -23.160 -17.220
+ATOM   2122  CA  ASP   519      14.408 -26.972 -17.310
+ATOM   2123  CA  ALA   520      15.482 -28.669 -14.068
+ATOM   2124  CA  TRP   521      14.315 -26.343 -11.286
+ATOM   2125  CA  PHE   522      11.816 -28.923 -10.053
+ATOM   2126  CA  HIS   523      14.359 -31.745 -10.166
+ATOM   2127  CA  PHE   524      16.519 -30.128  -7.495
+ATOM   2128  CA  VAL   525      13.699 -28.897  -5.291
+ATOM   2129  CA  PHE   526      12.040 -32.312  -5.158
+ATOM   2130  CA  PHE   527      15.472 -33.689  -4.281
+ATOM   2131  CA  VAL   528      16.378 -31.157  -1.572
+ATOM   2132  CA  GLN   529      13.138 -31.935   0.282
+ATOM   2133  CA  ALA   530      13.505 -35.729   0.192
+ATOM   2134  CA  VAL   531      17.026 -35.462   1.625
+ATOM   2135  CA  LEU   532      15.940 -33.285   4.570
+ATOM   2136  CA  VAL   533      13.308 -35.895   5.478
+ATOM   2137  CA  ILE   534      16.012 -38.588   5.531
+ATOM   2138  CA  LEU   535      18.520 -36.469   7.474
+ATOM   2139  CA  SER   536      15.857 -35.731  10.098
+ATOM   2140  CA  VAL   537      15.774 -39.469  10.864
+ATOM   2141  CA  PHE   538      19.541 -40.007  10.929
+ATOM   2142  CA  LEU   539      19.948 -37.055  13.294
+ATOM   2143  CA  TYR   540      17.434 -38.585  15.695
+ATOM   2144  CA  LEU   541      19.542 -41.758  15.846
+ATOM   2145  CA  PHE   542      22.531 -39.560  16.725
+ATOM   2146  CA  ALA   543      20.336 -37.290  18.936
+ATOM   2147  CA  TYR   544      21.833 -33.924  17.941
+ATOM   2148  CA  LYS   545      18.464 -32.135  18.515
+ATOM   2149  CA  GLU   546      18.754 -30.302  15.187
+ATOM   2150  CA  TYR   547      16.426 -32.763  13.451
+ATOM   2151  CA  LEU   548      13.550 -30.370  14.144
+ATOM   2152  CA  ALA   549      15.248 -27.726  12.006
+ATOM   2153  CA  CYS   550      15.246 -30.151   9.071
+ATOM   2154  CA  LEU   551      11.624 -31.287   9.364
+ATOM   2155  CA  VAL   552      10.271 -27.725   9.425
+ATOM   2156  CA  LEU   553      12.292 -26.798   6.339
+ATOM   2157  CA  ALA   554      10.871 -29.912   4.672
+ATOM   2158  CA  MET   555       7.290 -28.964   5.560
+ATOM   2159  CA  ALA   556       7.428 -25.415   4.208
+ATOM   2160  CA  LEU   557       9.309 -26.432   1.063
+ATOM   2161  CA  GLY   558       6.872 -29.258   0.386
+ATOM   2162  CA  TRP   559       3.704 -27.180   0.205
+ATOM   2163  CA  ALA   560       5.373 -24.742  -2.189
+ATOM   2164  CA  ASN   561       6.212 -27.701  -4.446
+ATOM   2165  CA  MET   562       2.498 -28.239  -5.113
+ATOM   2166  CA  LEU   563       2.802 -25.423  -7.660
+ATOM   2167  CA  TYR   564       4.467 -27.871 -10.052
+ATOM   2168  CA  TYR   565       1.100 -29.515 -10.645
+ATOM   2169  CA  THR   566      -0.571 -26.435 -12.131
+ATOM   2170  CA  ARG   567       0.573 -27.417 -15.638
+ATOM   2171  CA  GLY   568      -2.278 -29.867 -16.102
+ATOM   2172  CA  PHE   569      -4.558 -26.856 -16.565
+ATOM   2173  CA  GLN   570      -4.207 -24.080 -19.126
+ATOM   2174  CA  SER   571      -5.502 -21.308 -16.857
+ATOM   2175  CA  MET   572      -3.168 -21.858 -13.911
+ATOM   2176  CA  GLY   573      -0.327 -23.168 -16.068
+ATOM   2177  CA  MET   574      -0.020 -19.883 -17.948
+ATOM   2178  CA  TYR   575      -0.099 -18.111 -14.582
+ATOM   2179  CA  SER   576       2.968 -19.992 -13.331
+ATOM   2180  CA  VAL   577       4.908 -18.823 -16.383
+ATOM   2181  CA  MET   578       4.280 -15.203 -15.390
+ATOM   2182  CA  ILE   579       5.592 -15.892 -11.867
+ATOM   2183  CA  GLN   580       8.825 -17.312 -13.288
+ATOM   2184  CA  LYS   581       9.445 -14.364 -15.631
+ATOM   2185  CA  VAL   582       8.643 -11.686 -13.041
+ATOM   2187  CA  LEU   584      13.982 -13.395 -12.855
+ATOM   2188  CA  HIS   585      13.531 -10.005 -14.515
+ATOM   2189  CA  ASP   586      11.991  -7.644 -11.960
+ATOM   2190  CA  VAL   587      12.202  -8.858  -8.360
+ATOM   2191  CA  LEU   588      15.924  -9.666  -8.267
+ATOM   2192  CA  LYS   589      16.950  -6.209  -9.490
+ATOM   2193  CA  PHE   590      14.720  -4.638  -6.837
+ATOM   2194  CA  LEU   591      16.280  -6.632  -4.002
+ATOM   2195  CA  PHE   592      19.798  -5.678  -5.072
+ATOM   2196  CA  VAL   593      19.206  -1.926  -4.796
+ATOM   2197  CA  TYR   594      16.986  -2.148  -1.703
+ATOM   2198  CA  ILE   595      19.587  -3.960   0.422
+ATOM   2199  CA  LEU   596      22.126  -1.318  -0.615
+ATOM   2200  CA  PHE   597      19.869   1.357   0.899
+ATOM   2201  CA  LEU   598      18.777  -0.732   3.894
+ATOM   2202  CA  LEU   599      22.292  -1.536   5.087
+ATOM   2203  CA  GLY   600      23.556   1.911   4.111
+ATOM   2204  CA  PHE   601      21.211   3.994   6.254
+ATOM   2205  CA  GLY   602      21.291   1.318   8.941
+ATOM   2206  CA  VAL   603      24.872   2.041   9.974
+ATOM   2207  CA  ALA   604      24.508   5.810   9.675
+ATOM   2208  CA  LEU   605      21.578   5.902  12.092
+ATOM   2209  CA  ALA   606      23.156   3.403  14.495
+ATOM   2210  CA  SER   607      26.375   5.440  14.749
+ATOM   2211  CA  LEU   608      24.383   8.515  15.789
+ATOM   2212  CA  ILE   609      22.810   7.237  19.052
+ATOM   2213  CA  GLU   610      24.363   7.742  22.497
+ATOM   2214  CA  LYS   611      25.103   5.351  25.348
+ATOM   2215  CA  CYS   612      21.977   4.176  27.162
+ATOM   2222  CA  CYS   619      16.037   4.701  25.674
+ATOM   2223  CA  SER   620      16.342   3.943  21.955
+ATOM   2224  CA  SER   621      15.316   1.379  19.360
+ATOM   2225  CA  TYR   622      18.224   2.292  17.041
+ATOM   2226  CA  GLY   623      20.946   1.386  19.528
+ATOM   2227  CA  SER   624      22.698  -1.228  17.401
+ATOM   2228  CA  PHE   625      23.236  -2.109  13.767
+ATOM   2229  CA  SER   626      20.946  -5.119  14.171
+ATOM   2230  CA  ASP   627      18.242  -2.970  15.762
+ATOM   2231  CA  ALA   628      18.366  -0.160  13.207
+ATOM   2232  CA  VAL   629      18.062  -2.575  10.269
+ATOM   2233  CA  LEU   630      14.999  -4.161  11.885
+ATOM   2234  CA  GLU   631      13.304  -0.809  12.493
+ATOM   2235  CA  LEU   632      13.786   0.308   8.892
+ATOM   2236  CA  PHE   633      12.338  -2.957   7.584
+ATOM   2237  CA  LYS   634       9.198  -2.570   9.701
+ATOM   2238  CA  LEU   635       8.792   0.984   8.426
+ATOM   2239  CA  THR   636       8.617  -0.183   4.808
+ATOM   2240  CA  ILE   637       6.043  -2.972   5.180
+ATOM   2241  CA  GLY   638       3.926  -0.590   7.266
+ATOM   2242  CA  LEU   639       4.023  -2.133  10.727
+ATOM   2243  CA  GLY   640       4.842  -0.661  14.087
+ATOM   2244  CA  ASP   641       5.055   2.951  15.148
+ATOM   2245  CA  LEU   642       7.372   5.842  14.304
+ATOM   2246  CA  ASN   643       9.194   7.507  17.201
+ATOM   2247  CA  ILE   644      11.648  10.359  16.630
+ATOM   2248  CA  GLN   645      12.363  10.952  20.341
+ATOM   2249  CA  GLN   646      15.481   8.804  20.337
+ATOM   2250  CA  ASN   647      18.690   9.225  22.339
+ATOM   2251  CA  SER   648      20.293  11.014  19.391
+ATOM   2252  CA  THR   649      22.836  13.776  19.852
+ATOM   2253  CA  TYR   650      21.713  15.486  16.616
+ATOM   2254  CA  PRO   651      17.902  15.344  16.417
+ATOM   2255  CA  ILE   652      17.542  17.271  13.152
+ATOM   2256  CA  LEU   653      20.136  15.127  11.376
+ATOM   2257  CA  PHE   654      18.329  11.966  12.488
+ATOM   2258  CA  LEU   655      15.061  13.189  10.989
+ATOM   2259  CA  PHE   656      16.744  14.238   7.741
+ATOM   2260  CA  LEU   657      18.134  10.735   7.207
+ATOM   2261  CA  LEU   658      14.858   9.071   8.176
+ATOM   2262  CA  ILE   659      12.696  11.070   5.763
+ATOM   2263  CA  THR   660      15.234  10.558   2.952
+ATOM   2264  CA  TYR   661      14.898   6.791   3.447
+ATOM   2265  CA  VAL   662      11.128   7.054   2.950
+ATOM   2266  CA  ILE   663      11.401   9.029  -0.302
+ATOM   2267  CA  LEU   664      13.880   6.584  -1.833
+ATOM   2268  CA  THR   665      11.943   3.398  -1.015
+ATOM   2269  CA  PHE   666       8.260   4.170  -0.367
+ATOM   2270  CA  VAL   667       7.949   6.726  -3.169
+ATOM   2271  CA  LEU   668      10.601   5.663  -5.693
+ATOM   2272  CA  LEU   669      11.476   1.955  -5.574
+ATOM   2273  CA  LEU   670       8.185   0.334  -4.578
+ATOM   2274  CA  ASN   671       6.131   2.374  -7.042
+ATOM   2275  CA  MET   672       8.591   1.713  -9.879
+ATOM   2276  CA  LEU   673       8.445  -2.060  -9.379
+ATOM   2277  CA  ILE   674       4.750  -1.955 -10.316
+ATOM   2278  CA  ALA   675       5.551   0.106 -13.418
+ATOM   2279  CA  LEU   676       8.253  -2.324 -14.576
+ATOM   2280  CA  MET   677       6.123  -5.426 -13.986
+ATOM   2281  CA  GLY   678       3.545  -3.936 -16.341
+ATOM   2282  CA  GLU   679       6.153  -3.979 -19.100
+ATOM   2283  CA  THR   680       7.206  -7.580 -18.430
+ATOM   2284  CA  VAL   681       3.588  -8.822 -18.365
+ATOM   2285  CA  GLU   682       2.859  -7.076 -21.674
+ATOM   2286  CA  ASN   683       5.616  -8.973 -23.517
+ATOM   2287  CA  VAL   684       5.244 -12.431 -21.949
+ATOM   2288  CA  SER   685       1.465 -12.449 -22.598
+ATOM   2289  CA  LYS   686       2.236 -12.986 -26.288
+ATOM   2291  CA  SER   688       3.038 -17.710 -22.352
+TER
+CONECT 2004 2005
+CONECT 2005 2006
+CONECT 2006 2007
+CONECT 2007 2008
+CONECT 2008 2009
+CONECT 2009 2010
+CONECT 2010 2011
+CONECT 2011 2012
+CONECT 2012 2020
+CONECT 2020 2031
+CONECT 2031 2032
+CONECT 2032 2033
+CONECT 2033 2034
+CONECT 2034 2035
+CONECT 2035 2036
+CONECT 2036 2037
+CONECT 2037 2038
+CONECT 2038 2039
+CONECT 2039 2040
+CONECT 2040 2041
+CONECT 2041 2042
+CONECT 2042 2043
+CONECT 2043 2044
+CONECT 2044 2046
+CONECT 2046 2047
+CONECT 2047 2048
+CONECT 2048 2049
+CONECT 2049 2050
+CONECT 2050 2051
+CONECT 2051 2052
+CONECT 2052 2053
+CONECT 2053 2054
+CONECT 2054 2055
+CONECT 2055 2056
+CONECT 2056 2057
+CONECT 2057 2058
+CONECT 2058 2059
+CONECT 2059 2060
+CONECT 2060 2061
+CONECT 2061 2062
+CONECT 2062 2063
+CONECT 2063 2064
+CONECT 2064 2065
+CONECT 2065 2066
+CONECT 2066 2067
+CONECT 2067 2068
+CONECT 2068 2069
+CONECT 2069 2070
+CONECT 2070 2071
+CONECT 2071 2072
+CONECT 2072 2073
+CONECT 2073 2074
+CONECT 2074 2075
+CONECT 2075 2082
+CONECT 2082 2083
+CONECT 2083 2084
+CONECT 2084 2086
+CONECT 2086 2087
+CONECT 2087 2088
+CONECT 2088 2089
+CONECT 2089 2090
+CONECT 2090 2091
+CONECT 2091 2092
+CONECT 2092 2093
+CONECT 2093 2094
+CONECT 2094 2095
+CONECT 2095 2096
+CONECT 2096 2097
+CONECT 2097 2098
+CONECT 2098 2099
+CONECT 2099 2100
+CONECT 2100 2101
+CONECT 2101 2102
+CONECT 2102 2103
+CONECT 2103 2104
+CONECT 2104 2105
+CONECT 2105 2106
+CONECT 2106 2107
+CONECT 2107 2108
+CONECT 2108 2109
+CONECT 2109 2110
+CONECT 2110 2111
+CONECT 2111 2112
+CONECT 2112 2113
+CONECT 2113 2114
+CONECT 2114 2115
+CONECT 2115 2116
+CONECT 2116 2117
+CONECT 2117 2118
+CONECT 2118 2119
+CONECT 2119 2120
+CONECT 2120 2121
+CONECT 2121 2122
+CONECT 2122 2123
+CONECT 2123 2124
+CONECT 2124 2125
+CONECT 2125 2126
+CONECT 2126 2127
+CONECT 2127 2128
+CONECT 2128 2129
+CONECT 2129 2130
+CONECT 2130 2131
+CONECT 2131 2132
+CONECT 2132 2133
+CONECT 2133 2134
+CONECT 2134 2135
+CONECT 2135 2136
+CONECT 2136 2137
+CONECT 2137 2138
+CONECT 2138 2139
+CONECT 2139 2140
+CONECT 2140 2141
+CONECT 2141 2142
+CONECT 2142 2143
+CONECT 2143 2144
+CONECT 2144 2145
+CONECT 2145 2146
+CONECT 2146 2147
+CONECT 2147 2148
+CONECT 2148 2149
+CONECT 2149 2150
+CONECT 2150 2151
+CONECT 2151 2152
+CONECT 2152 2153
+CONECT 2153 2154
+CONECT 2154 2155
+CONECT 2155 2156
+CONECT 2156 2157
+CONECT 2157 2158
+CONECT 2158 2159
+CONECT 2159 2160
+CONECT 2160 2161
+CONECT 2161 2162
+CONECT 2162 2163
+CONECT 2163 2164
+CONECT 2164 2165
+CONECT 2165 2166
+CONECT 2166 2167
+CONECT 2167 2168
+CONECT 2168 2169
+CONECT 2169 2170
+CONECT 2170 2171
+CONECT 2171 2172
+CONECT 2172 2173
+CONECT 2173 2174
+CONECT 2174 2175
+CONECT 2175 2176
+CONECT 2176 2177
+CONECT 2177 2178
+CONECT 2178 2179
+CONECT 2179 2180
+CONECT 2180 2181
+CONECT 2181 2182
+CONECT 2182 2183
+CONECT 2183 2184
+CONECT 2184 2185
+CONECT 2185 2187
+CONECT 2187 2188
+CONECT 2188 2189
+CONECT 2189 2190
+CONECT 2190 2191
+CONECT 2191 2192
+CONECT 2192 2193
+CONECT 2193 2194
+CONECT 2194 2195
+CONECT 2195 2196
+CONECT 2196 2197
+CONECT 2197 2198
+CONECT 2198 2199
+CONECT 2199 2200
+CONECT 2200 2201
+CONECT 2201 2202
+CONECT 2202 2203
+CONECT 2203 2204
+CONECT 2204 2205
+CONECT 2205 2206
+CONECT 2206 2207
+CONECT 2207 2208
+CONECT 2208 2209
+CONECT 2209 2210
+CONECT 2210 2211
+CONECT 2211 2212
+CONECT 2212 2213
+CONECT 2213 2214
+CONECT 2214 2215
+CONECT 2215 2222
+CONECT 2222 2223
+CONECT 2223 2224
+CONECT 2224 2225
+CONECT 2225 2226
+CONECT 2226 2227
+CONECT 2227 2228
+CONECT 2228 2229
+CONECT 2229 2230
+CONECT 2230 2231
+CONECT 2231 2232
+CONECT 2232 2233
+CONECT 2233 2234
+CONECT 2234 2235
+CONECT 2235 2236
+CONECT 2236 2237
+CONECT 2237 2238
+CONECT 2238 2239
+CONECT 2239 2240
+CONECT 2240 2241
+CONECT 2241 2242
+CONECT 2242 2243
+CONECT 2243 2244
+CONECT 2244 2245
+CONECT 2245 2246
+CONECT 2246 2247
+CONECT 2247 2248
+CONECT 2248 2249
+CONECT 2249 2250
+CONECT 2250 2251
+CONECT 2251 2252
+CONECT 2252 2253
+CONECT 2253 2254
+CONECT 2254 2255
+CONECT 2255 2256
+CONECT 2256 2257
+CONECT 2257 2258
+CONECT 2258 2259
+CONECT 2259 2260
+CONECT 2260 2261
+CONECT 2261 2262
+CONECT 2262 2263
+CONECT 2263 2264
+CONECT 2264 2265
+CONECT 2265 2266
+CONECT 2266 2267
+CONECT 2267 2268
+CONECT 2268 2269
+CONECT 2269 2270
+CONECT 2270 2271
+CONECT 2271 2272
+CONECT 2272 2273
+CONECT 2273 2274
+CONECT 2274 2275
+CONECT 2275 2276
+CONECT 2276 2277
+CONECT 2277 2278
+CONECT 2278 2279
+CONECT 2279 2280
+CONECT 2280 2281
+CONECT 2281 2282
+CONECT 2282 2283
+CONECT 2283 2284
+CONECT 2284 2285
+CONECT 2285 2286
+CONECT 2286 2287
+CONECT 2287 2288
+CONECT 2288 2289
+CONECT 2289 2291

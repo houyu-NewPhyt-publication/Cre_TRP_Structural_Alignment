@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7DXF_A.TRP  Size= 375
+Chain 2:7D7E_A.PKD  Size= 451 (TM-score is normalized by  451)
+
+Aligned length= 236, RMSD=  4.39, TM-score=0.41469, ID=0.124
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+LSRLKLAIKYEVKKFVAHPNCQQQLLSIWYENLSGLRQQTMAVKFLVVLAVAIGLPFLALIYWFAPCSKMGKIMRGPFMKFVAHAASFTIFLGLLVMNAADRFE-GT-----------------------------------------------------------------------------------------------------------------------------------------------------------------------F------R-----------------------MKTSCFS------W-MEMLIISWVIGMIWAECKEIWTQGPKEYLFELWNMLDFGMLAIFAASFIARFMAFWHASKAQSI-I---DNVKYYNLARIKWDPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVKD--IFK-FMVIFIMVFVAFMIGMFNLYSYYIGAKQNEAFTTVEESFKTLFWAIFGLSEVKSVVINYNHKFIENIGYVLYGVYNVTMVIVLLNMLIAMINSS-FQEIEDDADVEWKFARAKLWFSYFEEGRTLPVPFNLV---
+                                                                               :::::::::::::::::::: ...  ..                                                                                                                                                                       :      :                       .::.:::      : ....:..::.:::.::::::::::: :::::::::::.........::..:::::::::::::: :   ...:::      ....::::::::::::::::::::::::::.:   ::::.....:.:.  .:: ::::::::::::::::::::: :  ::  ::::::::::::::::::::::::.::..   :  .::::::::::::: ::::....... ..  ..                                      
+-------------------------------------------------------------------------------GTLVQILFLTLLMTTVYSAK-DSS-RFFLHRAIWKRFSHRFSEIKTVEDFYPWANGTLLPNLYGDYRGFITDGNSFLLGNVLIRQTRIPNDIFFPGSLHKQMKSPPQHQEDRENYGAGWVPPDTNITKVDSIWHYQNQESLGGYPIQGELATYSGGGYVVRLGRNHSAATRVLQHLEQRRWLDHCTKALFVEFTVFNANVNLLCAVTLILESSGVGTFLTSLQLDSLTSLQSSERGFAWIVSQVVYYLLVCYYAFIQGCRLKRQRL-AFFTRKRNLLDTSIVLISFSILGLSMQSLSLLHKKMQQYHCDRDRFISF------YEALRVNSAVTHLRGFLLLFATVRVWDLLRHH---AQLQVINKTLSKAWDEVLGFILIIVVLLSSYAMTFNLLFG-W--SI--SDYQSFFRSIVTVVGLLMGTSKHKEVIAL---Y--PILGSLLVLSSIIL-MGLVIINLFVS-AI-LIA-----------------------------------FGK
+

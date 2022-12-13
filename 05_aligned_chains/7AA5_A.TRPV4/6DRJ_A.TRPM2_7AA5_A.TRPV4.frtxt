@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6DRJ_A.TRP  Size= 397
+Chain 2:7AA5_A.TRP  Size= 293 (TM-score is normalized by  293)
+
+Aligned length= 259, RMSD=  3.80, TM-score=0.70204, ID=0.143
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+TCLWLAL--EAH--DKSFIAHSGVQALLTQIWCGELSVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMIDF----QT-SP----SWRELLLYVWLTSLVCEEIRQLYHDFDGSGFRRKAKMYIKDLWNILDVLSIVLFIAGLICRLQASDTVFYIGKVILCIDFIIFCLRLMAIFS-----ISRTLGP----KIIIVRRM-MLDLFFFMFLLSIWVVAYGVAKQGILIE-------NEERLNWIIRGAVYEPYITIFGNFPTNIDNTLFDISSCSVNASDPLKPKCPMLNADNT-PVFPEWLTIMMLCVYLLFANILLLNLLIAIFNYTFQEVQDNTD-TIWKFQRYELIKEYHSRPALPPPFILLSHLILFIRGVFL--
+:::::::  :::  :::::::.::::::::::::                                                            ::::::::::::::::::::::::::::    .: ::    ::::::::::::::::::.:::..         .:      :: :::::::::::::::::::::  :  ::::::::::::::::::::::     ..         ......:: ::.:::::::::::::::::::..:::.       ....:.  :: :::::::::::::: ::..                             ..::....:::::::::::::::::::::: :..::..:..:: ::::::::::::::::::             .         
+SVLEILVYNSKIENRHEMLAVEPINELLRDKWRK------------------------------------------------------------FGAVSFYINVVSYLCAMVIFTLTAYYQPLEGTPPYPYRTTVDYLRLAGEVITLFTGVLFFFTNIK---------DL------FQ-LLYFIYSVLVIVSAALYLAGI--E--AYLAVMVFALVLGWMNALYFTRGLKLTGT-----YSIMIQKILFKDLFRFLLVYLLFMIGYASALVSLLNPCANMKVCNESCRDSETF--ST-FLLDLFKLTIGMGD-LEML----------------------------SSTKYPVVFIILLVTYIILTFVLLLNMLIAL-MGETVGQVSKESKHIWKLQWATTILDIERSF-------------P-------VF
+

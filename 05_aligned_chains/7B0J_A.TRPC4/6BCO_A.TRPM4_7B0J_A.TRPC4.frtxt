@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6BCO_A.TRP  Size= 369
+Chain 2:7B0J_A.TRP  Size= 381 (TM-score is normalized by  381)
+
+Aligned length= 323, RMSD=  3.62, TM-score=0.69849, ID=0.219
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+TCLQLAMQA--D-ARAFFAQDGVQSLLTQKWWGEM-DST-TPIWALLLAFFCPP-LIYTNLIVFRK-------------SKRWSDFWGAPVTAFLGNVVSYLLFLLLFAHVLLV--DF---QPT-KPSVSELLLYFWAFTLLCEELRQGLGLRHRLHLYLSDT-WNQCDLLALTCFLLGVGCRLT---PG-------------LFDLGRTVLCLDFMIFTLRLLHIFTVNKQLGPKIVIVSKMMKDVFFFLFFLCVWLVAYGVATEGIL-RPQDR--------------SLPSILRRVFYRPYLQIFGQIPQEEMDVALMIPGNCSMERGSWAHPEGPVAGSCVSQYANWLVVLLLIVFLLVANILLLNLLIAMFSYTFSKVHGNSDLYWKAQRYSLIREFHSR-PALAPPLIIISHVRLLIKWLRR
+. .::::::  : :::::::::::::::::::::: ::: ::::::::::::.  ..                      .. ......::::::::::::::::::::::::.:  ::   .:: :::::::::::::::::::::::...   :::..:::: :::::::::::::::::::::   ::             :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::. .:::.              ...:::.:::::::::::::::::::                   .     .::.:::.:::::::::::::::::::::::::::::::::::::.:::::::::::::::::: .::::::::: .::  :  .  
+E-LARLKLAIKYRQKEFVAQPNCQQLLASRWYDEFPGWRRRHWAGKLITCVFI-GLM---------FPLLSLCYLVAPKSR-YGLFIRKPFIKFICHTASYLTFLFLLLLASQHIVSNNPDRQGPKPTTVEWMILPWVLGFIWTEIKQMWD---GGFQDYIHDWWNLMDFVMNSLYLATISLKIVAYVKYSGCKPRDTWEMWHPTLVAEAVFAIANIFSSLRLISLFTANSHLGPLQISLGRMLLDILKFLFIYCLVLLAFANGLNQLYFYYENSEGMTCKGIRCERQNNAFSTLFETLQSLFWSIFGLISLYVT-------------------N-----VKADHKFTEFVGATMFGTYNVISLVVLLNMLIAMMNNSYQHIADHADIEWKFARTKLWMSYFEEGGTLPPPFNII-PSP--K--S--
+

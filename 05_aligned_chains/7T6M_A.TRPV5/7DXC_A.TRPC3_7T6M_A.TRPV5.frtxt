@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7DXC_A.TRP  Size= 394
+Chain 2:7T6M_A.TRP  Size= 323 (TM-score is normalized by  323)
+
+Aligned length= 286, RMSD=  3.38, TM-score=0.74478, ID=0.125
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+SLSRVKLAI-K-YE-VKKFVAHPNCQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGITTLPNITVTDYPKQI--------------FR-VKTTQ------FTWTEMLIMVWVLGMMWSECKELWLEGPREYILQ----LW-NVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTV-KDIFKFMVLFIMVFFAFMIGMFILYSYYLGAKVNAAFTTVEESFKTLFWS-IFGLSEVTSVVLKYDHKFIENIGYVLYGIYNVTM-VVVLLNMLIAMINS-SY--DDSDVEWKFARSKLWLSYFDKTLP--
+..::::::: : :: ::::::::::::::::::::                                            :::::::::::::::::::::::....   . ..:..                       .: :::..      .:::::::::::::::::::::::::...:..:.    .: :::::::::::::::::::::                                           :: :::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::: :::..:::::::::::::::::: ::::::::.....   .  ::::::::::::::: :::::::::::::: ::  .:::::::::::::::::::::.   
+ELSFLELVVSSKKREARQILEQTPVKELVSFKWKK--------------------------------------------YGRPYFCVLASLYILYMICFTTCCIYR---P-LKLRD---------DNRTDPRDITILQQKLLQEAYVTHQDNIRLVGELVTVTGAVIILLLEIPDIFRVGASRYFGQTILGGPFHVIIITYASLVLLTMVMRLTN-------------------------------------------MN-GEVVPLSFALVLGWCSVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFHITFQ-TEDPNNLGEFSDYPTALFSTFELFLTIIDGPANYSVD---L--PFMYCITYAAFAIIATLLMLNLFIAMMGDTHWRVAQERDELWRAQVVATTVMLERKMP-RF
+

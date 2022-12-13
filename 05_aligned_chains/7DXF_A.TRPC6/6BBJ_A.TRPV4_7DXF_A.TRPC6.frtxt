@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6BBJ_A.TRP  Size= 294
+Chain 2:7DXF_A.TRP  Size= 375 (TM-score is normalized by  375)
+
+Aligned length= 243, RMSD=  5.62, TM-score=0.45072, ID=0.104
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+SVLEILVYNSKVENRHEMLAVEPINELLRDKWQK--------------------------------------------FGAVSFYISVVSYLIAMIIFTLIAYYRPMDGTPP-----YPYRTTMDYMRLAGEIVTLLTGV--VFFI----------TNIKDLFMVNSLFIDGSFQLL--YFIY--SVL--VIIT--A--VL----------------------------YLVG-IES-YLA-VMVF-ALV-LGWM--NAL-YFTRGLKLTGTYSIMLQKILFKDLFRFLLVYLLFMIGYASALVSLLNPCRDS--------STFSKFLLDLFKLTIGMGDLEMINS----A--KY--PAVFIILLVTY-IILTFVLLLNMLIALMGETVGQVSKESKQIWKLQWATTILDIERSFPVC--------
+.:::::::: :.: .::..... ..:::::::::                                            :.:::::::::::::::::::::::..            ....:::...:..:........   .             ....:.  .              ..    .    ..    .  .                             .... ... ..  .:.  ..  ..    ..  .. ..:: ....:.::::::::::..........:..::..::.......          .::::::::::::::::::..:::.    .  ::  ::::::::::: :::::::::::::::::::.  :  .:: :::::::::::::::.:..         
+LSRLKLAIK-YEV-KKFVAHPN-CQQQLLSIWYENLSGLRQQTMAVKFLVVLAVAIGLPFLALIYWFAPCSKMGKIMRGPFMKFVAHAASFTIFLGLLVMNAADR-------FEGTFRMKTSCFSWMEMLIISWVIGMI-WAE---CKEIWTQGPKEYLFEL--W------------NMLD--FGM--LAIF--AASFIA-RFMAFWHASKAQSIIDNVKYYNLARIKWDPSDPQIISEG-LYAI-AVV-LSF--SRIA-YIL-PANE-SFGPLQISLGRTVKDIFKFMVIFIMVFVAFMIGMFNLYSYYI--GAKQNEAFTTVEESFKTLFWAIFGLSEVKSVVINYNHKFIENIGYVLYGVYNVTMVIVLLNMLIAMINSSFQEIED--D--ADV-EWKFARAKLWFSYFEEGRT-LPVPFNLV
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7B1G_B.TRP  Size= 376
+Chain 2:7MBP_A.TRP  Size= 384 (TM-score is normalized by  384)
+
+Aligned length= 322, RMSD=  3.39, TM-score=0.71326, ID=0.249
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+ELARLKLAIKYRQKEFVAQPNCQQLLASRWYDEFPGWRRRHWAGKLITCVFIGL--MFPLLSLCYLVAPK------------------SR-YGLFIRKPFIKFICHTASYLTFLFLLLLASQHIVSNNPDRQGPKPTTVEWMILPWVLGFIWTEIK-QM-------WDGGFQDYIHDWWNLMDFVMNSLYLATISLKIVAYVKYSGCKPRDTWEMWHPTLVAEAVFAIANIFSSLRLISLFTANSHLGPLQISLGRMLLDILKFLFIYCLVLLAFANGLNQLYFYYENSEGMTCKGIRCERQNNAFSTLFETLQSLFWSIFGLISLYVT-N--V----K--------------ADHKFTEFVGATMFGTYNVISLVVLLNMLIAMMNNSYQHIADHADIEWKFARTKLWMSYFEEGGTLPPPFNI---I---------
+  :::::::::::::::::::::::::::::: ::::: ::.:::::::::.    .                               .. ......::::::::::::::::::::::::.: :.:.  ....:::::::::::::::::::::. :.       ...:.:::::::::::::::::::::::::::::   :             ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::..     ..          ::::::::::::::::::::::: .  .    .              ..:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::. ..::::::.   .         
+--TVLNIATLAEAKCFFAHDGVQALLTKVWWG-AMRTD-TSISRLVLTFFIP--PLV-------------WTSLIKFNPESATFIRVVLRRWNRFWSAPVTVFMGNVIMYFAFLILFSYVLLL-DFRP--PPPYGPSAAEIILYFWVFTLVLEEIRQSFFTDEDMSILKKMKLYVEDNWNKCDMVAISLFVVGLSCRMAM---S-------------TYEAGRTVLALDFMVFTLRLIHIFAIHKQLGPKIIIVERMIKDVFFFLFFLSVWLIAYGVTTQALLHPNDPR-----ID----------WVFRRALYRPYLHIFGQIPLEEIDAAKMPDDNCTTDVQEIILGTLPPCPNIYANWLVILLLVIYLLVTNVLLLNLLIAMFSYTFQVVQENADIFWKFQRYNLIVEYHSR-PALAPPFIIISHITQALLSFIK
+

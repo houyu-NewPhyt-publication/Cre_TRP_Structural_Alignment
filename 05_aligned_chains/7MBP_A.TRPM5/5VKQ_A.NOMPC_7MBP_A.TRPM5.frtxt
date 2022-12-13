@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:5VKQ_A.NOM  Size= 386
+Chain 2:7MBP_A.TRP  Size= 384 (TM-score is normalized by  384)
+
+Aligned length= 324, RMSD=  3.18, TM-score=0.73694, ID=0.223
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+SDSAGKILQATDKRNVEFLDVLIENEQKEVIAHTVVQRYLQELWHGSLT--WASWKILLLLVAFIVCPPVWIGFT---------------------FPM-GHKFNKVPIIKFMSYLTSHIYLMIHLSIVGITPIYPVLRLSLVPYWYEVGLLIWLSGLLLFELTNP---------------SDKSGLGSIKVLVLLLGMAGVGVHVSAFLFVSKEYWPTLVYCRNQCFALAFLLACVQILDFLSFHHLFGPWAIIIGDLLKDLARFLAVLAIFVFGFSMHIVALNQSFANFSPEDLRSFEKKNRNRGYFSDVRM-HPINS-FELLFFAVFGQTTTEQTQV-DKIKNVATP------------TQPYWVEYLFKIVFGIYMLVSVVVLIQLLIAMMSDTYQRIQAQSDIEWKFGLSKLIRNMHRTTTAPSPLNLVTTWF-MW-----
+                :::::::::::::::::::::::::::::::::  ::::::::::::.                                ..  .:::::::::::::::::::::::::::::: : :.::..::::::::::::::::::::::::::               ...:::::::::::::::::::::: :    ::  .  :: ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.                      :::.. ::::: :::::::::::::::::.. .:..::...            .....::::::::::::::::::::::::::::::::::::::::::::::::::::::::::..::::::::::. :.     
+----------------TVLNIATLAEAKCFFAHDGVQALLTKVWWGAMRTDTSISRLVLTFFIP-----------PLVWTSLIKFNPESATFIRVVLR-RWNRFWSAPVTVFMGNVIMYFAFLILFSYVLL-L-DFRPPPPYGPSAAEIILYFWVFTLVLEEIRQSFFTDEDMSILKKMKLYVEDNWNKCDMVAISLFVVGLSCRM-A----MS--T--YE-AGRTVLALDFMVFTLRLIHIFAIHKQLGPKIIIVERMIKDVFFFLFFLSVWLIAYGVTTQALLHP----------------------NDPRIDWVFRRALYRPYLHIFGQIPLEEIDAAKMPDDNCTTDVQEIILGTLPPCPNIYANWLVILLLVIYLLVTNVLLLNLLIAMFSYTFQVVQENADIFWKFQRYNLIVEYHSRPALAPPFIIISHITQALLSFIK
+

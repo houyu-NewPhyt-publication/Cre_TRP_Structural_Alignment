@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7MBP_A.TRP  Size= 384
+Chain 2:6PW5_B.TRP  Size= 340 (TM-score is normalized by  340)
+
+Aligned length= 285, RMSD=  3.79, TM-score=0.66733, ID=0.199
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+TVLNIATLAEAKCFFAHDGVQALLTKVWWGAMRTDTSIS-RLVLTFFIPPLVWTSLIKFNPESATFIRVVL---------------------------------RRWNRFWSAPVTVFMGNVIMYFAFLILFSYVLLLDFR-PPPPYGPSAAEIILYFWVFTLVLEEIRQSFFTDEDMSILKKMKLYVED-NWNKCDMVAISLFVVGLSCRMA-M--S----TYEAGRTVLALDFMVFTLRLIHIFAIHKQLGPKIIIVERMI-KDVFFFLFFLSVWLIAYGVTTQALLHPNDPRIDWVFRRALYRPYLHIFGQIPLEEIDAAKMPDDNCT--------TDVQEIILGTLPPCPNI---YANWLVILLLVIYLLVTNVLLLNLLIAMFSYTFQVVQENADIFWKFQRYNLIVEYHSRPALAPPFIIISHITQALLSFIK
+ :::::::::::::::::::::::::::::::..::::. ..:::::::...                                                    .:.:: ..:::::::::::::::::::::::::::.. ..::::::::::::::::::::.:::. :.       : ...::..:: :::::::::::::::::::::: :  :    ::::::::::::::::::::::.:::::::::::::::::: :::::::::::::::::::::::::::.                                               ...         .::..   .:::::::::::::::::::::.::::::::::::.:::::::::::::::::::::::                     
+-PVGYALATFDKAFLSHKFVQQIFTEKWDTMGVTDYTKSLFGVVWGGCSLVV-------------------AFAAWATICPLVVVARSFLSPVQDFMMRGKVIVDSRFP-WHVPLYRWLLTQCALITFTVLLSYLVFSFDPSDPVPASVAPLNTFLAVWCAAILVDEVQ-EY-------V-EEGRAEYMSSGWNVMDVTMALSYILHYILRIIAVRVTDNLNILLVVNDLLAAAALMAWFRMVSVFELSSAIGPLIQMMKQMLIKDVTRFALLVLVILLGFSVGMEALFQEA---------------------------------------CIERDPTTNEC---------TKYTSWFEQKRVTGVIFYLIFAIVTAILLLNLFIAMLADTYTRVSTQAMVEFRYRKAKLMASYSRRD---------------------
+

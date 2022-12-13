@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:5WPQ_A.TRP  Size= 454
+Chain 2:6E2G_A.TRP  Size= 323 (TM-score is normalized by  323)
+
+Aligned length= 269, RMSD=  4.22, TM-score=0.65747, ID=0.150
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+E-EDLRRRLKYFF--------MSP-------CDKFRA-KGRKPCKLMLQVVKILVVTVQLILFGLSNQLVVTFREENTIAFRHLFLLGYSDGSDDTFAAYTQEQLYQAIFYAVDQYLILPEISLGRYAYVRALALCQRYYHRGHVDPANDTFDIDPRVVTDCIQVDPPSASYKNLTLKFHKLINVTIHFQLKTINLQSLINNEIPDCYTFSILITFDNKAHSGRIPI-RLETKT-HI-QECK----SFRLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVVFMWRRRGREISL-WERLEFVNG-WYILLVTSDVLTISGTVMKIGIEAKNLASYDVCSILLGTSTLLVWVGVIRYLTFFHKYNILIATLRVAL-PSVMRFCCCVAVIYLGYCFCGWIVLGPYHV---K-FRSLSMVSECLFSLI-NGDDMFVTFAAMQAQQGHSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDTIKHP----------------------
+  ...:::::...        .         ....:. ...........::::::::::::::::::  :: ::                                                                                                                                       :::... .        .  ...... .. ....    :::::::::::::::::::::::::::::...                  . ..:..:: ::::::::::::::::::: :     .::::: :::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::::::.:   : ::::::::::::::: :::::  :::  .::::    :: :::::::::::::::::::::::::::::::::..                      
+-DDQSLLELIVTTKKREARQIL--DQTPVKELVSLKWKRYGRPYFCVLGAIYVLYIICFTMCCVYRP--LK-PR---------------------------------------------------------------------------------------------------------------------------------------ITNRTN-P--------R-DNTLLQQKLLQEAYVTPKDDLRLVGELVSIVGAVIILLVEIPDIFRLGVTR-----------------FF-GQTILGGPFHVIIVTYAFMVLVTMVMR-L-----TNSDGE-VVPMSFALVLGWCNVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFYIIFQTEDPDELGHFYDYPMALFSTFELFLTIIDG--PAN--YDVDL----PF-MYSITYAAFAIIATLLMLNLLIAMMGDTHWRVAHERDELWRAQVVATTVMLERKLPR
+

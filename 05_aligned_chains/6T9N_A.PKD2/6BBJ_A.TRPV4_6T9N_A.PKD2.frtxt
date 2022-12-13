@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6BBJ_A.TRP  Size= 294
+Chain 2:6T9N_A.PKD  Size= 480 (TM-score is normalized by  480)
+
+Aligned length= 208, RMSD=  6.08, TM-score=0.30434, ID=0.136
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+SVLEILVYNSKVENRHEMLAVEPINELLRDKWQKFGAVSFYISVVSYLIAMIIFTLIAYYR-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------PMD-------------------GTPPYPYRTT-----M-DYM-RLAGE-IVTL-LTGV--VFFI--------TNIKDLFMVNSLFIDGSFQLLY--FIY--SVL-VIIT---AVL-------------------------------YLVGIESYLAVMVFALVLGWMNALYFTRGLKLTGTYSIMLQKILFKDLFRFLLVYLLFMIGYASALVSLLNPCR--D-SSTFSKFLLDLFKLTIGMGDLEMINSA--K--YPAVFIILLVTYI-ILTFVLLLNMLIALMGETVGQVSKESKQIWKLQWATTILDIERSFPVC--
+                               :: :::::::::::::::::::::::::::                                                                                                                                                                                         ..:                   .:.......      . ... :..:. .:.  ..    .           ...::.  .         .     .    ..  ..     .                                 ...:..........:. .:........:  ........::::::::::..........:..::..::.....    . ..:::::::::::::::::.. ..:::  :  ::::::::::::: ::::::::::::::::......::....                      
+-------------------------------RE-KYLKSVLRELVTYLLFLIVLCILTYGMMSSNVYYYTRMMSQLFLDTPVSKTEKTNFKTLSSMEDFWKFTEGSLLDGLYWKMQNRSFIFYENLLLGVPRIRQLRVRNGSCSIPQDLRDEIKECYDVYSVSSEDRAPFGPRNGTAWIYTSEKDLNGSSHWGIIATYSGAGYYLDLSRTREETAAQVASLKKNVWLDRGTRATFIDFSVYNANINLFCVVRLLVEFPATGGVIPSWQFQPLKLIRY-VTTFDFFLAACEIIFCFFIF-YYV--VEE---ILEIRIHKLHYFRS--F---------W---NCL--DVVI-VVL--SVVA--IGINIYRTSNVEVLLQFLEDQNTFPNFEHLAYWQIQFNNIAAVTVFF-VWIKLFKFINF--NRTMSQLSTTMSRCAKDLFGFAIMFFIIFLAYAQLAYLVFGT--QVDDFSTFQECIFTQFRIILGDINF-AEIEEANRVLGPIYFTTFVFFMFFILLNMFLAIINDTYSEVKSDLAQQKAEM--------------------EL
+

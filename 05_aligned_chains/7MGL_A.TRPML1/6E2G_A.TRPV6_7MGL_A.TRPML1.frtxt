@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6E2G_A.TRP  Size= 323
+Chain 2:7MGL_A.TRP  Size= 472 (TM-score is normalized by  472)
+
+Aligned length= 273, RMSD=  4.20, TM-score=0.47970, ID=0.141
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+DDQSLLELIVTTKKREARQILDQTPVKE-LVSLKWK-RYGRPYFCVLGAIYVLYIICFTMCCVYRP--LK--PR-------------------------------------------------------------------------------------------------------------------------------------------------ITNRTNP---------RD-NTLLQQKLLQEA-YV--T-PKDDLRLVGELVSIVGAVIILLVEIPDIFRLGVTR------------------FFGQTILGGPFHVIIVTYAFMVLVTMVMR-L-----TNSDGE-VVPMSFALVLGWCNVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFYIIFQTEDPDELGHFYDYPMALFSTFELFLTIIDG--PANY-DVDL------PFMYSITYAAFAIIATLLMLNLLIAMMGDTHWRVAHERDELWRAQVVATTVMLERKLPR
+  .::::::...        .     .  .:..:.  ... ....:..::::::::::::::::::  :.  :.                                                                                                                                                 :::....         .  .......:.... ..  . ...:::::::::::::::::::::::::::.:...                  ..:::. : :::::::::::::::::::: :     :::::: :::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::::::::    :::::::::::::::: :::::  :::. .::.      ::::::::::::::::::::::::::::::::::::                       
+--DLRRRLKYFF--------M-----S-PCDKFRA-KGRK-PCKLMLQVVKILVVTVQLILFGLSNQLAVTFREENTIAFRHLFLLGYSDGADDTFAAYTREQLYQAIFHAVDQYLALPDVSLGRYAYVRGGGDPWTNGSGLALCQRYYHRGHVDPANDTFDIDPMVVTDCIQVDPPERSSYKNLTLKFHKLVNVTIHFRLKTINLQSLINNEIPDCYTFSVLITFDNKAHSGRIP-ISLETQAHIQECKHPSVFQHGDNSFRLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVGFMWRQRGRVISLWERLEFV-N-GWYILLVTSDVLTISGTIMKIGIEAKNLASYDVCSILLGTSTLLVWVGVIRYLTFFHNYNILIATLRVAL-PSVMRFCCCVAVIYLGYCFCGWIVLGPYHV----KFRSLSMVSECLFSLI-NGDDMFVTFAAMQAQQGRSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDTIKH-----------------------
+

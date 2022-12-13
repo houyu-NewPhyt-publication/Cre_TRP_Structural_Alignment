@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7DXC_A.TRP  Size= 394
+Chain 2:7LQY_A.TRP  Size= 317 (TM-score is normalized by  317)
+
+Aligned length= 283, RMSD=  3.12, TM-score=0.76527, ID=0.113
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+SLSRVKLAI-K---Y-EVKKFVAHPNCQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGITTLPNITVTDYPKQIFRVKTTQ--------FTWTEMLIMVWVLGMMWSECKELWL--EGPREYILQLW-NVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVK-DIFKFMVLFIMVFFAFMIGMFILYSYYLGA-KV------NAAFTTVEESFKTLFWSIFGLSEVTSVVLKYDHKFIENIGYVLYGIYNVTM-VVVLLNMLIAMINS-SY-DDS-DVEWKFARSKLWLSYFDKTLP------
+. ::::::: :   : :::::::::::::::::::::                                            ::::::::::::::::::::::::...   .   .  .        .:..:..        .::::::::::::::::::::::::  :..:..:::.: :::::::::::::::::::::                                           :: ::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::: ::::: ..      ::.:::::::::::::::::::::::::: . :  :::::::::::::::: :::::::::::::: :: .:. :::::::::::::::::::.       
+N-SVLEVIAYSSSETPNRHDMLLVEPLNRLLQDKWDR--------------------------------------------FVKRIFYFNFFVYCLYMIVFTTAAYYR---P---V--D--------GLPPYKLKNTVGDYFRVTGEILSVSGGVYFFLRGIQYFLQRRPSMKTLFVDSYSEMLFFVQSLFMLGSVVLYFSH-------------------------------------------RK-EYVASMVFSLAMGWTNMLYYTRGFQQMGIYAVMIEKMILRDLCRFMFVYLVFLFGFSTAVVTLI-EDGKNYWRAPGCRPPDSYNSLYSTCLELFKFTIGMGDLEFTEN-Y-D--FKAVFIILLLAYVILTYILLLNMLIALMGETVNKIAQESKNIWKLQRAITILDTEKSFL-KCMRKA
+

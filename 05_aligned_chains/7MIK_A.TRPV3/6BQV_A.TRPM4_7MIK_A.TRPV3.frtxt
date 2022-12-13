@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6BQV_A.TRP  Size= 381
+Chain 2:7MIK_A.TRP  Size= 318 (TM-score is normalized by  318)
+
+Aligned length= 274, RMSD=  3.33, TM-score=0.72355, ID=0.187
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+TC-LQLAMQAD-------ARAFFAQDGVQSLLTQKWWGDMASTTPIWALVLAFFCPPLIYTRLITFRRCLRRWFHFWGAPVTIFMGNVVSYLLFLLLFSRVLLVDFQ----PAPPG-S-------LELLLYFWAFTLLCEELRQGLSGSGGPGPGHASLSQRLRLYL-----A---DSWNQCDLVALTCFLLGVGCRLTPGLYHLGRTVLCIDFMVFTVRLLHIFTVNKQLGPKIVIVSKM-MKDVFFFLFFLGVWLVAYGVATEGLLRPR----DSDFP----SILRRVFYRPYLQIFGQIPQEDMDVALMEHSNCSSEPGFWAHPPGAQAGTCVSQYANWLVVLLLVIFLLVANILLVNLLIAMFSYTFGKVQGNSDLYWKAQRYRLIREFHSRPALAPPFIVISHLRLLLRQLCR-------
+.. ..::::::       ::::::.......:::::::                                        :::::::::::::::::::::::::::.:    ::::: :       ...::.::::::::::::... .             .:::..     .   :::::::::::::::::::::::: :: ::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::::.:    ..       .::::::::::::::::::::  ::                          ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::....             .              
+TTDNSVLEIIVYNTNIDNRHEMLTLEPLHTLLHTKWKK----------------------------------------FAKYMFFLSFCFYFFYNITLTLVSYYRPREDEDLPHPLALTHKMSWLQLLGRMFVLIWATCISVKEGI-A-------------IFLLRPSDLQSILSDAWFHFVFFVQAVLVILSVFLYLFA-YK-EYLACLVLAMALGWANMLYYTRGFQSMGMYSVMIQKVILHDVLKFLFVYILFLLGFGVALASLIEKCSKDKKD---CSSYGSFSDAVLELFKLTIGLGDLN--IQ--------------------------QNSTYPILFLFLLITYVILTFVLLLNMLIALMGETVENVSKESERIWRLQRARTILEFEKML-------------P-------EWLRSRF
+

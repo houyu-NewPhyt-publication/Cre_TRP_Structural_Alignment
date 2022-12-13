@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6DRJ_A.TRP  Size= 397
+Chain 2:6X2J_A.TRP  Size= 291 (TM-score is normalized by  291)
+
+Aligned length= 247, RMSD=  4.46, TM-score=0.62112, ID=0.096
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+TCLWLALEAHDKSFIAHS-G--VQALLTQIWCGELSVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMID---FQTSP------SWRELLL-YVWLTSLVCEEIRQLYHDFDGSGFRRKAKMYIKDLWNILDVLSIVLFIAGLICRLQASDTVFYIGKVILCIDFIIFCLRLMAIFS-----ISRTLGP-----KIIIVRRMMLDLFFFMFLLSIWVVAYGVAKQGILIENEERLNWIIRGAVYEP-YI-TI---FGNFPT-NIDN-TLFDISSCSVNASDPLKPKCPMLNADNTPVFPEWLTIMMLCVYLLFANILLLNLLIAIFNYTFQEVQDN-T--DT-IWKFQRYELIKEYH-SRPALPPPFILLSHLILFIRGVFL---------
+.:...:.  .:.::..:: .  .::::::::::                                                            :::..:..........:::::::::::   ..:::      ::::::: ::.::..::..: ..                   ::::::::::::::::::..:::.  :::::::::::::::::::::::::     ..          ....: .::::::::::::::::::::::::   .      ....:...:.. :. .:   ::.::: :::: ::.                 .       . .   .: :::::::::::::::::::::::::::::::: :  :: :::::::.::.... ..                               
+LTALNAM--VQNNRIELLNHPVCKEYLLMKWLA------------------------------------------------------------YGFRAHMMNLGSYCLGLIPMTILVVNIKPGMAFNSTGIINNSYLIKTCMILVFLSSIFGYC-KE-------------------ISNVLEWIIYTTGIIFVLPLFVEI--PAHLQWQCGAIAVYFYWMNFLLYLQRFENCGI-----FIVMLEVILK-TLLRSTVVFIFLLLAFGLSFYILLN---L------QDPFSSPLLSIIQTFSMMLGDINYRESFLEPYLRN-----------------E-------L-A---HP-VLSFAQLVSFTIFVPIVLMNLLIGLAVGDIADVQKHASLKRIAMQVELHTSLEKKL----------------------PLWFLRKVD
+

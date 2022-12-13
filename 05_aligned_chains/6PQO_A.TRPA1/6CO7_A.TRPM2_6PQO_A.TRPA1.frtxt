@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6CO7_A.TRP  Size= 405
+Chain 2:6PQO_A.TRP  Size= 310 (TM-score is normalized by  310)
+
+Aligned length= 285, RMSD=  4.31, TM-score=0.70740, ID=0.139
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+RMTALELAVSAESQDFI-A-HT---SCQVLLTRLWMGTMAMNTRWWKVLVCLYLPVLIFPIIYFVPDEQHERQAAEREHQKSLNQDDSMEVIMRNKKLGFCDRIMHFYSAPFSKFVGNVVGYLAFIFLYAYVVLFN-F-PRFDPAKTLG--G-I--HPTEIVLYFWV-FTILIEEIRQLAAKPPKYIKDKVSVYFSDTWNFVDIFSLTVFIIAIILR-FFTNSRIFTASRIILSLDIIFFIVRSLQIFSVNRLLGPKLVMIQKMMQDLAQFIIILAVFTIAYGIALHAVMFPSPGIYARNNTWVTITSVVQYPYWQMYGELFLDEIQGEKPKEFG-EVDPDGRWLSPLLLAIYMVFTNILLLNLLIAIFNYTFERVQEDSDKVWKFQRYDLV-QEYHSRPVFAPPLVLLGHILIFIRWVWR---------
+  .:.. ..   ..:.. . .:   ....::::::::                                                                        ::::.::.........::::::::::: . ::... ....  . .  ::::::::::: ::.::..::..: .   .: .::::::..::::::::::::::::::.. ::::   ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::     :.. . ..:::::::::::::::::::::::.:..     ...:::::::::::::::::::::::::::::::::::::::.....::::::.:: ......                               
+--LTAL-NA---MVQNNRIELLNHPVCKEYLLMKWLA------------------------------------------------------------------------YGFRAHMMNLGSYCLGLIPMTILVVNIKPGMAFNS-TGIINILDTTNSYLIKTCMILVFLSSIFGYCKEAG-Q---IF-QQKRNYFMDISNVLEWIIYTTGIIFVLPLFVEIP---AHLQWQCGAIAVYFYWMNFLLYLQRFENCGIFIVMLEVILKTLLRSTVVFIFLLLAFGLSFYILLN-----LQD-P-FSSPLLSIIQTFSMMLGDINYRESFLEPY----LRNELAHPVLSFAQLVSFTIFVPIVLMNLLIGLAVGDIAEVQKHASLKRIAMQVELHTSLEKKL----------------------PLWFLRKVD
+

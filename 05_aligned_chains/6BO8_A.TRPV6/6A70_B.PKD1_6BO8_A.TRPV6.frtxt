@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6A70_B.PKD  Size= 404
+Chain 2:6BO8_A.TRP  Size= 305 (TM-score is normalized by  305)
+
+Aligned length= 218, RMSD=  3.80, TM-score=0.56973, ID=0.087
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+------------------------A--KE-EARK-VKRLHGMLRSLLVYMLFLLVTLLASYGDASCHGHAYRLQSAIKQELHSRAFLAITRSEELWPWMAHVLLPYVHGNQSSPELGPPRLRQVVGWESPHNGSGTWAYSAPDLLGAWSWGSCAVYDSGGYVQELGLSLEESRDRLRFLQLHNWLDNRSRAVFLELTRYSPAVGLHAAVTLRLEFPAAGRALAALSVRP-FALRRLSAG-LSLPLLTSVCLLLFAVHFAVAEARTWHREGRWRVLRLGAWARWLLVALTAATALVRLAQLGAADRQWTRFVRGRPRRFTSFDQVAQLSSAARGLAASLLFLLLVKAAQQLRFVRQWSVFGKTLCRALP-ELLGVTLGLVVLGVAYAQLAILLVSS--------H-LSPLLCVGL--WA--L--R-------------------L---WG-ALRLGAVILRWRYHALRGELYRP------------------
+                        .  .: .::: :::::::::::::::::::::::::: :.  ..                                                                                                                                        .::::::...       ...:.::: ....:::.. .::::::::::::::::::::::  :          :::::::::::::::::::::::                       .   :  ::..::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::..        . :::::::::  ::  :  :                   :   :: ::::::::::::::::::::...                  
+DEQSLLELIITTKKREARQILDQTPVKELVSLKWKRYGRPYFCMLGAIYLLYIICFTMCCI-YR--PL----------------------------------------------------------------------------------------------------------------------------------------KPRTNNRTSP-------RDNTLLQQKLLQEAYMTPKDDIRLVGELVTVIGAIIILLVEV--P----------PFHVLIITYAFMVLVTMVMRLIS-----------------------A---S--GEVVPMSFALVLGWCNVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFYIIFQTEDPEELGHFYDYPMALFSTFELFLTIIDGPANYNVDLPFMYSITYAAFAIIATLLMLNLLIAMMGDTHWRVAHERDELWRAQIVATTVMLERKLPR
+

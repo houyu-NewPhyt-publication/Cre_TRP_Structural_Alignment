@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7B0J_A.TRP  Size= 381
+Chain 2:6PUO_A.TRP  Size= 344 (TM-score is normalized by  344)
+
+Aligned length= 300, RMSD=  3.86, TM-score=0.69837, ID=0.197
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+ELARLKLAIKYRQKEFVAQPNCQQLLASRWYDEFPGWRRRHWAGKLITCVFIGLMFPLLSLCYLVAPK---------------------SR-YGLFIRKPFIKFICHTASYLTFLFLLLLASQHIVSNNPDRQGPKPTTVEWMILPWVLGFIWTEIKQMWD--------GGFQDYIHDWWNLMDFVMNSLYLATISLKIVAYVKYSGCKPRDTWEMWHPTLVAEAVFAIANIFSSLRLISLFTANSHLGPLQISLGRMLLDILKFLFIYCLVLLAFANGLNQ-LY---FYYENSEGMTCKGIRCERQNNAFSTLFETLQSLFWSIFGLISLYVTNVKADH-KFTE--FVG-ATMFGTYNVISLVVLLNMLIAMMNNSYQHIADHADIEWKFARTKLWMSYFEEGGTLPPPFNII-PSP--K--S-
+  .::::::::::::::::::::::::::::::: ::: :.::::::::::.                                     .. .....:::::::::::::::::::::::::.:  :.   .  :::::::::::::::::::::::....        .:::::::::::::::::::::::::::::::   :             ::::::::::::::::::::::::::::   :::::::::::::::::::::::::..:...:. .:   ..::::. .  ..:     :::        .....::::              .     ..  ...... ....::::::::::::::::::::::::::::::::::::::::: ..:::::::: .::  :  . 
+--TCLQLALEAKDMKFVSHGGIQAFLTKVWWGQL-SVD-NGLWRVTLCMLAF----------------PLLLTGLISFREKRLQDVGTPAARARAFFTAPVVVFHLNILSYFAFLCLFAYVLMV--DF---Q--PVPSWCECAIYLWLFSLVCEEMRQLFYDPDECGLMKKAALYFSDFWNKLDVGAILLFVAGLTCRLIP---A-------------TLYPGRVILSLDFILFCLRLMHIFTISK---TLGPKIIIVKRMMKDVFFFLFLLAVWVVSFGVAKQAILIHNERRVD-W--LFR-----GAV--------YHSYLTIFG-------------FP---EWLT-VLLLCLY-LLFTNILLLNLLIAMFNYTFQQVQEHTDQIWKFQRHDLIEEYHGR-PAAPPPFILLSHLQLFIKRVV
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7MZD_A.TRP  Size= 304
+Chain 2:6CO7_A.TRP  Size= 405 (TM-score is normalized by  405)
+
+Aligned length= 284, RMSD=  3.09, TM-score=0.61653, ID=0.153
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+-NSVLEVIAYSSSETPNRHDMLLVEPLNRLLQDKWDR------------------------------------------------------------------------FVKRIFYFNFFVYCLYMIIFTAAAYYRPVEGLPPYKLKNTVGDYFRVTGEILSVSGGVYFFFRGIQYFL-Q-------RRPSLKSLFVDSYSEILFFVQSLFMLVSVVLYFSQ---RK-EYVASMVFSLAMGWTNMLYYTRGFQQMGIYAVMIEKMILRDLCRFMFVYLVFLFGFSTAVVTLIE-----DGK-Y--NSLYSTCLELFKFTIGMGDLEFT-E--------NY-DFKAVFIILLLAYVILTY-ILLLNMLIALMGETVNKIAQESKNIWKLQRAITILDTEKSFLK----------CMRKA-------
+ :::::..: .   . .::::::::::::::::::::                                                                        ::::::::::::::::::::::::::::.   :::.....  .. .:::::::::::::::::::::.. :       :::.  .:  .::::::::::::::::::::::::   :: :::::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::::     :.. .  .:::::::::::::::::::::: :        :: :::::::::::::::::: ::::::::::::::: ::::::::::::::::::::::::::.          ..          
+RMTALELAV-S---A-ESQDFIAHTSCQVLLTRLWMGTMAMNTRWWKVLVCLYLPVLIFPIIYFVPDEQHERQAAEREHQKSLNQDDSMEVIMRNKKLGFCDRIMHFYSAPFSKFVGNVVGYLAFIFLYAYVVLFNFP---RFDPAKTL--GG-IHPTEIVLYFWVFTILIEEIRQLAAKPPKYIKDKVSV--YF--SDTWNFVDIFSLTVFIIAIILRFFTNSRIFTASRIILSLDIIFFIVRSLQIFSVNRLLGPKLVMIQKMM-QDLAQFIIILAVFTIAYGIALHAVMFPSPGIYARNNTWVTITSVVQYPYWQMYGELFLDEIQGEKPKEFGEVDPDGRWLSPLLLAIYMVFTNILLLNLLIAIFNYTFE-RVQEDSDKVWKFQRYDLVQEYHSRPVFAPPLVLLGHILI---FIRWVWR
+

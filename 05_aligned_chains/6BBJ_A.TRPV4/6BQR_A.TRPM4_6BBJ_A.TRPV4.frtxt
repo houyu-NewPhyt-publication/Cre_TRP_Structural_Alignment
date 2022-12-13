@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6BQR_A.TRP  Size= 374
+Chain 2:6BBJ_A.TRP  Size= 294 (TM-score is normalized by  294)
+
+Aligned length= 221, RMSD=  5.52, TM-score=0.50629, ID=0.091
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+--LQLAM-QADARAFFAQDGV--QSLLTQKWWGDMASTTPIWALVLAFFCPPLIYTRLITFRRRCLRRWFHFWGAPVTIFMGNVVSYLLFLLLFSRVLLVDFQ--------P-APPGSLELLLYFWAFT--LLCE--ELRQGLSGSLSQRLRLY---LADSWN--QCDLV-----------------ALT--CFLL--GVGCRLTPGLY--HLGR---TVL---CID--FMVF--TVR--LLH--IFT---VN--KQ-LGPKIVIVSKMMKDVFFFLFFLGVWLVAYGVAT-EGLL-RPRDSDFPSILRRVFYRPYLQIFGQIPQEDMDVALMEHSNCSSEPGFWAHPPGAQAGTCVSQYANWLVVLLLVIFLLVANILLVNLLIAMFSYTFGKVQ--GN--SD-LYWKAQRYRLIREFHSRPALAPPFIVISHLRLLLRQLCRRPR
+  ::::: ::::..::...:.  .....::.::                                        :::::::::: ::::::::::::::::::.        : :::...:..:....    .     .                   ...:.   .                     .    ..    .            .:..   .     .    ..    .    .    ..    ..  .. ..:::::::::...:..::..::..::. .:.  ..   . . .::: ::::::::::::::::::  :                         :.  . . .::: ::::::::::: ::::::::::::::::...  ..  .: ...:::::::::::::::             .. .       
+SVLEILVYNSKVENRHEMLAVEPINELLRDKWQ----------------------------------------KFGAVSFYIS-VVSYLIAMIIFTLIAYYRPMDGTPPYPYRTTMDYMRLAGEIVT--LLT---GVV----------------FFITNIKD-LFM----VNSLFIDGSFQLLYFIYS--VLVI--ITA----------VLYLVGIESY--LAVM--VFAL--VLG--WMN--ALYF-TRGLKLTGTYSIMLQKILFKDLFRFLLVYLLFMIGYAS-ALV-SLL--NP-C-RDSS-TFSKFLLDLFKLTIGMGD--L-------------------------EM--I-N-SAKY-PAVFIILLVTY-IILTFVLLLNMLIALMGETVGQVSKESKQIWKLQWATTILDIERSF-------------PV-C-------
+

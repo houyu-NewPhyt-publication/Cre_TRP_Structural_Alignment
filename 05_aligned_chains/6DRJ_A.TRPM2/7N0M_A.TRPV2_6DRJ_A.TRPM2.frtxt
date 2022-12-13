@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7N0M_A.TRP  Size= 296
+Chain 2:6DRJ_A.TRP  Size= 397 (TM-score is normalized by  397)
+
+Aligned length= 261, RMSD=  4.24, TM-score=0.52252, ID=0.143
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+EKNSVLEIIAFHCKSPNRHRMVVLEPLNKLLQEKWDR-------------------------------------------------------------LVSRFFFNFACYLVYMFIFTVVAYHQPFGESMLLLGHILILLGGIYLLLGQLWYFW----------RRRLFIWISFMDSYFEILFLLQALLTVLSQVLRFM-E--T-EWYLPLLVLSLVLGWLNLLYYTRGFQHTGIYSVMI-Q--KVI--LR-DLLRFLLVYLVFLFGFAVALVSLSRE-AR-------APYRSILDASLELFKFTIGMGELAFQEQ------------------L---------R---FR-GVVLLLLLAYVL-LTYVLLLNMLIALMSETVNHVADNSWSIWKLQKAISVLEMENGY------W---W-CRR-KKHR----
+   :::....  : ::: .:::::.::::::::::::                                                             ::::::::::::::::::::::::::: ... .::::::::::::::::::..:..          :.::...     ::::::::::::::::::::::: :  : ::::::::::::::::::::::         :..  .  ..   .. ..:..::::::::::::::::::::: ::       ...:...::..:. .:. ....::.::.                  .         .   .: ::..:::::::: :::::::::::::::::: ::: ::   :::::::::::::::.      .   : .:. .       
+---TCLWLAL--E-AHD-KSFIAHSGVQALLTQIWCGELSVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMIDF-QTS-PSWRELLLYVWLTSLVCEEIRQLYHDFDGSGFRRKAKMYIK-----DLWNILDVLSIVLFIAGLICRLQASDTVFYIGKVILCIDFIIFCLRLMAIF---------SIS-RTLGPK-IIIVRRMMLDLFFFMFLLSIWVVAYGVAKQGILIENEERLNWIIRGAVYEPYIT-IFG-NFPTNIDNTLFDISSCSVNASDPLKPKCPMLNADNTPVFPEWLTIMMLCVYLLFANILLLNLLIAIFNYTFQEVQD-NTD-TI---WKFQRYELIKEYHSRPALPPPFILLSHLILFIR---GVFL
+

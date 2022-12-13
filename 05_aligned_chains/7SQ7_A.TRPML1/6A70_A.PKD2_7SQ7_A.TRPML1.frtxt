@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6A70_A.PKD  Size= 448
+Chain 2:7SQ7_A.TRP  Size= 463 (TM-score is normalized by  463)
+
+Aligned length= 374, RMSD=  4.09, TM-score=0.66250, ID=0.117
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+------------SV---------LRELVTYLLFLIVLCILTYGMMS--SNVYYYTRMMSQLFLDTPVSKTEKT-NFK-TLSS-MEDFWKFTEGS--LL--DG--L-NLLL-G--VP---------RIRQLRVRNGSCSIPQDLRDEIKECYDVYSVSSEDRAPFGPRNGTAWIYTSEKDLNGSSHWGIIATYSGAGYYLDLSRTREETA-AQVASLKKNVWLDRGTRATFIDFSVYNANIN-------L-FCVV-RLLVE-FPATGGVIPSWQFQPLKLI--FFLAACEIIFCFFIFYYVVEEILEIRIHKL-H-------------------YF--RSFWNCLDVVIVVLSVVAIGINIYRTSNVEVLLQFLEDQNTFPNFEHLAYWQIQFNNIAAVTVFFVWIKLFKFINFNRTMSQLSTTMSRCAKDLFGFAIMFFIIFLAYAQLAYLVFGTQVDDFSTFQECIFTQFRI-ILGDI-N-FAEIE--EA----NRVLGPIYFTTFVFFMFFILLNMFLAIINDTYSEVKSDLAQQ
+            ..         :::::::::::::::::::::::  ::::::::::::::::..... ... ..: :::: ..::.::..:.  .:  :.  . :::. :  ::         ......:.:... .   ..:::::..       .:::.       ::                          ..:: : :.   :.::: :: :...::::.:.:.:..::::::       : :... ..:.: ::::::::...........  .::::::::::::::::::::::::::::: .                   ..  ..:::::::::::::.::..:.. .:... .                .. :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: ::::: : :::::  ::    ::::::::::::::::::::::::::::::::::::::    
+DLRRRLKYFFMSPCDKFRAKGRKPCKLMLQVVKILVVTVQLILFGLSNQLVVTFREENTIAFRHLFLLG-YSDGSDDTFAAYTQEQLYQAIFYAVDQYLILPEISLGRYAYVRGGGGPWANGSALALCQRYYHRGHV-D---PANDTFDID-------PRVVT-------DC--------------------------IQVD-P-PD--RASYKN-LT-LKFHKLINVTIHFQLKTINLQSLINNEIPDCYTFSILITFDNKAHSGRIPIRLETKTHIQECKSFRLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVVFMWRRRGREISLWERLEFVNGWYILLVTSDVLTISGTVMKI-GIEAK-N----------------LA-SYDVCSILLGTSTLLVWVGVIRYLTFFHKYNILIATLRVALPSVMRFCCCVAVIYLGYCFCGWIVLGPYHVKFRSLSMVSECLFSLINGDDMFVTFAAMQAQQGHSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDTIKHP----
+

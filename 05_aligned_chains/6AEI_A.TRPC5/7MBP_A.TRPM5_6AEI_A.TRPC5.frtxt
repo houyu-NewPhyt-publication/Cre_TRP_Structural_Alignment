@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7MBP_A.TRP  Size= 384
+Chain 2:6AEI_A.TRP  Size= 361 (TM-score is normalized by  361)
+
+Aligned length= 308, RMSD=  3.20, TM-score=0.73372, ID=0.229
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+--TVLNIATLAEAKCFFAHDGVQALLTKVWWGAM-R-TDTSISRLVLTFFIPPL--VWTSLIKFNPESATFIRVV-------------LRRWNRFWSAPVTVFMGNVIMYFAFLILFSYVLLLDFRPPPPYGPSAAEIILYFWVFTLVLEEIRQSFFTDEDMSILKKMKLYVEDNWNKCDMVAISLFVVGLSCRMAM---S-------------TYEAGRTVLALDFMVFTLRLIHIFAIHKQLGPKIIIVERMIKDVFFFLFFLSVWLIAYGVTTQALLHPNDPR-----------------ID-WVFRRALYRPYLHIFGQIPLEEIDAAKMPDDNCTTDVQEIILGTLPPCPNIYANWLVILLLVIYLLVTNVLLLNLLIAMFSYTFQVVQENADIFWKFQRYNLIVEYHSRPALAPPFIIISHITQALLSFIK
+  :::::::::::::::::::::::::::::::: : ::::::::::::::.    .                               .. ......::::::::::::::::::::::: :: ...:  :::::::::::::::::::::::..:       . ::::::::::::::::::::::::::::::::   .             ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::..                 .. :::::::::::::::::::::::.   .    .              :.:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.                      
+DLAKLKVAIKYHQKEFVAQPNCQQLLATLWYDGFPGWRRKHWVVKLLTCMTI--GFL------------------FPMLSIAYLISPRSN-LGLFIKKPFIKFICHTASYLTFLFMLLLA-SQ-HVQG--PPPTVVEWMILPWVLGFIWGEIKEMW-------D-GGFTEYIHDWWNLMDFAMNSLYLATISLKIVAYVKYNGSRPREEWEMWHPTLIAEALFAISNILSSLRLISLFTANSHLGPLQISLGRMLLDILKFLFIYCLVLLAFANGLNQLYFYYETRAIDEPNNCKGIRCEKQNNAFSTLFETLQSLFWSVFGLLNLYVTN---V----K--------------ARHEFTEFVGATMFGTYNVISLVVLLNMLIAMMNNSYQLIADHADIEWKFARTKLWMSYFDE----------------------
+

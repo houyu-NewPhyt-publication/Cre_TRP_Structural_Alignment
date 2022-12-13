@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7SQ9_A.TRP  Size= 469
+Chain 2:5ZX5_A.TRP  Size= 364 (TM-score is normalized by  364)
+
+Aligned length= 251, RMSD=  3.91, TM-score=0.56572, ID=0.083
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+DLRRRLKY-F----F-----M--SPCDKFR-------------------------------------AK------------G-R--KP-CKLMLQVVKILVVTVQLILFGLSNQLVVTFREENTIAFRHLFLLGYSDGSDDTFAAYTQEQLYQAIFYAVDQYLILPEISLGRYAYVRGGGGPWANGSALALCQRYYHRGHVDPANDTFDIDPRVVTDCIQVDPPDRASYKNLTLKFHKLINVTIHFQLKTINLQSLINNEIPDCYTFSILITFDNKAHSGRIPIRLETKTHIQECKHPSVSRHFRLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVVFMWRRRGREISLWERLEFVNGWYILLVTSDVLTISGTVMKIGIEAKN----LA-SYDVCSILLGTSTLLVWVGVIRYLTFFHKYNILIATLRVALPSVMRFCCCVAVIYLGYCFCGWIVLGPYHVKF----RSLSMVSECLFSLINGDDMFVTFAAMQA----Q-QGHSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDTIKH--P--------------------------------
+.:::.... .    .     .  ...::.:                                     ..            : .  :: ..::::::::::::::::: :::                                                                                                                                                   .                                           .:..:::::::::::::::::::::. :. .                   .. .:::::::::::::::::::::::::....    .: :::::::::::::::::::::::::::::::.::::::::::::::::::::::::::::::::::::..       .:::::::::::::::::::::::::::    . .:::  ::::::::::::::::::::::::::::::::::::.  .                                
+TCLKLAVSSRLRPFVAHTCTQMLLSDMWMGRLNMRKNSWYKVILSILVPPAILMLEYKTKAEMSHIPQSQDAITRKFYAFYHAPIVKFWFNTLAYLGFLMLYTFVVLV-KME---------------------------------------------------------------------------------------------------------------------------------------------------Q-------------------------------------------LPSVQEWIVIAYIFTYAIEKVREVFM-KI-K-------------------VW-FSDYFNVSDTIAIISFFVGFGLRFGAKWNYINAYDNHVFVAGRLIYCLNIIFWYVRLLDFLAVNQQAGPYVMMIGKMVANMFYIVVIMALVLLSFGVPRKAILYPHE---EPSWSLAKDIVFHPYWMIFGEVYAYEIDVCANDSTLPTICGP--GTWLTPFLQAVYLFVQYIIMVNLLIAFFNNVYLQVKAISNIVWKYQRYHFIMAYHEKPVLPPPLIILSHIVS
+

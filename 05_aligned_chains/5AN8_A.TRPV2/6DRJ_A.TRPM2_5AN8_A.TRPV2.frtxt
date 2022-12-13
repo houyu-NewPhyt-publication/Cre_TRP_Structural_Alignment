@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6DRJ_A.TRP  Size= 397
+Chain 2:5AN8_A.TRP  Size= 297 (TM-score is normalized by  297)
+
+Aligned length= 265, RMSD=  4.39, TM-score=0.66867, ID=0.148
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+----TCLWLAL--E-A-HDKSFIAHSGVQALLTQIWCGELSVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMIDFQT--S--PSWRELLLYVWLTSLVCEEIRQLYHDFDGSGFRRKAKMYIK----DLWNILDVLSIVLFIAGLICRLQASDTVFYIGKVILCIDFIIFCLRLMAIFS-----ISRTLGP-----KIIIVRRMMLDLFFFMFLLSIWVVAYGVAKQGILIENEERLNWIIRGAVYEPYITIF-GNFPTNIDNTLFDISSCSVNASDPLKPKCPMLNADNTPVFPEWLTIMMLCVYLLFANILLLNLLIAIFNYTFQEVQ-DNTD--T-IWKFQRYELIKEYHSRPALP-PPFILLSHLILFIRGVFL
+    ::::.:.  : : :::::::::::::::::::::                                                             ::::::::::::::::::::::::::..:  .  .:::::::::::::::.::..:.. .        .:::...    .::::::::::::::::::::::.   : ::::::::::::::::::::::.     ..          ........::::::::::::::::::.:: :.    :.   ..::...::..:..:: ... .::.: .                  :.        ..  .: ..: ::.::::::::::::::::::.::.. :.::  : ::::::::::::::::.    .  .: ::  :. .    
+WEENSVLEIIAFHSRSPHRHRMVVLEPLNKLLQAKWDR-------------------------------------------------------------LIPRFCFNFLCYLVYMLIFTAVAYHQPALAGNSMLLLGHILILLGGVYLLLGQLWYFW-R--------RRLFIWISFMDSYFEILFLLQALLTVLSQVLCFLA---I-EWYLPLLVSSLVLGWLNLLYYTRGFQHTGI-----YSVMIQKVILRDLLRFLLVYLVFLFGFAVALVSL-SR----EP---PYRSILDASLELFKFTIGMG-ELAFQ-E------------------QL--------RF--RG-VVL-LLLLAYVLLTYVLLLNMLIALMSETVNSVATDSWSIWKLQKAISVLEMENGY---WW--CR-RK--KQ-R----
+

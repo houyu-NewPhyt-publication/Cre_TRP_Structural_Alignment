@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7D7F_A.PKD  Size= 446
+Chain 2:6AYF_A.TRP  Size= 476 (TM-score is normalized by  476)
+
+Aligned length= 351, RMSD=  4.01, TM-score=0.61884, ID=0.110
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+---------------------------------QILFLTLLMTTVY---SA-KD--SSRFFLHRAIWKRFSHRF-------SEIKTVEDFYPWANGTLLPNLYGDYRGFITDGNSFLLGNVLIRQTRIPNDIFFPGSLHKQMKSPPQHQEDRENYGAGWVPPDTNITKVDSIWHYQNQESLGGYPIQGELATYSGGGYVVRLGRNHSAATRVLQHLEQRRWLDHCTKALFVEFTVFNANV---------N-LLCAVTLILES-SGVGTFLTSLQLDSLTSLQSS--------ERGFAWIVSQVVYYLLVCYYAFIQGCRLKRQRL-A--------------------------F-F-TRKRNLLDTSIVLISFSILGLSMQSLSLLHKKMQQYHCDRDRFISFYEALRVNSAVTHLRGFLLLFATVRVWDLLRHHA--Q-LQ-VINKTLSKAWDEVLGFILIIVVLLSSYAMTFNLLFGWSISDYQSFFRSIVTVVGLLM-GTS-KHKEVIAL----YPILGSLLVLSSIIL-MGLVIINLFVS-AILIAFG-------------------
+                                 :::::::::::::   :: ::  :::::::::::::::::.       ::::::::::::::: :::::::.:.  .::::::::::::::::::::::::.:::   .. .. .::::                                            ::::::::     : :  ::   :::::::::::::::::::::         : ::::::::::: ::::::::::::::::::..         ....  ::..:::::::::::..:......... .                          . . .::::::::::::::::::::::::                          ::: ::::::::::::::::::::::::  : :: ::::..:..::::::::::: :::::::::::::::::::::::::::::::::::: ::. ::::::.:    .:::::::::::::: :::::.:.... ......                    
+LLEDQMRRKLKFFFMNPCEKFWARGRKPWKLAIQILKIAMVTIQLVLFGLSNQMVVAFKEENTIAFKHLFLKGYMDRMDDTYAVYTQSDVYDQLIF-AVNQYLQLYN--VSVGNHAYENAMAICQHFYKRGNIYPGND---TF-DI-DPEIE--------------------------------------------TECFFVEP-----K-L--NL---TLDFHRLLTVELQFKLKAINLQTVRHQELPDCYDFTLTITFDNKAHSGRIKISLDNDISIRECK-DWHVSGSIQKNT--HYMMIFDAFVILTCLVSLILCIRSVIRGLQLQQEFVNFFLLHYKKEVSVSDQMEFVNGWYIMIIISDILTIIGSILKMEIQAKS--------------------------LTS-YDVCSILLGTSTMLVWLGVIRYLGFFAKYNLLILTLQAALPNVIRFCCCAA-MIYLGYCFCGWIVLGPYHDKFRSLNMVSECLFSLINGDDMFATFAKMQQKSYLVWLFSRIYLYSFISLFIYMILSLFIALITDTYET-IKQYQQDGFPETELRTFIS
+

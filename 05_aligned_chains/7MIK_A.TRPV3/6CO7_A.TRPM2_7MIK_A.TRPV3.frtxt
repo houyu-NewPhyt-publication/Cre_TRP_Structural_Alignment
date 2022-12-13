@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6CO7_A.TRP  Size= 405
+Chain 2:7MIK_A.TRP  Size= 318 (TM-score is normalized by  318)
+
+Aligned length= 282, RMSD=  3.08, TM-score=0.76674, ID=0.186
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+-R-MTALELAVSA--E--SQDFIAHTSCQVLLTRLWMGTMAMNTRWWKVLVCLYLPVLIFPIIYFVPDEQHERQAAEREHQKSLNQDDSMEVIMRNKKLGFCDRIMHFYSAPFSKFVGNVVGYLAFIFLYAYVVLFNFP----RFDPAK---TLGGI-H--P-TEIVLYFWVFTILIEEIRQLAAKPPKYIKDKVSV----YF--SDTWNFVDIFSLTVFIIAIILRFFTNSRIFTASRIILSLDIIFFIVRSLQIFSVNRLLGPKLVMIQKMMQ-DLAQFIIILAVFTIAYGIALHAVMFPSPGIY-ARNNTW-----VTITSVVQYPYWQMYGELFLDEIQGEKPKEFGEVDPDGRWLSPLLLAIYMVFTNILLLNLLIAIFNYTFERVQEDSDKVWKFQRYDLVQEYHSRPVFAPPLVLLGHILIFIRWVWR------
+ : ::::::::..  :  :::::::.::::::::::::                                                                        :::::::::::::::::::::::::::..    ::.      .::.. .  : :::::::::::::::::.:.       .  ::::    ..  .::::::::::::::::::::::::   :: ::::::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::: :: ..:. ..         .:::::::::::::::::::  :::        ::.:...::::::::::::::::::::::::::::::::::::::::::::::::::::::..           .              
+TTDNSVLEIIVYNTNIDNRHEMLTLEPLHTLLHTKWKK------------------------------------------------------------------------FAKYMFFLSFCFYFFYNITLTLVSYYRPREDEDLPH---PLALTHKMSWLQLLGRMFVLIWATCISVKEGIAI-------F--LLRPSDLQSILSDAWFHFVFFVQAVLVILSVFLYLFA---YK-EYLACLVLAMALGWANMLYYTRGFQSMGMYSVMIQKVILHDVLKFLFVYILFLLGFGVALASL-IE-KCSKDKK----DCSSYGSFSDAVLELFKLTIGLGDL--NIQ--------QNSTYPILFLFLLITYVILTFVLLLNMLIALMGETVENVSKESERIWRLQRARTILEFEKMLP-----------E--------WLRSRF
+

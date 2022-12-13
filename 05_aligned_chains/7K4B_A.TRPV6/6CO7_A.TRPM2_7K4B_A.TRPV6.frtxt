@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6CO7_A.TRP  Size= 405
+Chain 2:7K4B_A.TRP  Size= 313 (TM-score is normalized by  313)
+
+Aligned length= 278, RMSD=  2.93, TM-score=0.77159, ID=0.167
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+-RMTALELAVSA-E--SQDFIAHTSCQVLLTRLWMGTMAMNTRWWKVLVCLYLPVLIFPIIYFVPDEQHERQAAEREHQKSLNQDDSMEVIMRNKKLGFCDRIMHFYSAPFSKFVGNVVGYLAFIFLYAYVVLFNFP--------------------RFDPAKTLG-GI--HPTEIVLYFWVFTILIEEIRQLAAKPPKYIKDKVSVYFSDTWNFVDIFSLTVFIIAIILRFFTNSRIFTASRIILSLDIIFFIVRSLQIFSVNRLLGPKLVMIQKMM-QDLAQFIIILAVFTIAYGIALHAVMFPSPGIYARNNT-----WVTITSVVQYPYWQM-Y-GELFLDEIQGEKPKEFGEVDPDGRWLSPLLLAIYMVFTNILLLNLLIAIFNYTFERVQEDSDKVWKFQRYDLVQEYHSRPVFAPPLVLLGHILIFIRWVWR
+ ..::::.::.. :  :::::::.::::::::::::                                                                        ::::::::::::::::::::::::::::.                    :::..:..  .:  :::::::::::::::::::. :.      :. ::::    :::::::::::::::::::::::   :: :::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::::    :..        ..::::::::::::: : .:::::  ..:         . .:::::::::::::::::::::::::::::::::::::::::::::::::::::::::.            .       
+DEQSLLELIITTKKREARQILDQTPVKELVSLKWKR------------------------------------------------------------------------YGRPYFCMLGAIYLLYIICFTMCCIYRPLKPRTNNRTSPRDNTLLQQKLLQEAYMTP-KDDIRLVGELVTVIGAIIILLVEVP-DI------FR-MGVT----PFHVLIITYAFMVLVTMVMRLIS---AS-GEVVPMSFALVLGWCNVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFYIIFQT----EDP---EELGHFYDYPMALFSTFELFLTIIDGPAN--YNV---------D-LPFMYSITYAAFAIIATLLMLNLLIAMMGDTHWRVAHERDELWRAQIVATTVMLERKLP------------R-------
+

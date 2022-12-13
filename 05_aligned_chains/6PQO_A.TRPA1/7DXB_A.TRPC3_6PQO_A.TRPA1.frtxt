@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7DXB_A.TRP  Size= 401
+Chain 2:6PQO_A.TRP  Size= 310 (TM-score is normalized by  310)
+
+Aligned length= 279, RMSD=  3.75, TM-score=0.72470, ID=0.136
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+ASLSRVKLAIKY-EVKKFVAHP-N--CQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGIT-TLPNI-------TVTDYPKQIFRVKTTQ------FTWTEMLIMVWVLGMMWSECKELWLEGPREYILQLWNVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVKDIFKFMVLFIMVFFAFMIGMFILYSYYLGAKVNAAFTTVEESFKTLFWSIFGLSEV-TSV-VLK-YDHKFIENIGYVLYGIYNVTMV-VVLLNMLIAMINSSYQEIEDDSDVEWKFARSKLWLSYF-DDGKTLP--------
+. ....  .    .:.:....: .  ......:::::                                            :::::::::::::::::::::::::::  ..  .           .:::.                 .::::::::::::::::::::::::::: ::::::::::::::::::::::. ... ::.                                        ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  :  ::  ::::::::::::::::::::.:: ::: ... .:.::::::::::::::::::: :::::::::::::::...: :::::::::::::::::: ::.            
+L-TALN--A---MVQNNRIELLNHPVCKEYLLMKWLA--------------------------------------------YGFRAHMMNLGSYCLGLIPMTILVVNI--KP-GM----AFNSTGIINILD-----------TTNSYLIKTCMILVFLSSIFGYCKEAGQIFQQKR-NYFMDISNVLEWIIYTTGIIFVL-PLF-VEI----------------------------------------PAHLQWQCGAIAVYFYWMNFLLYLQRFENCGIFIVMLEVILKTLLRSTVVFIFLLLAFGLSFYILL--N--LQ--DPFSSPLLSIIQTFSMMLGDINYRESFLEPYLRNELAHPVLSFAQLVSFTIFVPIVLMNLLIGLAVGDIAEVQK-HASLKRIAMQVELHTSLEKKLP----LWFLRKVD
+

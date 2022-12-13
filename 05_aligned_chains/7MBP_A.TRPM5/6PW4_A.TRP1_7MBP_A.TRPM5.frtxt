@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6PW4_A.TRP  Size= 320
+Chain 2:7MBP_A.TRP  Size= 384 (TM-score is normalized by  384)
+
+Aligned length= 277, RMSD=  3.59, TM-score=0.59776, ID=0.207
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+SEPVGYALATFDKAFLSHKFVQQIFTEKWDTMGVTDYTKSLFGVVWGGCSLVVAFAAWATICPLVVVARSFLSPVQDFMMRGKVI------------------VDSRFPWHVPLYRWLLTQCALITFTVLLSYLVFSFDPSDPVPASVAPLNTFLAVWCAAILVDEVQ-EY-------V-EEGRAEYMSSGWNVMDVTMALSYILHYILRIIAVRVTDNLNILLVVNDLLAAAALMAWFRMVSVFELSSAIGPLIQMMKQMLIKDVTRFALLVLVILLGFSVGMEALF-QE---------------------------------------------------------RVTGVIFYLIFAIVTA-ILLLNLFIAMLADTYTRVSTQAMVEFRYRKAKLMASYSRRD---------------------
+ ::::::::::::::::::::::::::::::::..::::. :::::::::....                                                 ..::...::::::::::::::::::::::::::::.....:::: :::::::::::::::.:::. :.       . ...::..:: :::::::::::::::::::::: :     :. .::::::::::::::::::::.:::::::::::::::::: ::::::::::::::::::::::::: :.                                                         :::::::::::::::: :::::::::::::::::::::.:::::::::::::::::::                     
+-TVLNIATLAEAKCFFAHDGVQALLTKVWWGAMRTDTSIS-RLVLTFFIPPLVW-------------------------------TSLIKFNPESATFIRVVLRRWNRFWSAPVTVFMGNVIMYFAFLILFSYVLLLDFRPPPPYGP-SAAEIILYFWVFTLVLEEIRQSFFTDEDMSILKKMKLYVED-NWNKCDMVAISLFVVGLSCRMA-M-----ST-YEAGRTVLALDFMVFTLRLIHIFAIHKQLGPKIIIVERMI-KDVFFFLFFLSVWLIAYGVTTQALLHPNDPRIDWVFRRALYRPYLHIFGQIPLEEIDAAKMPDDNCTTDVQEIILGTLPPCPNIYANWLVILLLVIYLLVTNVLLLNLLIAMFSYTFQVVQENADIFWKFQRYNLIVEYHSRPALAPPFIIISHITQALLSFIK
+

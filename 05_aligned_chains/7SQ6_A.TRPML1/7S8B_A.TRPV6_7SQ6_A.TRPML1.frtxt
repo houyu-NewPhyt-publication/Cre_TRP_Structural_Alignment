@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7S8B_A.TRP  Size= 323
+Chain 2:7SQ6_A.TRP  Size= 467 (TM-score is normalized by  467)
+
+Aligned length= 268, RMSD=  4.34, TM-score=0.47114, ID=0.136
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+DEQSLLELIITTKKREARQILDQTPVKELVSLKWKRYGRPYFCMLGAIYLLYIICFTMCCIYR--PL--K--PR----------------------------------------------------------------------------------------------------------------------------------------------T-NNRTS-------------PRDNTLLQQKLLQEAY---MTPKDDIRLVGELVTVIGAIIILLVEVPDIFRMGVT-RF-----------------FGQTILGGPFHVLIITYAFMVLVTMVMR-L----ISAS--GEVVPMSFALVLGWCNVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFYIIFQTEDPEELGHFYDYPMALFSTFELFLTIID-GP-AN-YNVDL----PF-MYSITYAAFAIIAT-LLMLNLLIAMMGDTHWRVAHERDELWRAQIVATTVMLERKLPR
+ ..::.:....                 ....:..:...... .::.::::::::::::::::  ::  :  ::                                                                                                                                              : :....             ..... .......      ...  :::::::::::::::::::::::.....:.  ..                 ..::. .::::::::::::::::::::: :    .:.:  ::::::::::::::::::::::.:.:::::::::::: :::::::::::::::::::::::::::::    ::::::::::::::::::::..: .: :: :::::    :: :::::::::::::: ::::::::::::::: :::: .                     
+-DLRRRLKYFF-----------------MSPCDKFRAKGRKP-CKLMLQVVKILVVTVQLILFGLSNQLVVTFREENTIAFRHLFLLGYSDGSDDTFAAYTQEQLYQAIFYAVDQYLILPEISLGRYAYVRGGGGPWANGSALALCQRYYHRGHVDPANDTFDIDPRVVTDCIQVDPPASYKNLTLKFHKLINVTIHFQLKTINLQSLINNEIPDCYTFSILITFDNKAHSGRIPIRLETK-THIQECK---HPSVSR--SFRLLFDVVVILTCSLSFLLCARSLLRGFL-LQNEFVVFMWRRRGREISLWERLEF-VNGWYILLVTSDVLTISGTVMKIGIEAKNLASYDVCSILLGTSTLLVWVGVIRYLTFFHKYNILIATLRVA-LPSVMRFCCCVAVIYLGYCFCGWIVLGPY----HVKFRSLSMVSECLFSLINGDDMFVTFAAMQAQQGHSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYD-TIKH-P---------------------
+

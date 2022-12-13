@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6BO5_A.TRP  Size= 296
+Chain 2:7SQ9_A.TRP  Size= 469 (TM-score is normalized by  469)
+
+Aligned length= 233, RMSD=  4.38, TM-score=0.40323, ID=0.130
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+EKNSVLEIIAFHCKSPNRHRMVVLEPLNKL-LQEKWDRLVSRFFFNFACYLVYMFIFTVVAYHQ--P-SLDQPA-----------------------------------------------------------------------------------------------------------------------------------------IPSSKATFG------------------------------------------ESMLLLGHILILLGGIYLLLGQLWYFWRRRL-FI--------------WISF-MD--SYFEILFLLQALLTVLSQVLR-F----ME-TE-WYLPLLVLSLVLGWLNLLYYTRGFQHTGIYSVMIQKVILRDLLRFLLVYLVFLFGFAVALVS------------DA-SLELFK-FT-IGMGE--LAF-QE---QL----R--FRGVVLLLLLAYV-LLTYVLLLNMLIALMSETVNHVADNSWSIWKLQKAISVLEMENGYWWCRRKKHR
+ ...:::..:.          .     .   ....:.... .: ..:.::::::::::::::::  : :::.                                                                                                                                           ...::.                                             .: :::::::::::::::::::::::::::. ..              .... ::  :::::::::::::::::.... .    .: :: :::::::::::::::::::::..    :::::::::::::::.::..::..:..::..::::            .: ::.::. :: .::::  ::: ::   ::    :  ::::::::::::: :::::::::::::::::::  :.                               
+-DLRRRLKYFF----------M-----S--PCDKFRAKGR-KP-CKLMLQVVKILVVTVQLILFGLSNQLVV--TFREENTIAFRHLFLLGYSDGSDDTFAAYTQEQLYQAIFYAVDQYLILPEISLGRYAYVRGGGGPWANGSALALCQRYYHRGHVDPANDTFDIDPRVVTDCIQVDPPDRASYKNLTLKFHKLINVTIHFQLKTINLQSLINNE---IPDCYTFSILITFDNKAHSGRIPIRLETKTHIQECKHPSVSRHF-RLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVVFMWRRRGREISLWERLEFVNGWYILLVTSDVLTISGTVMKIGIEAKNLASYDVCSILLGTSTLLVWVGVIRYLTF----FHKYNILIATLRVALPSVMRFCCCVAVIYLGYCFCGWIVLGPYHVKFRSLSMVSECLFSLINGDDMFVTFAAMQAQQGHSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDTIK--HP-------------------------------
+

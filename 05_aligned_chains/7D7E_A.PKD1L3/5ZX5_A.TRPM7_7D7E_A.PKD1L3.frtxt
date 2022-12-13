@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:5ZX5_A.TRP  Size= 364
+Chain 2:7D7E_A.PKD  Size= 451 (TM-score is normalized by  451)
+
+Aligned length= 219, RMSD=  4.25, TM-score=0.39768, ID=0.138
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+TCLKLAVSSRLRPFVAHTCTQMLLSDMWMGRLNMRKNSWYKVILSILVPPAILMLEYKTKAEMSHIPQSQDAITRKFYAFYHAPIVKFWFNTLAYLGFLMLYTFVVLVK-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MEQLPS------V-QEWIVIAYIFTYAIEKVREVFMKIKVWFSDYFNVSDTIAIISFFVGFGLRFGA--KW--NY----------IN-AY-DNHVFVAGRLIYCLNIIFWYVRLLDFLAVNQQAGPYVMMIGKMVA-NMFYIVVIMALVLLSFGVPRKAILYPHEEPSW--SLAKDIVFHPYWMIFGEVYAYEIDVCANDSTLPTICGPGTWLTPFLQAVYLFVQYIIMVNLLIAFFNNVYLQVKAISNIVWKYQRYHFIMAYHEKPVLPPPLIILSHIVS---
+                                                                                      :: :::::::::::::::::::.                                                                                                                                                                                                           ..::::      : :::::::::::::::::::::::..::::::::::::::::::::::::::::  ::  ..          .  .. .:::::::::::::::::::::::::::::::: ::......:.. ::::::::::::::::::::::::::...     .::::::::::::: ::.:: ::::.:        :  ..::::::::::::: ::::............                                           
+--------------------------------------------------------------------------------------GT-LVQILFLTLLMTTVYSAKDSSRFFLHRAIWKRFSHRFSEIKTVEDFYPWANGTLLPNLYGDYRGFITDGNSFLLGNVLIRQTRIPNDIFFPGSLHKQMKSPPQHQEDRENYGAGWVPPDTNITKVDSIWHYQNQESLGGYPIQGELATYSGGGYVVRLGRNHSAATRVLQHLEQRRWLDHCTKALFVEFTVFNANVNLLCAVTLILESSGVGTFLTSLQLDSLTSLQSSERGFAWIVSQVVYYLLVCYYAFIQGCRLKRQRLAFFTRKRNLLDTSIVLISFSILGLSMQSLSLLHKKMQQYHCDRDRFI-SFYEALRVNSAVTHLRGFLLLFATVRVWDLLRHHAQL-QVINKTLSKAWDEVLGFILIIVVLLSSYAMTFNLLFGWSIS---DYQSFFRSIVTVVGLL-MGTSK-HKEVIA--------L--YPILGSLLVLSSIIL-MGLVIINLFVSAILIA----------------------------------------FGK
+

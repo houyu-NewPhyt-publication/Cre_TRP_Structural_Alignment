@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7K4A_A.TRP  Size= 314
+Chain 2:7DXB_A.TRP  Size= 401 (TM-score is normalized by  401)
+
+Aligned length= 288, RMSD=  3.40, TM-score=0.62026, ID=0.118
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+DEQSLLELIITTKKREARQILDQTPVKELVSLKWK------R--------------------------------------YGRPYFCMLGAIYLLYIICFTMCCIYR---P-LKPRTNNRTSPRDNTLLQQKL--------LQEAYMTPKDDIRLVGELVTVIGAIIILLVEVPDIFRMG--VT-R-PFHVLIITYAFMVLVTMVMRLIS-------------------------------------------AS-GEVVPMSFALVLGWCNVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFYIIFQTE-DPEELGHFYDYPMALFSTFELFLTIIDGPAN-YNV-D-L--PFMYSITYAAFAIIATLLMLNLLIAMMGDTHW-RVAHERDELWRAQIVATTVMLER-KLPR-
+...::::::: : :: :::::::.::::::::::.      :                                      ::::::::::::::::::::::::...   . ..::..                       .:::..   .  .::::::::::::::::::::::::::  :: : :::::::::::::::::::::::                                           :: :::::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::: :..:::::::::::::::::: ::::::::. ... . .  ::::::::::::::: :::::::::::::... :..:::::::::::::::::::: :::. 
+ASLSRVKLAI-K-YE-VKKFVAHPNCQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGITTLPNIT---------------VTDYPKQIFRVKTT---Q--FTWTEMLIMVWVLGMMWSECKELWLEGPREYILQLWNVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVKDIF-KFMVLFIMVFFAFMIGMFILYSYYLGAKVNAAFTTVEESFKTLFWS-IFGLSEVTSVVLKYDHKFIENIGYVLYGIYNVTM-VVVLLNMLIAMINSSYQEIEDDSDVEWKFARSKLWLSYFDDGKTLP
+

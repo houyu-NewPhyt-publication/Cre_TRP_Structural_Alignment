@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6E7P_A.TRP  Size= 475
+Chain 2:6BO8_A.TRP  Size= 305 (TM-score is normalized by  305)
+
+Aligned length= 256, RMSD=  4.07, TM-score=0.65786, ID=0.156
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+EEDLRRRLKYF-F----------M-------SPCDKFRAKGRKPCKLMLQVVKILVVTVQLILFGLSNQLAVTFREENTIAFRHLFLLGYSDGADDTFAAYTREQLYQAIFHAVDQYLALPDVSLGRYAYVRGGGDPWTNGSGLALCQRYYHRGHVDPANDTFDIDPMVVTDCIQVDPPERPSSYKNLTLKFHKLVNVTIHFRLKTINLQSLINNEIPDCYTFSVLITFDNKAHSGRIPISL-ETQAHIQECKHPSVF-QHGDNSFRLLFDVVVILTCSLSFLLCARSLLRGFLLQNEFVGFMWRQRGRVISLWERLEFVNGWYILLVTSDVLTISGTIMKIGIEAKNLASYDVCSILLGTSTLLVWVGVIRYLTFFHNYNILIATLRVAL-PSVMRFCCCVAVIYLGYCFCGWIVLGPYHV---K-FRSLSMVSECLFSLI-NGDDMFVTFAAMQAQQGRSSLVWLFSQLYLYSFISLFIYMVLSLFIALITGAYDTI-KH----------------------
+  .. .::::. :          .       ....:... .......:..::::::::::::::::::  ::  :.                                                                                                                                                  ::::.. .        .... .........       .....:::::::::::::::::::: :.  :                               :::::::::::::::::::: :   . : :::: :::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::::::::   : ::::::::::::::: :.::: ::.:. .:.      :: :::::::::::::::::::::::::::::::: :.                      
+--DE-QSLLELIITTKKREARQILDQTPVKELVSLKWKR-YGRPYFCMLGAIYLLYIICFTMCCIYRP--LK--PR--------------------------------------------------------------------------------------------------------------------------------------------------TNNRTS-P--------RDNTLLQQKLLQEA------YMTPKDDIRLVGELVTVIGAIIILLV-EV--P-------------------------------PFHVLIITYAFMVLVTMVMR-L---I-S-ASGE-VVPMSFALVLGWCNVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFYIIFQTEDPEELGHFYDYPMALFSTFELFLTIIDG-PANYN-VDL------PF-MYSITYAAFAIIATLLMLNLLIAMMGDTHWRVAHERDELWRAQIVATTVMLERKLPR
+

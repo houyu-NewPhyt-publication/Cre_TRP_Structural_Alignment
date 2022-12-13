@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:5ZX5_A.TRP  Size= 364
+Chain 2:6BBJ_A.TRP  Size= 294 (TM-score is normalized by  294)
+
+Aligned length= 232, RMSD=  5.88, TM-score=0.51628, ID=0.089
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+TCLKLAV-SSRLRPFVAHTCT--QMLLSDMWMGRLNMRKNSWYKVILSILVPPAILMLEYKTKAEMSHIPQSQDAITRKFYAFYHAPIVKFWFNTLAYLGFLMLYTFVVLVKME----------QLPSVQEWIVIAYIFT--YAIE--KVREVFMKIK---VWFSDY--FNV------------SDTI---AII--SFFV--GFGLRFGAKWNYINAY--DNHVFVAG-RLIY--CLN-IIF-WYVR--LLD-FLA---VN--QQ-AGPYVMMIGKMVANMFYIVVIMALVLLSFGVPRKAILYPHEEPSWSLAKDIVFHPYWMIFGEVYAYEIDVCANDSTLPTICGPGTWLTPFLQAVYLFVQYIIMVNLLIAFFNNVYLQVK---A-ISN-IVWKYQRYHFIMAYHEKPVLPPPLIILSHIVS
+::::::: ::::..::...:.  .....::.:::                                                   ::::::::::::: ::::::::::::::.          :::...:.......    .     .            ....:.  .              .      .    ..    .                 . .....  ..    ..  ..  ..    ..  ..    .:  :. .::.::::::::..... :...:...:...:. ..   ...:::::::::::::::::: :::: .:         .  ..  ..::::::::::::::: ::::::::::::::::..   : ... ....::::::::::::::         .  ..
+SVLEILVYNSKVENRHEMLAVEPINELLRDKWQK---------------------------------------------------FGAVSFYISVVSY-LIAMIIFTLIAYYRPMDGTPPYPYRTTMDYMRLAGEIVT--LLT---GVV---------FFITNIKDLFMV--NSLFIDGSFQLLY---FIYS--VLVI--ITA---------------VLY-LVGIE-SYL--AVMV-FAL-VLG--WMNA-LYF-TRGLKLTGTYSIMLQKILFKDLFRFLL-VYLLFMIGYASALV-SL---LNPCRDSSTFSKFLLDLFKLT-IGMG-DL---------E--MI--NSAKYPAVFIILLVTYI-ILTFVLLLNMLIALMGETVGQVSKESKQIWKLQWATTILDIERSF---------P--VC
+

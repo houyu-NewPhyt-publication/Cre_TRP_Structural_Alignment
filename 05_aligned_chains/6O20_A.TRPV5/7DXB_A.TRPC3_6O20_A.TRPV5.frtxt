@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7DXB_A.TRP  Size= 401
+Chain 2:6O20_A.TRP  Size= 323 (TM-score is normalized by  323)
+
+Aligned length= 292, RMSD=  3.46, TM-score=0.75990, ID=0.110
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+ASLSRVKLAIK-YEVKKFVAHPN-CQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGITTLPNITVTDYPKQ---------------IFRVKTT---Q--FTWTEMLIMVWVLGMMWSECKELWLEGPREYIL-----QLWNVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVK-DIFKFMVLFIMVFFAFMIGMFILYSYYLGAKVNAAFTTVEESFKTLFWS-IFGLSEVTSVVLKYDHKFIENIGYVLYGIYNVTM-VVVLLNMLIAMINSSYQEIEDDSDVEWKFARSKLWLSYFDDGKTLP-
+...:..::.:: :::..::.:.: :::::::::.      :                                      .::.:::::::::::::::::::....   . ..::.                       ..:::..   .  .::::::::::::::::::::::::::::::::     ::::::::::::::::::::::::                                           :: ::::::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::::: :..:::::::::::::::::: ::::::::. ... . .  ::::::::::::::: ::::::::::::::::::. :::::::::::::::::::: :::.  
+ELSFLELVVSSKKREARQILEQTPVKELVSFKWK------K--------------------------------------YGRPYFCVLASLYILYMICFTTCCIYR---P-LKLRD--------DNRTDPRDITILQQKLLQEAYVTHQDNIRLVGELVTVTGAVIILLLEIPDIFRVGASRYFGQTILGGPFHVIIITYASLVLLTMVMRLTN-------------------------------------------MN-GEVVPLSFALVLGWCSVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFHITFQTE-DPNNLGEFSDYPTALFSTFELFLTIIDGPAN-YSV-D-L--PFMYCITYAAFAIIATLLMLNLFIAMMGDTHWRVA-QERDELWRAQVVATTVMLER-KMPR-F
+

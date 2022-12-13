@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:5IRZ_B.TRP  Size= 304
+Chain 2:6DRJ_A.TRP  Size= 397 (TM-score is normalized by  397)
+
+Aligned length= 264, RMSD=  4.67, TM-score=0.51733, ID=0.100
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+NSVLEVIAYSS-SETPNRH-DMLL-VE-PLNRLLQDKWDR---------------------------------------------------------FVKRIFYFNFFVYCLYMIIFTAAAYYRPVEGLPPYKLKNTVGDYFRVTGEILSVSGGVYFFFRGIQYFLQ-R-------RPSLKSLFVDSYSEILFFVQSLFMLVSVVLYFS-Q--R-KEYVASMVFSLAMGWTNMLYYTRGFQQMGIYAVMIEK-MILRDLCRFMFVYLVFLFGFSTAVVT-LI--E---------DGKYNSLYSTCLELFKFTIGMG-DLEFT-----------------EN-Y---------D---FK-AVFIILLLAYVILTYILLLNMLIALMGETVNKIAQESKNIWKLQRAITILDTEKS-------FL-KCMRKA-------
+  :. .:  .  . :::.. :... :: .::::::::...                                                         ::::::::::::::::::::::::::::     .::.         :::::::::::::::::::::::: :       :.:. .:.  ::::::::::::::::::::::: :  : ::::::::::::::::::::::         ::.... ......:::::::::::::::::::. ::  .         ..:.:....:..:...:  ... .....                 .. .         .   .. ....:..:::::::::::::::::::::::::::: ::::::::::::::::...       .. ..           
+--TC-LW--L-AL-EAHDKSFIAHSGVQALLTQIWCGELSVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMIDF-----QTSP---------SWRELLLYVWLTSLVCEEIRQLYHDFDGSGFRRKAKM-YIK--DLWNILDVLSIVLFIAGLICRLQASDTVFYIGKVILCIDFIIFCLRLMAIF---------SISRTLGPKIIIVRRMMLDLFFFMFLLSIWVVAYGVAKQGILIENEERLNWIIRGAVYEPYITIF--GNFPTNIDNTLFDISSCSVNASDPLKPKCPMLNADNTPVFPEWLTIMMLCVYLLFANILLLNLLIAIFNYTFQEVQDNTDT-IWKFQRYELIKEYHSRPALPPPFILLSHLIL----FIRGVFL
+

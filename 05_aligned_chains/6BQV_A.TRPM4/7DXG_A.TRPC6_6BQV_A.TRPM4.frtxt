@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7DXG_A.TRP  Size= 372
+Chain 2:6BQV_A.TRP  Size= 381 (TM-score is normalized by  381)
+
+Aligned length= 314, RMSD=  3.66, TM-score=0.67298, ID=0.159
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+LSRLKLAIKYEVKKFVAHPNCQQQLLSIWYENLSGLRQQTMAVKFLVVLAVAIGLPFLALIYWFAPC-------------SK-MGKIMRGPFMKFVAHAASFTIFLGLLVMNAADRFEGTLFRMKTSCFSWMEMLIISWVIGMIWAECKEIWTQ-------------GPKEYLFELWNMLDFGMLAIFAASFIARFMAFWHASKAQSIIDNVKYYNLARIKWDPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVKDIFKFMVIFIMVFVAFMIGMFNLYSYYIGAKQNEAFTTVEESFKTLFWAIFGLSEVKSVVI-------NY----N-------------HKFIENIGYVLYGVYNVTM-VIVLLNMLIAMINSSFQ--D-ADVEWKFARAKLWFSYFEEGRTLPVP-FN--LV---------
+: ::::::..::::::::::::::::::::: ::. :::::::::::::..                             .: ....:::::::::::::::::::::::::....      . .:::::::::::::::::::::::::::..             :::::::::::::::::::::::::::::::                           .:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::. .:::.   ...::::::::::::::::::::::::.       ..    :             :::.::::::::::::::: :::::::::::::::::  : ..::::::::::::::: :.:::::: ::  .:         
+T-CLQLAMQADARAFFAQDGVQSLLTQKWWG-DMA-STTPIWALVLAFFCP----------------PLIYTRLITFRRCLRRWFHFWGAPVTIFMGNVVSYLLFLLLFSRVLLVD------F-QPAPPGSLELLLYFWAFTLLCEELRQGLSGSGGPGPGHASLSQRLRLYLADSWNQCDLVALTCFLLGVGCRLTP---------------------------GLYHLGRTVLCIDFMVFTVRLLHIFTVNKQLGPKIVIVSKMMKDVFFFLFFLGVWLVAYGVATEGLL-RPRDS---DFPSILRRVFYRPYLQIFGQIPQEDMDVALMEHSNCSSEPGFWAHPPGAQAGTCVSQYANWLVVLLLVIFLLVANILLVNLLIAMFSYTFGKVQGNSDLYWKAQRYRLIREFH-SRPALAPPFIVISHLRLLLRQLCR
+

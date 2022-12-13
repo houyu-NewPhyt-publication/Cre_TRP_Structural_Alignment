@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6DRJ_A.TRP  Size= 397
+Chain 2:6MHO_A.TRP  Size= 286 (TM-score is normalized by  286)
+
+Aligned length= 252, RMSD=  4.24, TM-score=0.66710, ID=0.131
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+----TCLWLAL-E--AHD-KSFIAHSGVQALLTQIWCGELSVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMIDFQTSPSWREL-LLYVWLTSLVCEEIRQLYHDFDGSGFRRKAKMYI-KDLWNILDVLSIVLFIAGLICRLQASDTVFYIGKVILCIDFIIFCLRLMAIFS-----ISRTLGP-----KII-IVRRMMLDLFFFMFLLSIWVVAYGVAKQGILIENEERLNWIIRGAVYEPYITIFGNFP--TNIDNTLFDISSCSVNASDPLKPKCPMLNADNTPVFPEWLTIMMLCVYLLFANILLLNLLIAIFNYTFQEVQ-DN-T--DTIWKFQRYELIKEYHSRPALPPPFILLSHLILFIRGVFL-------
+    ::::::: :  ::: ::::::.::::::::::::                                                            :::::::::::::::::::::::::: :    ::::: ::::::::.::..:....          ..::.  .::::::::::::::::::::::: :  : :::::::::::::::::::::::     ..          ..  .:...:..:::::::::::::::::::::  :  : . ..::...::..:..::..    .: ::..                 ..         .   .: ::..:::::::::::::::::..:...:.. :: :  ::::::::::::::::::..                           
+TTDNSVLEITVYNTNIDNRHEMLTLEPLHTLLHMKWKK------------------------------------------------------------FAKHMFFLSFCFYFFYNITLTLVSYY-R----GWLQLLGRMFVLIWAMCISVKEGI----------AIFLL-SDAWFHFVFFIQAVLVILSVFLYLF-A--Y-KEYLACLVLAMALGWANMLYYTRGFQSMGM-----YSVMIQK-VILHDVLKFLFVYIVFLLGFGVALASLIEK--C--P-S-SYGSFSDAVLELFKLTIG--LGDL-NIQQ-----------------NS---------K---YP-ILFLFLLITYVILTFVLLLNMLIALMGETVENVSKESERIWRLQRARTILEFEKMLP--------------------EWLRSRF
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7T6O_A.TRP  Size= 323
+Chain 2:6WJ5_A.TRP  Size= 296 (TM-score is normalized by  296)
+
+Aligned length= 270, RMSD=  3.69, TM-score=0.73877, ID=0.148
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+ELSFLEL-VVSSKKREARQILE--QT---PVKELVSFKWKKYGRPYFCVLASLYILYMICFTTCCIYRPLKLRDDNRTDPRDITILQQKLL-Q-EA--YVTHQDNIRLVGELVTVTGAVIILLLEIPDIFRVGASRYFGQTILGGPFHVIIITYASLVLLTMVMR-LTNM-NGEVVPLSFALVLGWCSVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFHITFQTEDPNNLGEFSDYPTALFSTFELFLTIIDGPAN--YSVD---LP--F-MYCITYAAFAIIATLLMLNLFIAMMGDTHWRVAQERDELWRAQVVATTVMLE-RKM-PR---F-
+   ..   ..     ..::...  ..   .....::::::::::..:...:..::.::::::::::::..                .::.. . .:  .:::::::::::::::::::::::: ::                   ::::::::::::::::::.. :::: ::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::: : :   ::::::::::::::::::: ::::::  ::::   ::  : :::::::::::::::::::::::::::::::::::::::::::::::::... :.. .:   . 
+---LT--ALN-----AMVQNNRIELLNHPVCKEYLLMKWLAYGFRAHMMNLGSYCLGLIPMTILVVNIKP----------------GMAFNSTGIINILDTTNSYLIKTCMILVFLSSIFGYC-KE-------------------ISNVLEWIIYTTGIIFVLPLFVEIPAHLQWQCGAIAVYFYWMNFLLYLQRFENCGIFIVMLEVIL-KTLLRSTVVFIFLLLAFGLSFYILLN-L-Q---DPFSSPLLSIIQTFSMMLG-DINYRESFLEPYLRNELAHPVLSFAQLVSFTIFVPIVLMNLLIGLAVGDIADVQKHASLKRIAMQVELHTSLEKKLPLWFLRKVD
+

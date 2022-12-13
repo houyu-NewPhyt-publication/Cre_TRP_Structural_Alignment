@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7MBP_A.TRP  Size= 384
+Chain 2:5Z96_B.TRP  Size= 370 (TM-score is normalized by  370)
+
+Aligned length= 321, RMSD=  3.28, TM-score=0.73736, ID=0.250
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+--TVLNIATLAEAKCFFAHDGVQALLTKVWWGAM-R-TDTSISRLVLTFFIPPL--VWTSLIKFNPESATFIRVV-------------LRRWNRFWSAPVTVFMGNVIMYFAFLILFSYVLLLDFRPPPPYGPSAAEIILYFWVFTLVLEEIRQSFFTDEDMSILKKMKLYVEDNWNKCDMVAISLFVVGLSCRM-A---M----------STYEAGRTVLALDFMVFTLRLIHIFAIHKQLGPKIIIVERMIKDVFFFLFFLSVWLIAYGVTTQALLHPNDP-R-------------I-DWVFRRALYRPYLHIFGQIPLEEIDAAKMPDDNCTTDVQEIILGTLPPCPNIYANWLVILLLVIYLLVTNVLLLNLLIAMFSYTFQVVQENADIFWKFQRYNLIVEYHSR-PALAPPFIIISHITQALLSFIK
+  :::::::::::::::::::::::::::::::: : ::::::::::::::.    .                               .. .....:::::::::::::::::::::::::.::...:: ::::::::::::::::::::::::::  .      .::::::::::::::::::::::::::::: :   :          .::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::. .             . .:::::::::::::::::::::::..       .              :.:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::. ...::: ::  ..         
+DLARLKLAIKYRQKEFVAQPNCQQLLASRWYDEFPGWRRRHWAVKMVTCFII--GLL------------------FPVFSVCYLIAPKSP-LGLFIRKPFIKFICHTASYLTFLFLLLLASQHIDNRQG-PPPTIVEWMILPWVLGFIWGEIKQMW--D------GGLQDYIHDWWNLMDFVMNSLYLATISLKIVAFVKYSNPRESWDMWHPTLVAEALFAIANIFSSLRLISLFTANSHLGPLQISLGRMLLDILKFLFIYCLVLLAFANGLNQLYFYYEETKGLSCKGIRCEKQNNAFSTLFETLQSLFWSIFGLINLYVTNV-------K--------------AQHEFTEFVGATMFGTYNVISLVVLLNMLIAMMNNSYQLIADHADIEWKFARTKLWMSYFEEGGTLPTP-FN--VI---------
+

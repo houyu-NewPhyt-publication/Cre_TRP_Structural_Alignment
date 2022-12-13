@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7D7E_A.PKD  Size= 451
+Chain 2:5VKQ_A.NOM  Size= 386 (TM-score is normalized by  386)
+
+Aligned length= 214, RMSD=  4.46, TM-score=0.43474, ID=0.078
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+-----------------------------------------------------------------------------------------G-TLVQILFLTLLMTTVYSAKDSSRFFLHRAIWKRFSHRFSEIKTVEDFYPWANGTLLPNLYGDYRGFITDGNSFLLGNVLIRQTRIPNDIFFPGSLHKQMKSPPQHQEDRENYGAGWVPPDTNITKVDSIWHYQNQESLGGYPIQGELATYSGGGYVVRLGRNHSAATRVLQHLEQRRWLDHCTKALFVEFTVFNANVNLLCAVTLILESSGVGTFLTSLQLDSLTSLQSSERGFAWIVSQVVYYLLVCYYAFIQGCRLKRQRLAFFT--RKRNLLDTSIVLISFSILGLSMQSLSLLHKKMQQYHCDRDRFISFYEALRVNSAVTHLRGFLLLFATVRVWDLLRHHA-Q--LQVINKTLSKAWDEVLGFILIIVVLLSSYAMTFNLLFGWS---------------------ISDYQSFFRSIVTVVGLLMGTSKHK-EV------------IALYPILGSLLVLSSIIL-MGLVIINLFVS-AIL-IAFGK----------------------------------------
+                                                                                         : ::::::::::::::::::...                                                                                                                                                                                                          .::::..      .  :::::::::::::.::.::...  ....  .:.:::::::::::::::::::.. ..                   ::: :::::::::::::::::::::::::::. :  :......:.:..:::::::::::::::::::::::::::.                     ....::::::::::::::::::::: .:            .:.::::::::::::::: ::::....... ..  ..                                           
+SDSAGKILQATDKRNVEFLDVLIENEQKEVIAHTVVQRYLQELWHGSLTWASWKILLLLVAFIVCPPVWIGFTFPMGHKFNKVPIIKFMSYLTSHIYLMIHLSIVGITPIYP----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------VLRLSLV------P--YWYEVGLLIWLSGLLLFELTNP--SDKSGLGSIKVLVLLLGMAGVGVHVSAFLF-VS-------------------KEY-WPTLVYCRNQCFALAFLLACVQILDFLSFHHLFGPWAIIIGDLLKDLARFLAVLAIFVFGFSMHIVALNQSFANFSPEDLRSFEKKNRNRGYFSDVRMHPINSFELLFFAVFGQTTTEQTQVDKIKNVATPTQPYWVEYLFKIVFGIYMLVSVVVLIQLLIAMMSD-TYQ---RIQAQSDIEWKFGLSKLIRNMHRTTTAPSPLNLVTTWFMW
+

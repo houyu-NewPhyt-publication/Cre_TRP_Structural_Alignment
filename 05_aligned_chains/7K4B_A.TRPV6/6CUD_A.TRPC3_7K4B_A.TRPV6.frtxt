@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6CUD_A.TRP  Size= 396
+Chain 2:7K4B_A.TRP  Size= 313 (TM-score is normalized by  313)
+
+Aligned length= 283, RMSD=  3.29, TM-score=0.76592, ID=0.116
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+ASLSRVKLAI-K-YE-VKKFVAHPNCQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGITTLPNITVTDYPKQI----------------FRVKTT---QF--TWTEMLIMVWVLGMMWSECKELWLEGPREYILQLWNVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVKD-IFKFMVLFIMVFFAFMIGMFILYSYYLGAKVNAAFTTVEESFKTLFWS-IFGLSEVTSVVLKYDHKFIENIGYVLYGIYNVTM-VVVLLNMLIAMINSSYQEIEDDSDVEWKFARSKLWLSYFD--D-
+...::::::: : :: ::::::::::::::::::.      :                                      .::.::::::::::::::::::::...   . ..:..                         ..::..   ..  ::::::::::::::::::::::::::: :    :::::::::::::::::::::::                                           :: :::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::: :..:::::::::::::::::: ::::::::.....   .  ::::::::::::::: ::::::::::::::::::. ::::::::::::::::::::  . 
+DEQSLLELIITTKKREARQILDQTPVKELVSLKWK------R--------------------------------------YGRPYFCMLGAIYLLYIICFTMCCIYR---P-LKPRT---------NNRTSPRDNTLLQQKLLQEAYMTPKDDIRLVGELVTVIGAIIILLVEVPDIFRMGV-T----PFHVLIITYAFMVLVTMVMRLIS-------------------------------------------AS-GEVVPMSFALVLGWCNVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFYIIFQTE-DPEELGHFYDYPMALFSTFELFLTIIDGPANYNVD---L--PFMYSITYAAFAIIATLLMLNLLIAMMGDTHWRVA-HERDELWRAQIVATTVMLERKLPR
+

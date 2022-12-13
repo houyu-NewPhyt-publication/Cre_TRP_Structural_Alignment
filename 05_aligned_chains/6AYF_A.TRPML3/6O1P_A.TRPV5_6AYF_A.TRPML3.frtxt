@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6O1P_A.TRP  Size= 323
+Chain 2:6AYF_A.TRP  Size= 476 (TM-score is normalized by  476)
+
+Aligned length= 279, RMSD=  4.47, TM-score=0.47547, ID=0.144
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+E----LSFLELVVSSKKREARQILEQTPVKEL--VSFKWKKYGR-PYFCVLASLYILYMICFTTCCIYRP--LK--L---R-------------------------------------------------------------------------------------------------------------------------------DDNRTDPR--------DITILQQKLLQEA-Y--------VTHQDNIRLVGELVTVTGAVIILLLEIPDIFRVGA-S----------------RYFGQTILGGPFHVIIITYASLVLLTMVMR-LT----NMN-GE-VVPLSFALVLGWCSVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFHITFQTEDPNNLGEFSDYPTALFSTFELFLTIIDG-PANYSVDL-----PFMYCITYAAFAIIATLLMLNLFIAMMGDTHWRVAQERD-ELWR--AQV--VATTVMLERKMPRF----
+     ..:..:....        .          ...:.....  .......::::::::::::::::::  :.  :   .                                                                                                                               ::::....        ............  .        ..: .:::::::::::::::::::::::::::::. .                ....:...:: ::::::::::::::::::: :.    :.: :: ::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::::::    :::::::::::::::::::: ::: ::.:..:.     ::::::::::::::::::::::::::::::::::::::. :.    .    .                 
+-LLEDQMRRKLKFFF--------M--------NPCEKFWARGR-KPWKLAIQILKIAMVTIQLVLFGLSNQMVVAFKEENTIAFKHLFLKGYMDRMDDTYAVYTQSDVYDQLIFAVNQYLQLYNVSVGNHAYENAMAICQHFYKRGNIYPGNDTFDIDPEIETECFFVEPKLNLTLDFHRLLTVELQFKLKAINLQTVRHQELPDCYDFTLTITFDNKAHSGRIKISLDNDISIRE-CKDWHVSGSIQKN-THYMMIFDAFVILTCLVSLILCIRSVIRGLQLQQEFVNFFLLHYKKEVSVSDQMEFVNG-WYIMIIISDILTIIGSILKMEIQAKSLTSYDVCSILLGTSTMLVWLGVIRYLGFFAKYNLLILTLQAA-LPNVIRFCCCAAMIYLGYCFCGWIVLGPY----HDKFRSLNMVSECLFSLING-DDMFATFAKMQQKSYLVWLFSRIYLYSFISLFIYMILSLFIALITDTYETIKQYQQDGF--PET--ELR-------------TFIS
+

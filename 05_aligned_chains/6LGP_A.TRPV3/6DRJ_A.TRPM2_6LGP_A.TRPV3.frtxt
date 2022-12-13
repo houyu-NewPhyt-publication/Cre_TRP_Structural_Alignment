@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6DRJ_A.TRP  Size= 397
+Chain 2:6LGP_A.TRP  Size= 301 (TM-score is normalized by  301)
+
+Aligned length= 264, RMSD=  4.57, TM-score=0.65893, ID=0.120
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+-----TC-LWL-AL-EAHDKSFIAHSGVQALLTQIWCGELSVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMIDFQTSP--SWRELLLYVWLTSLVCEEIRQLYHDFDGSGFRRKAKMY---IK---DLWNILDVLSIVLFIAGLICRLQASDTVFYIGKVILCIDFIIFCLRLMAIF---------SISRTLG-PKIIIVRRMMLDLFFFMFLLSIWVVAYGVAKQGILIENEERLN-WIIRGAV-YEPYIT-IFG-NFPTNIDNTLFDISSCSVNASDPLKPKCPMLNADNTPVFPEWLTIMMLCVYLLFANILLLNLLIAIFNYTFQEVQDN-TDTIWKFQRYELIKEYHSRPALPPPFILLSHLILFIRGVFL------
+     :. .:. .. :::..........::::::::::                                                            :::::::::::::::::::::::::: ::.    .::::::::::::::.::....         . :.:..   .:   :::::::::::::::::::::::.:  :  :::::::::::::::::::::         ::.     .. ..:...:..:::::::::::::::::: ::  .......  ....::: ::.::. .:. ...:::.:.                   ..        .   .: :::::::::::::::::::::::::::::::: :::::::::::::::::::...       .  ..             
+TTDNSVLEIIVYNTNIDNRHEMLTLEPLHTLLHTKWKK------------------------------------------------------------FAKYMFFLSFCFYFFYNITLTLVSYY-RPR--LQLLGRMFVLIWATCISVKEGIAI---------F-LLRPSDLQSILSDAWFHFVFFVQAVLVILSVFLYLFAY--K--EYLACLVLAMALGWANMLYYTRGFQSMGMYSVM----IQK-VILHDVLKFLFVYILFLLGFGVALASL-IE--KCSKDKK-DCSSYGSFSDAVLELFKLTIGLGDLNIQQ-------------------NS--------T---YP-ILFLFLLITYVILTFVLLLNMLIALMGETVENVSKESERIWRLQRARTILEFEKM-------L--PE-------WLRSRF
+

@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:7T6M_A.TRP  Size= 323
+Chain 2:7DXB_A.TRP  Size= 401 (TM-score is normalized by  401)
+
+Aligned length= 292, RMSD=  3.46, TM-score=0.62459, ID=0.106
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+ELSFLELVVSSKKREARQILEQTPVKELVSFKWK------K--------------------------------------YGRPYFCVLASLYILYMICFTTCCIYR---P-LKLRDDNRTDPRDITILQQ--------KLLQEAYVTHQDNIRLVGELVTVTGAVIILLLEIPDIFRVGASRYFGQTILGGPFHVIIITYASLVLLTMVMRLTN-------------------------------------------MN-GEVVPLSFALVLGWCSVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFHITFQ-TEDPNNLGEFSDYPTALFSTFELFLTIIDGPAN-YSV-D-L--PFMYCITYAAFAIIATLLMLNLFIAMMGDTHWRVA-QERDELWRAQVVATTVMLER-KMPRF-
+...:..::.:: :: :::::::.::::::::::.      :                                      .::.:::::::::::::::::::....   . ..:...                     .: :::..      .:::::::::::::::::::::::::.::::::     ::::::::::::::::::::::::                                           :: :::::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::: :.:..:::::::::::::::::: ::::::::. ... . .  ::::::::::::::: :::::::::::::...... :::::::::::::::::::: :::.  
+ASLSRVKLAIK-YE-VKKFVAHPNCQQQLLTIWYENLSGLREQTIAIKCLVVLVVALGLPFLAIGYWIAPCSRLGKILRSPFMKFVAHAASFIIFLGLLVFNASDRFEGITTLPNIT-------------VTDYPKQIFR-VKTTQ------FTWTEMLIMVWVLGMMWSECKELWLEGPREYIL-----QLWNVLDFGMLSIFIAAFTARFLAFLQATKAQQYVDSYVQESDLSEVTLPPEIQYFTYARDKWLPSDPQIISEGLYAIAVVLSFSRIAYILPANESFGPLQISLGRTVKDIF-KFMVLFIMVFFAFMIGMFILYSYYLGAKVNAAFTTVEESFKTLFWS-IFGLSEVTSVVLKYDHKFIENIGYVLYGIYNVTM-VVVLLNMLIAMINSSYQEIEDDSDVEWKFARSKLWLSYFDDGKTL-P
+

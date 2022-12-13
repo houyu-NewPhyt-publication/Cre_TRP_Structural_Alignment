@@ -1,0 +1,20 @@
+
+ ***************************************************************
+ **                         Fr-TM-TMalign                     **
+ ** A protein structutal alignment program based on fragment  **
+ ** assembly and TM-score                                     **
+ **                                                           **
+ ** Comments and bugs email to :                              **
+ ** spandit3@mail.gatech.edu                                  **
+ ***************************************************************
+
+Chain 1:6DRJ_A.TRP  Size= 397
+Chain 2:7N0M_A.TRP  Size= 296 (TM-score is normalized by  296)
+
+Aligned length= 261, RMSD=  4.24, TM-score=0.66864, ID=0.143
+
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+---TCLWLAL--E-AHD-KSFIAHSGVQALLTQIWCGELSVDNPHWKVLLCMIFFPLIYTGFLTFRRDEDIQRQAERTQQKLLKPLNCSSRLMSFLKSPQVKFYWNIASYFGFLWLFAVVLMIDF-QTS-PSWRELLLYVWLTSLVCEEIRQLYHDFDGSGFRRKAKMYIK-----DLWNILDVLSIVLFIAGLICRLQASDTVFYIGKVILCIDFIIFCLRLMAIF---------SISR-TLGPKII-IVRRMMLDLFFFMFLLSIWVVAYGVAKQGILIENEERLNWIIRGAVYEPYIT-IFG-NFPTNIDNTLFDISSCSVNASDPLKPKCPMLNADNTPVFPEWLTIMMLCVYLLFANILLLNLLIAIFNYTFQEVQD-NTD-TI---WKFQRYELIKEYHSRPALPPPFILLSHLILFIRGVFL---
+   :::....  : ::: .:::::.::::::::::::                                                             ::::::::::::::::::::::::::: ... .::::::::::::::::::..:..          :.::...     ::::::::::::::::::::::: :  : ::::::::::::::::::::::         :..  .  ..   .. ..:..::::::::::::::::::::: ::       ...:...::..:. .:. ....::.::.                  .         .   .: ::..:::::::: :::::::::::::::::: ::: ::   :::::::::::::::.      .   : .:. .       
+EKNSVLEIIAFHCKSPNRHRMVVLEPLNKLLQEKWDR-------------------------------------------------------------LVSRFFFNFACYLVYMFIFTVVAYHQPFGESMLLLGHILILLGGIYLLLGQLWYFW----------RRRLFIWISFMDSYFEILFLLQALLTVLSQVLRFM-E--T-EWYLPLLVLSLVLGWLNLLYYTRGFQHTGIYSVM-IQ--KV--ILR-DLLRFLLVYLVFLFGFAVALVSLSRE-AR-------APYRSILDASLELFKFTIGMGELAFQEQ------------------L---------R---FR-GVVLLLLLAYVL-LTYVLLLNMLIALMSETVNHVADNSWSIWKLQKAISVLEMENGY------W---W-CRR-K----KHR
+
